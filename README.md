@@ -6,6 +6,7 @@ A list of useful or interesting Web GIS libraries and projects - feel free to ad
 ### [OpenLayers](https://openlayers.org/)
 ### [Cesium](https://cesiumjs.org/)
 ### [ESRI JS API](https://developers.arcgis.com/javascript/3/)
+### [MapBox](https://docs.mapbox.com/mapbox-gl-js/examples/)
 
 # Templates
 ### [Bootleaf](https://github.com/bmcbride/bootleaf)
