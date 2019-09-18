@@ -1,5 +1,5 @@
 # Front end GIS Resources
-List of useful or interesting Web GIS libraries and projects - feel free to add to the list
+A list of useful or interesting Web GIS libraries and projects - feel free to add to the list
 
 # Libraries
 ### [Leaflet](https://leafletjs.com/)
