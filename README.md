@@ -2,7 +2,7 @@
 A list of useful or interesting Web GIS libraries and projects - feel free to add to the list
 
 # Libraries
-- [Leaflet](https://leafletjs.com/) :star2: - The leading open-source JavaScript library for mobile-friendly interactive maps.
+- [Leaflet](https://leafletjs.com/) - The leading open-source JavaScript library for mobile-friendly interactive maps.
 - [OpenLayers](https://openlayers.org/) - A high-performance, feature-packed library for creating interactive maps on the web.
 - [Cesium.js](https://cesiumjs.org/) - An open-source JavaScript library for world-class 3D mapping of geospatial data.
 - [ArcGIS API fo JS](https://developers.arcgis.com/javascript/3/) - ESRI's javascript library
@@ -20,6 +20,7 @@ A list of useful or interesting Web GIS libraries and projects - feel free to ad
 - [Bootleaf](https://github.com/bmcbride/bootleaf) - Leaflet & Bootstrap.
 - [Bootstrap-Viewer-Template](https://github.com/jumpinjackie/bootstrap-viewer-template) - OpenLayers & Bootstrap.
 - [cesium-angular](https://github.com/Developer-Plexscape/cesium-angular-example) - cesium-angular Template (Angular 8).
+- [ngx-leaflet](https://github.com/Asymmetrik/ngx-leaflet) - Leaflet packages and templates for Angular
 
 # Applications
 - [Kepler](https://kepler.gl/demo) - A powerful open source geospatial analysis tool for large-scale data sets.
