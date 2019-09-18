@@ -32,3 +32,6 @@ A list of useful or interesting Web GIS libraries and projects - feel free to ad
 - [Radio Garden](https://radio.garden/) - 3D Globe Radio Tuner.
 - [Potree](https://github.com/potree/potree) - WebGL point cloud viewer for large datasets.
 - [Plasio](https://github.com/verma/plasio) - Drag-n-drop In-browser LAS/LAZ point cloud viewer.
+
+# Demos
+- https://deck.gl/#/examples/core-layers/hexagon-layer
