@@ -12,8 +12,9 @@ A list of useful or interesting Web GIS libraries and projects - feel free to ad
 - [CARTO VL](https://github.com/CartoDB/carto-vl) - A JavaScript library to create custom Location Intelligence applications over vector rendering.
 - [harp.gl](https://github.com/heremaps/harp.gl) - An experimental and work in progress open-source 3D map rendering engine.
 - [MapTalks.js](https://github.com/maptalks/maptalks.js) - An open-source javascript library for integrated 2D/3D maps.
-- [d3-geomap](https://d3-geomap.github.io/) - A library for creating maps based on D3.js.
 - [jvectormap](http://jvectormap.com/) - Vector-based, cross-browser and cross-platform map visualization.
+- [antvis L7](https://github.com/antvis/L7) - Large-scale WebGL-powered Geospatial Data Visualization.
+- [d3-geomap](https://d3-geomap.github.io/) - A library for creating maps based on D3.js.
 - [Eurostat.js](https://github.com/eurostat/eurostat.js/blob/master/doc/README-map.md) - Reusable library to quickly create and customise web maps showing Eurostat data using D3.js.
 
 # Plugins / Bundles
@@ -35,4 +36,6 @@ A list of useful or interesting Web GIS libraries and projects - feel free to ad
 - [Plasio](https://github.com/verma/plasio) - Drag-n-drop In-browser LAS/LAZ point cloud viewer.
 
 # Demos
-- https://deck.gl/#/examples/core-layers/hexagon-layer
+- Deck GL: https://deck.gl/#/examples/core-layers/hexagon-layer
+- antvis L7: http://antv.alipay.com/zh-cn/l7/1.x/demo/gallery/qianxi.html
+- Potree & Cesium.js: http://potree.org/potree/examples/cesium_retz.html
