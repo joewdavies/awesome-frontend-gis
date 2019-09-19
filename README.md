@@ -14,6 +14,10 @@ A list of useful or interesting Web GIS libraries and projects - feel free to ad
 - [MapTalks.js](https://github.com/maptalks/maptalks.js) - An open-source javascript library for integrated 2D/3D maps.
 - [jvectormap](http://jvectormap.com/) - Vector-based, cross-browser and cross-platform map visualization.
 - [antvis L7](https://github.com/antvis/L7) - Large-scale WebGL-powered Geospatial Data Visualization.
+- [three-geo](https://github.com/w3reality/three-geo) - Easily build satellite-textured 3D terrain models in near real-time by simply specifying GPS coordinates anywhere on the globe.
+- [Tangram](https://github.com/tangrams/tangram) - WebGL map rendering engine for creative cartography.
+- [turf.js](https://github.com/Turfjs/turf) - A modular geospatial engine written in JavaScript.
+- [d3-CartoMap](https://github.com/emeeks/d3-carto-map) - A library for creating layer-based maps using D3.
 - [d3-geomap](https://d3-geomap.github.io/) - A library for creating maps based on D3.js.
 - [Eurostat.js](https://github.com/eurostat/eurostat.js/blob/master/doc/README-map.md) - Reusable library to quickly create and customise web maps showing Eurostat data using D3.js.
 
@@ -36,6 +40,7 @@ A list of useful or interesting Web GIS libraries and projects - feel free to ad
 - [Plasio](https://github.com/verma/plasio) - Drag-n-drop In-browser LAS/LAZ point cloud viewer.
 
 # Demos
-- Deck GL: https://deck.gl/#/examples/core-layers/hexagon-layer
-- antvis L7: http://antv.alipay.com/zh-cn/l7/1.x/demo/gallery/qianxi.html
-- Potree & Cesium.js: http://potree.org/potree/examples/cesium_retz.html
+- [Deck GL](https://deck.gl/#/examples/core-layers/hexagon-layer) - Hexagon layer.
+- [antvis L7](http://antv.alipay.com/zh-cn/l7/1.x/demo/gallery/qianxi.html) - German migration visualization.
+- [Potree & Cesium.js](http://potree.org/potree/examples/cesium_retz.html) - Rezt, Austria LIDAR viewer
+- [Tangram](http://tangrams.github.io/gui-demo/#12.25/40.7128/-73.9693) - Customize vector tile colours in real time.
