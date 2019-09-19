@@ -30,7 +30,7 @@ A list of useful or interesting Web GIS libraries and projects - feel free to ad
 - [Proj4js](https://github.com/proj4js/proj4js) - Transform coordinates from one coordinate system to another, including datum transformations.
 - [GeoTiff.js](https://github.com/geotiffjs/geotiff.js) - Parse TIFF files for visualization or analysis.
 - [Arc.js](https://github.com/springmeyer/arc.js) - Calculate great circles routes as lines in GeoJSON or WKT format.
-- [CSVtoGeoJSON](http://mapbox.github.io/csv2geojson/) - Converts CSV and TSV files into GeoJSON data suitable for maps.
+- [awesome-GeoJSON](https://github.com/tmcw/awesome-geojson) - Catalogue of GeoJSON tools
 
 # Plugins / Bundles
 - [Migration Layer](https://github.com/lit-forest/leaflet.migrationLayer) - Migration arc visualization for Leaflet.
