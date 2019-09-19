@@ -8,9 +8,7 @@ A list of useful or interesting Web GIS libraries and projects - feel free to ad
 - [ArcGIS API for JS v3](https://developers.arcgis.com/javascript/3/) - A lightweight way to embed maps and tasks in web applications.
 - [Mapbox GL JS](https://docs.mapbox.com/mapbox-gl-js/examples/) - JavaScript library that uses WebGL to render interactive maps from vector tiles.
 - [D3.js](https://github.com/d3/d3/wiki/Gallery) - Data visualization library.
-- [Deck.GL](https://github.com/uber/deck.gl) - WebGL2 powered geospatial visualization layers.
 - [CARTO VL](https://github.com/CartoDB/carto-vl) - A JavaScript library to create custom Location Intelligence applications over vector rendering.
-- [harp.gl](https://github.com/heremaps/harp.gl) - An experimental and work in progress open-source 3D map rendering engine.
 - [MapTalks.js](https://github.com/maptalks/maptalks.js) - An open-source javascript library for integrated 2D/3D maps.
 - [jvectormap](http://jvectormap.com/) - Vector-based, cross-browser and cross-platform map visualization.
 - [antvis L7](https://github.com/antvis/L7) - Large-scale WebGL-powered Geospatial Data Visualization.
@@ -25,6 +23,9 @@ A list of useful or interesting Web GIS libraries and projects - feel free to ad
 - [iTowns](https://github.com/iTowns/itowns) - A Three.js-based framework written in Javascript/WebGL for visualizing 3D geospatial data
 - [three-geo](https://github.com/w3reality/three-geo) - Easily build satellite-textured 3D terrain models in near real-time by simply specifying GPS coordinates anywhere on the globe.
 - [ArcGIS API for JS v4](https://developers.arcgis.com/javascript/4/) - A lightweight way to embed maps and tasks in web applications.
+- [Wrld.js](https://github.com/wrld3d/wrld.js/) - Animated 3D city maps based on Leaflet.
+- [Deck.GL](https://github.com/uber/deck.gl) - WebGL2 powered geospatial visualization layers.
+- [harp.gl](https://github.com/heremaps/harp.gl) - An experimental and work in progress open-source 3D map rendering engine.
 
 # Tools
 - [Proj4js](https://github.com/proj4js/proj4js) - Transform coordinates from one coordinate system to another, including datum transformations.
