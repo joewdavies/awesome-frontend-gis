@@ -11,8 +11,9 @@ A list of useful or interesting Web GIS libraries and projects - feel free to ad
 - [Deck.GL](https://github.com/uber/deck.gl) - WebGL2 powered geospatial visualization layers.
 - [CARTO VL](https://github.com/CartoDB/carto-vl) - A JavaScript library to create custom Location Intelligence applications over vector rendering.
 - [harp.gl](https://github.com/heremaps/harp.gl) - An experimental and work in progress open-source 3D map rendering engine.
-
-
+- [MapTalks.js](https://github.com/maptalks/maptalks.js) - An open-source javascript library for integrated 2D/3D maps.
+- [d3-geomap](https://d3-geomap.github.io/) - A library for creating maps based on D3.js.
+- [jvectormap](http://jvectormap.com/) - Vector-based, cross-browser and cross-platform map visualization.
 - [Eurostat.js](https://github.com/eurostat/eurostat.js/blob/master/doc/README-map.md) - Reusable library to quickly create and customise web maps showing Eurostat data using D3.js.
 
 # Plugins / Bundles
