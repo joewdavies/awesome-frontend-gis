@@ -32,6 +32,7 @@ A list of useful or interesting Web GIS libraries and projects - feel free to ad
 - [GeoTiff.js](https://github.com/geotiffjs/geotiff.js) - Parse TIFF files for visualization or analysis.
 - [Arc.js](https://github.com/springmeyer/arc.js) - Calculate great circles routes as lines in GeoJSON or WKT format.
 - [awesome-GeoJSON](https://github.com/tmcw/awesome-geojson) - Catalogue of GeoJSON tools
+- [VectorTile Style Editor](https://github.com/Esri/arcgis-vectortile-style-editor) - A simple Vector Tile Style Editor to update the styles of Esri Vector Basemaps.
 
 # Plugins / Bundles
 - [Migration Layer](https://github.com/lit-forest/leaflet.migrationLayer) - Migration arc visualization for Leaflet.
