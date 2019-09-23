@@ -22,7 +22,7 @@ A list of useful or interesting Web GIS libraries and projects - feel free to ad
 - [Cesium.js](https://cesiumjs.org/) - An open-source JavaScript library for world-class 3D mapping of geospatial data.
 - [iTowns](https://github.com/iTowns/itowns) - A Three.js-based framework written in Javascript/WebGL for visualizing 3D geospatial data
 - [three-geo](https://github.com/w3reality/three-geo) - Easily build satellite-textured 3D terrain models in near real-time by simply specifying GPS coordinates anywhere on the globe.
-- [ArcGIS API for JS v4](https://developers.arcgis.com/javascript/4/) - A lightweight way to embed maps and tasks in web applications.
+- [ArcGIS API for JS v4](https://developers.arcgis.com/javascript/) - A lightweight way to embed maps and tasks in web applications.
 - [Wrld.js](https://github.com/wrld3d/wrld.js/) - Animated 3D city maps based on Leaflet.
 - [Deck.GL](https://github.com/uber/deck.gl) - WebGL2 powered geospatial visualization layers.
 - [harp.gl](https://github.com/heremaps/harp.gl) - An experimental and work in progress open-source 3D map rendering engine.
