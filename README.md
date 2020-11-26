@@ -17,7 +17,7 @@ A list of useful or interesting Web GIS libraries and projects - feel free to ad
 - [d3-CartoMap](https://github.com/emeeks/d3-carto-map) - A library for creating layer-based maps using D3.
 - [d3-geomap](https://d3-geomap.github.io/) - A library for creating maps based on D3.js.
 - [Eurostat.js](https://github.com/eurostat/eurostat.js/blob/master/doc/README-map.md) - Reusable library to quickly create and customise web maps showing Eurostat data using D3.js.
-- [GridViz](https://github.com/eurostat/gridviz) - A Three.js-based library for visualizing gridded statistics datasets as CSV files. 
+- [gridviz](https://github.com/eurostat/gridviz) - A Three.js-based library for visualizing gridded statistics datasets as CSV files. 
 
 ## 3D
 - [Cesium.js](https://cesiumjs.org/) - An open-source JavaScript library for world-class 3D mapping of geospatial data.
@@ -28,7 +28,15 @@ A list of useful or interesting Web GIS libraries and projects - feel free to ad
 - [Deck.GL](https://github.com/uber/deck.gl) - WebGL2 powered geospatial visualization layers.
 - [harp.gl](https://github.com/heremaps/harp.gl) - An experimental and work in progress open-source 3D map rendering engine.
 
+# Data
+- [free GIS data](https://freegisdata.rtwilson.com/)
+- [WRI](https://www.wri.org/)
+
 # Tools
+- [observableHQ](https://observablehq.com/@joewdavies)
+- [data wrapper](https://www.datawrapper.de/)
+
+# Geoprocessing
 - [Proj4js](https://github.com/proj4js/proj4js) - Transform coordinates from one coordinate system to another, including datum transformations.
 - [GeoTiff.js](https://github.com/geotiffjs/geotiff.js) - Parse TIFF files for visualization or analysis.
 - [Arc.js](https://github.com/springmeyer/arc.js) - Calculate great circles routes as lines in GeoJSON or WKT format.
