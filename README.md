@@ -20,6 +20,7 @@ A list of useful or interesting Web GIS libraries and projects - feel free to ad
 - [gridviz](https://github.com/eurostat/gridviz) - A Three.js-based library for visualizing gridded statistics datasets as CSV files. 
 
 ## 3D
+- [Procedural GL JS](https://github.com/felixpalmer/procedural-gl-js) - Procedural GL JS is a library built on top THREE.js for creating 3D maps on the web.
 - [Cesium.js](https://cesiumjs.org/) - An open-source JavaScript library for world-class 3D mapping of geospatial data.
 - [iTowns](https://github.com/iTowns/itowns) - A Three.js-based framework written in Javascript/WebGL for visualizing 3D geospatial data
 - [three-geo](https://github.com/w3reality/three-geo) - Easily build satellite-textured 3D terrain models in near real-time by simply specifying GPS coordinates anywhere on the globe.
