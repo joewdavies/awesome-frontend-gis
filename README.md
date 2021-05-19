@@ -16,7 +16,7 @@ A list of useful or interesting web GIS libraries and projects - feel free to ad
 - [turf.js](https://github.com/Turfjs/turf) - A modular geospatial engine written in JavaScript.
 - [d3-CartoMap](https://github.com/emeeks/d3-carto-map) - A library for creating layer-based maps using D3.
 - [d3-geomap](https://d3-geomap.github.io/) - A library for creating maps based on D3.js.
-- [Eurostat.js](https://github.com/eurostat/eurostat.js/blob/master/doc/README-map.md) - Reusable library to quickly create and customise web maps showing Eurostat data using D3.js.
+- [Eurostat-map](https://github.com/eurostat/eurostat-map.js) - Reusable library to quickly create and customise web maps showing Eurostat data using D3.js.
 - [gridviz](https://github.com/eurostat/gridviz) - A Three.js-based library for visualizing gridded statistics datasets as CSV files. 
 
 ## 3D
