@@ -34,9 +34,13 @@ A list of useful or interesting web GIS libraries and projects - feel free to ad
 - [free GIS data](https://freegisdata.rtwilson.com/)
 - [WRI](https://www.wri.org/)
 
-# Tools
+# DataViz Tools
 - [observableHQ](https://observablehq.com/@joewdavies)
 - [data wrapper](https://www.datawrapper.de/)
+- [Kepler](https://kepler.gl/demo) - A powerful open source geospatial analysis tool for large-scale data sets.
+- [Radio Garden](https://radio.garden/) - 3D Globe Radio Tuner.
+- [Potree](https://github.com/potree/potree) - WebGL point cloud viewer for large datasets.
+- [Plasio](https://github.com/verma/plasio) - Drag-n-drop In-browser LAS/LAZ point cloud viewer.
 
 # Geoprocessing
 - [Proj4js](https://github.com/proj4js/proj4js) - Transform coordinates from one coordinate system to another, including datum transformations.
@@ -58,12 +62,6 @@ A list of useful or interesting web GIS libraries and projects - feel free to ad
 - [Bootstrap-Viewer-Template](https://github.com/jumpinjackie/bootstrap-viewer-template) - OpenLayers & Bootstrap.
 - [cesium-angular](https://github.com/Developer-Plexscape/cesium-angular-example) - cesium-angular Template (Angular 8).
 - [ngx-leaflet](https://github.com/Asymmetrik/ngx-leaflet) - Leaflet packages and templates for Angular.
-
-# Applications
-- [Kepler](https://kepler.gl/demo) - A powerful open source geospatial analysis tool for large-scale data sets.
-- [Radio Garden](https://radio.garden/) - 3D Globe Radio Tuner.
-- [Potree](https://github.com/potree/potree) - WebGL point cloud viewer for large datasets.
-- [Plasio](https://github.com/verma/plasio) - Drag-n-drop In-browser LAS/LAZ point cloud viewer.
 
 # Demos
 - [Deck GL](https://deck.gl/#/examples/core-layers/hexagon-layer) - Hexagon layer.
