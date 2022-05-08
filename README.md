@@ -12,7 +12,7 @@ A list of useful or interesting web GIS libraries and projects - feel free to ad
 ### 2D
 - [Leaflet](https://leafletjs.com/) - The leading open-source JavaScript library for mobile-friendly interactive maps.
 - [OpenLayers](https://openlayers.org/) - A high-performance, feature-packed library for creating interactive maps on the web.
-- [ArcGIS API for JS v3](https://developers.arcgis.com/javascript/3/) - A lightweight way to embed maps and tasks in web applications.
+- [ArcGIS API for JS](https://developers.arcgis.com/javascript/latest/release-notes/) - A lightweight way to embed maps and tasks in web applications.
 - [Mapbox GL JS](https://docs.mapbox.com/mapbox-gl-js/examples/) - JavaScript library that uses WebGL to render interactive maps from vector tiles.
 - [D3.js](https://github.com/d3/d3/wiki/Gallery) - Data visualization library.
 - [CARTO VL](https://github.com/CartoDB/carto-vl) - A JavaScript library to create custom Location Intelligence applications over vector rendering.
