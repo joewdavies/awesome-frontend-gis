@@ -1,7 +1,14 @@
 # Front end GIS Resources
 A list of useful or interesting web GIS libraries and projects - feel free to add to the list
 
-# Libraries
+# Data Sources
+- [https://www.naturalearthdata.com/](https://www.naturalearthdata.com/) Free vector and raster map data at 1:10m, 1:50m, and 1:110m scales
+- [Copernicus global DEM](https://ec.europa.eu/eurostat/web/gisco/geodata/reference-data/elevation/copernicus-dem/elevation) - Global DEM tiles
+- [Free GIS data](https://freegisdata.rtwilson.com/) - Links to over 500 sites providing freely available geographic datasets
+- [HydroSHEDS](https://www.hydrosheds.org/) - Hydrographic information in a consistent and comprehensive format for regional and global-scale applications
+- [WRI](https://www.wri.org/data) World resources institute
+
+# JavaScript Libraries
 ## 2D
 - [Leaflet](https://leafletjs.com/) - The leading open-source JavaScript library for mobile-friendly interactive maps.
 - [OpenLayers](https://openlayers.org/) - A high-performance, feature-packed library for creating interactive maps on the web.
@@ -30,9 +37,7 @@ A list of useful or interesting web GIS libraries and projects - feel free to ad
 - [Deck.GL](https://github.com/uber/deck.gl) - WebGL2 powered geospatial visualization layers.
 - [harp.gl](https://github.com/heremaps/harp.gl) - An experimental and work in progress open-source 3D map rendering engine.
 
-# Data
-- [free GIS data](https://freegisdata.rtwilson.com/)
-- [WRI](https://www.wri.org/)
+
 
 # DataViz Tools
 - [observableHQ](https://observablehq.com/@joewdavies)
