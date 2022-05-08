@@ -4,6 +4,7 @@ A list of useful or interesting web GIS data sources, libraries and projects - f
 ## Data sources
 - [Natural Earth](https://www.naturalearthdata.com/) Free vector and raster map data at 1:10m, 1:50m, and 1:110m scales
 - [Copernicus global DEM](https://ec.europa.eu/eurostat/web/gisco/geodata/reference-data/elevation/copernicus-dem/elevation) - Global DEM tiles
+- [ETOPO1](https://www.ngdc.noaa.gov/mgg/global/) - 1 arc-minute global relief model of Earth's surface that integrates land topography and ocean bathymetry.
 - [Free GIS data](https://freegisdata.rtwilson.com/) - Links to over 500 sites providing freely available geographic datasets
 - [HydroSHEDS](https://www.hydrosheds.org/) - Hydrographic information in a consistent and comprehensive format for regional and global-scale applications
 - [WRI](https://www.wri.org/data) - World resources institute
