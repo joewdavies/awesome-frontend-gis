@@ -1,14 +1,14 @@
-# Front end GIS Resources
+# Frontend GIS resources
 A list of useful or interesting web GIS libraries and projects - feel free to add to the list
 
-## Data Sources
+## Data sources
 - [Natural Earth](https://www.naturalearthdata.com/) Free vector and raster map data at 1:10m, 1:50m, and 1:110m scales
 - [Copernicus global DEM](https://ec.europa.eu/eurostat/web/gisco/geodata/reference-data/elevation/copernicus-dem/elevation) - Global DEM tiles
 - [Free GIS data](https://freegisdata.rtwilson.com/) - Links to over 500 sites providing freely available geographic datasets
 - [HydroSHEDS](https://www.hydrosheds.org/) - Hydrographic information in a consistent and comprehensive format for regional and global-scale applications
 - [WRI](https://www.wri.org/data) - World resources institute
 
-## JavaScript Libraries
+## JavaScript libraries
 ### 2D
 - [Leaflet](https://leafletjs.com/) - The leading open-source JavaScript library for mobile-friendly interactive maps.
 - [OpenLayers](https://openlayers.org/) - A high-performance, feature-packed library for creating interactive maps on the web.
@@ -36,7 +36,7 @@ A list of useful or interesting web GIS libraries and projects - feel free to ad
 
 
 
-## DataViz Tools
+## Data Visualization tools
 - [observableHQ](https://observablehq.com/@joewdavies) - Live coding data visualization development platform
 - [data wrapper](https://www.datawrapper.de/) - Easy to use data visualization tool. Step by step visualization generator.
 - [Kepler](https://kepler.gl/demo) - A powerful open source geospatial analysis tool for large-scale data sets.
@@ -52,14 +52,14 @@ A list of useful or interesting web GIS libraries and projects - feel free to ad
 - [VectorTile Style Editor](https://github.com/Esri/arcgis-vectortile-style-editor) - A simple Vector Tile Style Editor to update the styles of Esri Vector Basemaps.
 - [topoJSON](https://github.com/topojson/topojson) - convert GeoJSON to TopoJSON for use in D3 maps.
 
-## Plugins / Bundles
+## Plugins
 - [Migration Layer](https://github.com/lit-forest/leaflet.migrationLayer) - Migration arc visualization for Leaflet.
 - [Cluster Layer JS](https://github.com/Esri/cluster-layer-js) - Cluster layers for ESRI's JS library.
 - [Query Builder Bundle](https://github.com/conterra/mapapps-query-builder) - Query builder for ESRI's JS API.
 - [Leaflet Visualization Plugins](https://leafletjs.com/plugins.html#dataviz) - Powerful multi-purpose libraries for data visualization in Leaflet.
 - [supercluster](https://github.com/mapbox/supercluster) - A very fast JavaScript library for geospatial point clustering for browsers and Node.
 
-## GUI Templates
+## GUI templates
 - [Bootleaf](https://github.com/bmcbride/bootleaf) - Leaflet & Bootstrap.
 - [Bootstrap-Viewer-Template](https://github.com/jumpinjackie/bootstrap-viewer-template) - OpenLayers & Bootstrap.
 - [cesium-angular](https://github.com/Developer-Plexscape/cesium-angular-example) - cesium-angular Template (Angular 8).
