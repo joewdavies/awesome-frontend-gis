@@ -37,8 +37,8 @@ A list of useful or interesting web GIS libraries and projects - feel free to ad
 
 
 ## DataViz Tools
-- [observableHQ](https://observablehq.com/@joewdavies)
-- [data wrapper](https://www.datawrapper.de/)
+- [observableHQ](https://observablehq.com/@joewdavies) - Live coding data visualization development platform
+- [data wrapper](https://www.datawrapper.de/) - Easy to use data visualization tool. Step by step visualization generator.
 - [Kepler](https://kepler.gl/demo) - A powerful open source geospatial analysis tool for large-scale data sets.
 - [Radio Garden](https://radio.garden/) - 3D Globe Radio Tuner.
 - [Potree](https://github.com/potree/potree) - WebGL point cloud viewer for large datasets.
