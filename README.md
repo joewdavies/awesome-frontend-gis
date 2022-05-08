@@ -1,15 +1,15 @@
 # Front end GIS Resources
 A list of useful or interesting web GIS libraries and projects - feel free to add to the list
 
-# Data Sources
-- [https://www.naturalearthdata.com/](https://www.naturalearthdata.com/) Free vector and raster map data at 1:10m, 1:50m, and 1:110m scales
+## Data Sources
+- [Natural Earth](https://www.naturalearthdata.com/) Free vector and raster map data at 1:10m, 1:50m, and 1:110m scales
 - [Copernicus global DEM](https://ec.europa.eu/eurostat/web/gisco/geodata/reference-data/elevation/copernicus-dem/elevation) - Global DEM tiles
 - [Free GIS data](https://freegisdata.rtwilson.com/) - Links to over 500 sites providing freely available geographic datasets
 - [HydroSHEDS](https://www.hydrosheds.org/) - Hydrographic information in a consistent and comprehensive format for regional and global-scale applications
-- [WRI](https://www.wri.org/data) World resources institute
+- [WRI](https://www.wri.org/data) - World resources institute
 
-# JavaScript Libraries
-## 2D
+## JavaScript Libraries
+### 2D
 - [Leaflet](https://leafletjs.com/) - The leading open-source JavaScript library for mobile-friendly interactive maps.
 - [OpenLayers](https://openlayers.org/) - A high-performance, feature-packed library for creating interactive maps on the web.
 - [ArcGIS API for JS v3](https://developers.arcgis.com/javascript/3/) - A lightweight way to embed maps and tasks in web applications.
@@ -26,7 +26,7 @@ A list of useful or interesting web GIS libraries and projects - feel free to ad
 - [Eurostat-map](https://github.com/eurostat/eurostat-map.js) - Reusable library to quickly create and customise web maps showing Eurostat data using D3.js.
 - [gridviz](https://github.com/eurostat/gridviz) - A Three.js-based library for visualizing gridded statistics datasets as CSV files. 
 
-## 3D
+### 3D
 - [Procedural GL JS](https://github.com/felixpalmer/procedural-gl-js) - Procedural GL JS is a library built on top THREE.js for creating 3D maps on the web.
 - [Cesium.js](https://cesiumjs.org/) - An open-source JavaScript library for world-class 3D mapping of geospatial data.
 - [iTowns](https://github.com/iTowns/itowns) - A Three.js-based framework written in Javascript/WebGL for visualizing 3D geospatial data
@@ -39,7 +39,7 @@ A list of useful or interesting web GIS libraries and projects - feel free to ad
 
 
 
-# DataViz Tools
+## DataViz Tools
 - [observableHQ](https://observablehq.com/@joewdavies)
 - [data wrapper](https://www.datawrapper.de/)
 - [Kepler](https://kepler.gl/demo) - A powerful open source geospatial analysis tool for large-scale data sets.
@@ -47,7 +47,7 @@ A list of useful or interesting web GIS libraries and projects - feel free to ad
 - [Potree](https://github.com/potree/potree) - WebGL point cloud viewer for large datasets.
 - [Plasio](https://github.com/verma/plasio) - Drag-n-drop In-browser LAS/LAZ point cloud viewer.
 
-# Geoprocessing
+## Data processing / analysis
 - [Proj4js](https://github.com/proj4js/proj4js) - Transform coordinates from one coordinate system to another, including datum transformations.
 - [GeoTiff.js](https://github.com/geotiffjs/geotiff.js) - Parse TIFF files for visualization or analysis.
 - [Arc.js](https://github.com/springmeyer/arc.js) - Calculate great circles routes as lines in GeoJSON or WKT format.
@@ -55,20 +55,20 @@ A list of useful or interesting web GIS libraries and projects - feel free to ad
 - [VectorTile Style Editor](https://github.com/Esri/arcgis-vectortile-style-editor) - A simple Vector Tile Style Editor to update the styles of Esri Vector Basemaps.
 - [topoJSON](https://github.com/topojson/topojson) - convert GeoJSON to TopoJSON for use in D3 maps.
 
-# Plugins / Bundles
+## Plugins / Bundles
 - [Migration Layer](https://github.com/lit-forest/leaflet.migrationLayer) - Migration arc visualization for Leaflet.
 - [Cluster Layer JS](https://github.com/Esri/cluster-layer-js) - Cluster layers for ESRI's JS library.
 - [Query Builder Bundle](https://github.com/conterra/mapapps-query-builder) - Query builder for ESRI's JS API.
 - [Leaflet Visualization Plugins](https://leafletjs.com/plugins.html#dataviz) - Powerful multi-purpose libraries for data visualization in Leaflet.
 - [supercluster](https://github.com/mapbox/supercluster) - A very fast JavaScript library for geospatial point clustering for browsers and Node.
 
-# Templates
+## GUI Templates
 - [Bootleaf](https://github.com/bmcbride/bootleaf) - Leaflet & Bootstrap.
 - [Bootstrap-Viewer-Template](https://github.com/jumpinjackie/bootstrap-viewer-template) - OpenLayers & Bootstrap.
 - [cesium-angular](https://github.com/Developer-Plexscape/cesium-angular-example) - cesium-angular Template (Angular 8).
 - [ngx-leaflet](https://github.com/Asymmetrik/ngx-leaflet) - Leaflet packages and templates for Angular.
 
-# Demos
+## Demos
 - [Deck GL](https://deck.gl/#/examples/core-layers/hexagon-layer) - Hexagon layer.
 - [antvis L7](http://antv.alipay.com/zh-cn/l7/1.x/demo/gallery/qianxi.html) - German migration visualization.
 - [Potree & Cesium.js](http://potree.org/potree/examples/cesium_retz.html) - Rezt, Austria LIDAR viewer.
