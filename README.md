@@ -2,12 +2,12 @@
 A list of useful or interesting web GIS data sources, libraries and projects - feel free to add to the list
 
 ## Data sources
-- [Natural Earth](https://www.naturalearthdata.com/) Free vector and raster map data at 1:10m, 1:50m, and 1:110m scales
-- [Copernicus global DEM](https://ec.europa.eu/eurostat/web/gisco/geodata/reference-data/elevation/copernicus-dem/elevation) - Global DEM tiles
+- [Natural Earth](https://www.naturalearthdata.com/) Free vector and raster map data at 1:10m, 1:50m, and 1:110m scales.
+- [Copernicus global DEM](https://ec.europa.eu/eurostat/web/gisco/geodata/reference-data/elevation/copernicus-dem/elevation) - Global DEM tiles.
 - [ETOPO1](https://www.ngdc.noaa.gov/mgg/global/) - 1 arc-minute global relief model of Earth's surface that integrates land topography and ocean bathymetry.
-- [Free GIS data](https://freegisdata.rtwilson.com/) - Links to over 500 sites providing freely available geographic datasets
-- [HydroSHEDS](https://www.hydrosheds.org/) - Hydrographic information in a consistent and comprehensive format for regional and global-scale applications
-- [WRI](https://www.wri.org/data) - World resources institute
+- [Free GIS data](https://freegisdata.rtwilson.com/) - Links to over 500 sites providing freely available geographic datasets.
+- [HydroSHEDS](https://www.hydrosheds.org/) - Hydrographic information in a consistent and comprehensive format for regional and global-scale applications.
+- [WRI](https://www.wri.org/data) - World resources institute.
 
 ## JavaScript libraries
 ### 2D
@@ -28,7 +28,7 @@ A list of useful or interesting web GIS data sources, libraries and projects - f
 - [Three.js](https://github.com/mrdoob/three.js) - Easy to use, lightweight, cross-browser, general purpose 3D library.
 - [Procedural GL JS](https://github.com/felixpalmer/procedural-gl-js) - Procedural GL JS is a library built on top THREE.js for creating 3D maps on the web.
 - [Cesium.js](https://cesiumjs.org/) - An open-source JavaScript library for world-class 3D mapping of geospatial data.
-- [iTowns](https://github.com/iTowns/itowns) - A Three.js-based framework written in Javascript/WebGL for visualizing 3D geospatial data
+- [iTowns](https://github.com/iTowns/itowns) - A Three.js-based framework written in Javascript/WebGL for visualizing 3D geospatial data.
 - [globe.gl](https://globe.gl/) - This library is a convenience wrapper around the three-globe plugin, and uses ThreeJS/WebGL for 3D rendering.
 - [ArcGIS API for JS v4](https://developers.arcgis.com/javascript/) - A lightweight way to embed maps and tasks in web applications.
 - [Wrld.js](https://github.com/wrld3d/wrld.js/) - Animated 3D city maps based on Leaflet.
@@ -38,7 +38,7 @@ A list of useful or interesting web GIS data sources, libraries and projects - f
 
 
 ## Data Visualization tools
-- [observableHQ](https://observablehq.com/@joewdavies) - Live coding data visualization development platform
+- [observableHQ](https://observablehq.com/@joewdavies) - Live coding data visualization development platform.
 - [data wrapper](https://www.datawrapper.de/) - Easy to use data visualization tool. Step by step visualization generator.
 - [Kepler](https://kepler.gl/demo) - A powerful open source geospatial analysis tool for large-scale data sets.
 - [Radio Garden](https://radio.garden/) - 3D Globe Radio Tuner.
@@ -49,7 +49,7 @@ A list of useful or interesting web GIS data sources, libraries and projects - f
 - [Proj4js](https://github.com/proj4js/proj4js) - Transform coordinates from one coordinate system to another, including datum transformations.
 - [GeoTiff.js](https://github.com/geotiffjs/geotiff.js) - Parse TIFF files for visualization or analysis.
 - [Arc.js](https://github.com/springmeyer/arc.js) - Calculate great circles routes as lines in GeoJSON or WKT format.
-- [awesome-GeoJSON](https://github.com/tmcw/awesome-geojson) - Catalogue of GeoJSON tools
+- [awesome-GeoJSON](https://github.com/tmcw/awesome-geojson) - Catalogue of GeoJSON tools.
 - [VectorTile Style Editor](https://github.com/Esri/arcgis-vectortile-style-editor) - A simple Vector Tile Style Editor to update the styles of Esri Vector Basemaps.
 - [topoJSON](https://github.com/topojson/topojson) - convert GeoJSON to TopoJSON for use in D3 maps.
 
