@@ -15,7 +15,6 @@ A list of useful or interesting web GIS libraries and projects - feel free to ad
 - [ArcGIS API for JS](https://developers.arcgis.com/javascript/latest/release-notes/) - A lightweight way to embed maps and tasks in web applications.
 - [Mapbox GL JS](https://docs.mapbox.com/mapbox-gl-js/examples/) - JavaScript library that uses WebGL to render interactive maps from vector tiles.
 - [D3.js](https://github.com/d3/d3/wiki/Gallery) - Data visualization library.
-- [CARTO VL](https://github.com/CartoDB/carto-vl) - A JavaScript library to create custom Location Intelligence applications over vector rendering.
 - [MapTalks.js](https://github.com/maptalks/maptalks.js) - An open-source javascript library for integrated 2D/3D maps.
 - [antvis L7](https://github.com/antvis/L7) - Large-scale WebGL-powered Geospatial Data Visualization.
 - [Tangram](https://github.com/tangrams/tangram) - WebGL map rendering engine for creative cartography.
