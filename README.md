@@ -17,12 +17,10 @@ A list of useful or interesting web GIS libraries and projects - feel free to ad
 - [D3.js](https://github.com/d3/d3/wiki/Gallery) - Data visualization library.
 - [CARTO VL](https://github.com/CartoDB/carto-vl) - A JavaScript library to create custom Location Intelligence applications over vector rendering.
 - [MapTalks.js](https://github.com/maptalks/maptalks.js) - An open-source javascript library for integrated 2D/3D maps.
-- [jvectormap](http://jvectormap.com/) - Vector-based, cross-browser and cross-platform map visualization.
 - [antvis L7](https://github.com/antvis/L7) - Large-scale WebGL-powered Geospatial Data Visualization.
 - [Tangram](https://github.com/tangrams/tangram) - WebGL map rendering engine for creative cartography.
 - [turf.js](https://github.com/Turfjs/turf) - A modular geospatial engine written in JavaScript.
-- [d3-CartoMap](https://github.com/emeeks/d3-carto-map) - A library for creating layer-based maps using D3.
-- [d3-geomap](https://d3-geomap.github.io/) - A library for creating maps based on D3.js.
+- [d3-geo](https://github.com/d3/d3-geo) - A library for creating maps based on D3.js.
 - [Eurostat-map](https://github.com/eurostat/eurostat-map.js) - Reusable library to quickly create and customise web maps showing Eurostat data using D3.js.
 - [gridviz](https://github.com/eurostat/gridviz) - A Three.js-based library for visualizing gridded statistics datasets as CSV files. 
 
