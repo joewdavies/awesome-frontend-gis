@@ -1,5 +1,5 @@
 # Frontend GIS resources
-A list of useful or interesting web GIS libraries and projects - feel free to add to the list
+A list of useful or interesting web GIS data sources, libraries and projects - feel free to add to the list
 
 ## Data sources
 - [Natural Earth](https://www.naturalearthdata.com/) Free vector and raster map data at 1:10m, 1:50m, and 1:110m scales
