@@ -10,21 +10,24 @@ A list of useful or interesting web GIS data sources, libraries and projects - f
 - [WRI](https://www.wri.org/data) - World resources institute.
 
 ## JavaScript libraries
-### 2D
+
+### [D3](https://github.com/d3/d3/wiki/Gallery)-based
+- [Eurostat-map](https://github.com/eurostat/eurostat-map.js) - Reusable library to quickly create and customise web maps showing Eurostat data using D3.js.
+- [Bertin.js](https://github.com/neocarto/bertin) - A JavaScript library for visualizing geospatial data and make thematic maps for the web.
+- [d3-geo](https://github.com/d3/d3-geo) - A library for creating maps based on D3.js.
+
+### 2D viewers
 - [Leaflet](https://leafletjs.com/) - The leading open-source JavaScript library for mobile-friendly interactive maps.
 - [OpenLayers](https://openlayers.org/) - A high-performance, feature-packed library for creating interactive maps on the web.
 - [ArcGIS API for JS](https://developers.arcgis.com/javascript/latest/release-notes/) - A lightweight way to embed maps and tasks in web applications.
 - [Mapbox GL JS](https://docs.mapbox.com/mapbox-gl-js/examples/) - JavaScript library that uses WebGL to render interactive maps from vector tiles.
-- [D3.js](https://github.com/d3/d3/wiki/Gallery) - Data visualization library.
 - [MapTalks.js](https://github.com/maptalks/maptalks.js) - An open-source javascript library for integrated 2D/3D maps.
 - [antvis L7](https://github.com/antvis/L7) - Large-scale WebGL-powered Geospatial Data Visualization.
 - [Tangram](https://github.com/tangrams/tangram) - WebGL map rendering engine for creative cartography.
 - [turf.js](https://github.com/Turfjs/turf) - A modular geospatial engine written in JavaScript.
-- [d3-geo](https://github.com/d3/d3-geo) - A library for creating maps based on D3.js.
-- [Eurostat-map](https://github.com/eurostat/eurostat-map.js) - Reusable library to quickly create and customise web maps showing Eurostat data using D3.js.
 - [gridviz](https://github.com/eurostat/gridviz) - A Three.js-based library for visualizing gridded statistics datasets as CSV files. 
 
-### 3D
+### 3D viewers
 - [Three.js](https://github.com/mrdoob/three.js) - Easy to use, lightweight, cross-browser, general purpose 3D library.
 - [Procedural GL JS](https://github.com/felixpalmer/procedural-gl-js) - Procedural GL JS is a library built on top THREE.js for creating 3D maps on the web.
 - [Cesium.js](https://cesiumjs.org/) - An open-source JavaScript library for world-class 3D mapping of geospatial data.
@@ -34,8 +37,6 @@ A list of useful or interesting web GIS data sources, libraries and projects - f
 - [Wrld.js](https://github.com/wrld3d/wrld.js/) - Animated 3D city maps based on Leaflet.
 - [Deck.GL](https://github.com/uber/deck.gl) - WebGL2 powered geospatial visualization layers.
 - [harp.gl](https://github.com/heremaps/harp.gl) - An experimental and work in progress open-source 3D map rendering engine.
-
-
 
 ## Data Visualization tools
 - [observableHQ](https://observablehq.com/@joewdavies) - Live coding data visualization development platform.
