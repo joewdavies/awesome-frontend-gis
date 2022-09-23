@@ -5,6 +5,15 @@ Awesome Frontend GIS is a compilation of geospatial-related frameworks, tools, d
 
 **Feel free to contribute!**
 
+# Contents
+  - [Geospatial data sources](#geospatial-data-sources)
+  - [Map viewer libraries](#map-viewer-libraries)
+  - [D3-based mapping libraries](#d3-based-mapping-libraries)
+  - [LiDAR](#lidar)
+  - [Data visualization web tools](#data-visualization-web-tools)
+  - [Geospatial data analysis](#data-analysis)
+  - [Applications](#applications)
+
 ## Geospatial data sources
 - [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) An awesome repository full of open datasets from an abundance of different categories.
 - [Natural Earth](https://www.naturalearthdata.com/) Free vector and raster map data at 1:10m, 1:50m, and 1:110m scales.
@@ -14,7 +23,7 @@ Awesome Frontend GIS is a compilation of geospatial-related frameworks, tools, d
 - [HydroSHEDS](https://www.hydrosheds.org/) - Hydrographic information in a consistent and comprehensive format for regional and global-scale applications.
 - [WRI](https://www.wri.org/data) - World resources institute.
 
-## Map viewer libraries
+## Mapping libraries
 - [Leaflet](https://leafletjs.com/) - The leading open-source JavaScript library for mobile-friendly interactive maps.
 - [OpenLayers](https://openlayers.org/) - A high-performance, feature-packed library for creating interactive maps on the web.
 - [ArcGIS API for JS](https://developers.arcgis.com/javascript/latest/release-notes/) - A lightweight way to embed maps and tasks in web applications.
@@ -32,8 +41,6 @@ Awesome Frontend GIS is a compilation of geospatial-related frameworks, tools, d
 - [Wrld.js](https://github.com/wrld3d/wrld.js/) - Animated 3D city maps based on Leaflet.
 - [Deck.GL](https://github.com/uber/deck.gl) - WebGL2 powered geospatial visualization layers.
 - [harp.gl](https://github.com/heremaps/harp.gl) - An experimental and work in progress open-source 3D map rendering engine.
-
-## D3-based mapping libraries
 - [Eurostat-map](https://github.com/eurostat/eurostat-map.js) - Reusable library to quickly create and customise web maps showing Eurostat data using D3.js.
 - [Bertin.js](https://github.com/neocarto/bertin) - A JavaScript library for visualizing geospatial data and make thematic maps for the web.
 - [d3-geo](https://github.com/d3/d3-geo) - A library for creating maps based on D3.js.
@@ -47,7 +54,7 @@ Awesome Frontend GIS is a compilation of geospatial-related frameworks, tools, d
 - [observableHQ](https://observablehq.com/@joewdavies) - Live coding data visualization development platform.
 - [data wrapper](https://www.datawrapper.de/) - Easy to use data visualization tool. Step by step visualization generator.
 
-## Geospatial analysis / data processing
+## Geospatial data analysis
 - [Turf.js](https://github.com/Turfjs/turf) - Turf is a JavaScript library for spatial analysis.
 - [Proj4js](https://github.com/proj4js/proj4js) - Transform coordinates from one coordinate system to another, including datum transformations.
 - [GeoTiff.js](https://github.com/geotiffjs/geotiff.js) - Parse TIFF files for visualization or analysis.
@@ -56,10 +63,8 @@ Awesome Frontend GIS is a compilation of geospatial-related frameworks, tools, d
 - [VectorTile Style Editor](https://github.com/Esri/arcgis-vectortile-style-editor) - A simple Vector Tile Style Editor to update the styles of Esri Vector Basemaps.
 - [topoJSON](https://github.com/topojson/topojson) - convert GeoJSON to TopoJSON for use in D3 maps.
 
-## Applications / demos
+## Applications
 - [Radio Garden](https://radio.garden/) - 3D Globe Radio Tuner.
 - [Kepler](https://kepler.gl/demo) - A powerful open source geospatial analysis tool for large-scale data sets.
-- [Deck GL](https://deck.gl/#/examples/core-layers/hexagon-layer) - Hexagon layer.
-- [antvis L7](http://antv.alipay.com/zh-cn/l7/1.x/demo/gallery/qianxi.html) - German migration visualization.
-- [Tangram](http://tangrams.github.io/gui-demo/#12.25/40.7128/-73.9693) - Customize vector tile colours in real time.
+- [Plasio](https://github.com/verma/plasio) - Drag-n-drop In-browser LAS/LAZ point cloud viewer.
 
