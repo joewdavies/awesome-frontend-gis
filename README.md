@@ -1,9 +1,11 @@
 # Awesome Frontend GIS
+<img src='https://user-images.githubusercontent.com/25485293/191950255-cbd83c6a-4880-4c0a-a665-b59a21467702.PNG'></img>
+
 Awesome Frontend GIS is a compilation of geospatial frameworks, tools, demos, applications, data sources and more - all on the browser!
 
 **Feel free to contribute!**
 
-## Data sources
+## Geospatial data sources
 - [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) An awesome repository full of open datasets from an abundance of different categories.
 - [Natural Earth](https://www.naturalearthdata.com/) Free vector and raster map data at 1:10m, 1:50m, and 1:110m scales.
 - [Copernicus global DEM](https://ec.europa.eu/eurostat/web/gisco/geodata/reference-data/elevation/copernicus-dem/elevation) - Global DEM tiles.
@@ -11,11 +13,6 @@ Awesome Frontend GIS is a compilation of geospatial frameworks, tools, demos, ap
 - [Free GIS data](https://freegisdata.rtwilson.com/) - Links to over 500 sites providing freely available geographic datasets.
 - [HydroSHEDS](https://www.hydrosheds.org/) - Hydrographic information in a consistent and comprehensive format for regional and global-scale applications.
 - [WRI](https://www.wri.org/data) - World resources institute.
-
-## [D3](https://github.com/d3/d3/wiki/Gallery)-based mapping libraries
-- [Eurostat-map](https://github.com/eurostat/eurostat-map.js) - Reusable library to quickly create and customise web maps showing Eurostat data using D3.js.
-- [Bertin.js](https://github.com/neocarto/bertin) - A JavaScript library for visualizing geospatial data and make thematic maps for the web.
-- [d3-geo](https://github.com/d3/d3-geo) - A library for creating maps based on D3.js.
 
 ## Map viewer libraries
 - [Leaflet](https://leafletjs.com/) - The leading open-source JavaScript library for mobile-friendly interactive maps.
@@ -36,16 +33,21 @@ Awesome Frontend GIS is a compilation of geospatial frameworks, tools, demos, ap
 - [Deck.GL](https://github.com/uber/deck.gl) - WebGL2 powered geospatial visualization layers.
 - [harp.gl](https://github.com/heremaps/harp.gl) - An experimental and work in progress open-source 3D map rendering engine.
 
+## D3-based mapping libraries
+- [Eurostat-map](https://github.com/eurostat/eurostat-map.js) - Reusable library to quickly create and customise web maps showing Eurostat data using D3.js.
+- [Bertin.js](https://github.com/neocarto/bertin) - A JavaScript library for visualizing geospatial data and make thematic maps for the web.
+- [d3-geo](https://github.com/d3/d3-geo) - A library for creating maps based on D3.js.
+
 ## LiDAR
 - [Plasio](https://github.com/verma/plasio) - Drag-n-drop In-browser LAS/LAZ point cloud viewer.
 - [Potree](https://github.com/potree/potree) - WebGL point cloud viewer for large datasets.
 - [Potree & Cesium.js](http://potree.org/potree/examples/cesium_retz.html) - Rezt, Austria LIDAR viewer.
 
-## Data Visualization tools
+## Data visualization web tools
 - [observableHQ](https://observablehq.com/@joewdavies) - Live coding data visualization development platform.
 - [data wrapper](https://www.datawrapper.de/) - Easy to use data visualization tool. Step by step visualization generator.
 
-## Data processing / geospatial analysis
+## Geospatial analysis / data processing
 - [Turf.js](https://github.com/Turfjs/turf) - Turf is a JavaScript library for spatial analysis.
 - [Proj4js](https://github.com/proj4js/proj4js) - Transform coordinates from one coordinate system to another, including datum transformations.
 - [GeoTiff.js](https://github.com/geotiffjs/geotiff.js) - Parse TIFF files for visualization or analysis.
@@ -61,5 +63,3 @@ Awesome Frontend GIS is a compilation of geospatial frameworks, tools, demos, ap
 - [antvis L7](http://antv.alipay.com/zh-cn/l7/1.x/demo/gallery/qianxi.html) - German migration visualization.
 - [Tangram](http://tangrams.github.io/gui-demo/#12.25/40.7128/-73.9693) - Customize vector tile colours in real time.
 
-## Routing 
-- [graphhopper](https://github.com/graphhopper/graphhopper) - GraphHopper is a fast and memory-efficient routing engine
