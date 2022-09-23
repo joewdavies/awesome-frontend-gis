@@ -11,7 +11,7 @@ Awesome Frontend GIS is a compilation of geospatial-related frameworks, tools, d
   - [D3-based mapping libraries](#d3-based-mapping-libraries)
   - [LiDAR](#lidar)
   - [Data visualization web tools](#data-visualization-web-tools)
-  - [Geospatial data analysis](#data-analysis)
+  - [Geospatial data analysis](#geospatial-data-analysis)
   - [Applications](#applications)
 
 ## Geospatial data sources
