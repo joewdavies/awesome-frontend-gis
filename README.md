@@ -7,11 +7,10 @@ Awesome Frontend GIS is a compilation of geospatial-related frameworks, tools, d
 
 # Contents
   - [Geospatial data sources](#geospatial-data-sources)
-  - [Map viewer libraries](#map-viewer-libraries)
-  - [D3-based mapping libraries](#d3-based-mapping-libraries)
+  - [Mapping libraries](#mapping-libraries)
+  - [Data analysis tools](#data-analysis-tools)
   - [LiDAR](#lidar)
-  - [Data visualization web tools](#data-visualization-web-tools)
-  - [Geospatial data analysis](#geospatial-data-analysis)
+  - [Geo DataViz](#geo-dataviz)
   - [Applications](#applications)
 
 ## Geospatial data sources
@@ -45,23 +44,22 @@ Awesome Frontend GIS is a compilation of geospatial-related frameworks, tools, d
 - [Bertin.js](https://github.com/neocarto/bertin) - A JavaScript library for visualizing geospatial data and make thematic maps for the web.
 - [d3-geo](https://github.com/d3/d3-geo) - A library for creating maps based on D3.js.
 
-## LiDAR
-- [Plasio](https://github.com/verma/plasio) - Drag-n-drop In-browser LAS/LAZ point cloud viewer.
-- [Potree](https://github.com/potree/potree) - WebGL point cloud viewer for large datasets.
-- [Potree & Cesium.js](http://potree.org/potree/examples/cesium_retz.html) - Rezt, Austria LIDAR viewer.
-
-## Data visualization web tools
-- [observableHQ](https://observablehq.com/@joewdavies) - Live coding data visualization development platform.
-- [data wrapper](https://www.datawrapper.de/) - Easy to use data visualization tool. Step by step visualization generator.
-
-## Geospatial data analysis
+## Data analysis tools
 - [Turf.js](https://github.com/Turfjs/turf) - Turf is a JavaScript library for spatial analysis.
 - [Proj4js](https://github.com/proj4js/proj4js) - Transform coordinates from one coordinate system to another, including datum transformations.
 - [GeoTiff.js](https://github.com/geotiffjs/geotiff.js) - Parse TIFF files for visualization or analysis.
 - [Arc.js](https://github.com/springmeyer/arc.js) - Calculate great circles routes as lines in GeoJSON or WKT format.
 - [awesome-GeoJSON](https://github.com/tmcw/awesome-geojson) - Catalogue of GeoJSON tools.
-- [VectorTile Style Editor](https://github.com/Esri/arcgis-vectortile-style-editor) - A simple Vector Tile Style Editor to update the styles of Esri Vector Basemaps.
 - [topoJSON](https://github.com/topojson/topojson) - convert GeoJSON to TopoJSON for use in D3 maps.
+
+## LiDAR
+- [Plasio](https://github.com/verma/plasio) - Drag-n-drop In-browser LAS/LAZ point cloud viewer.
+- [Potree](https://github.com/potree/potree) - WebGL point cloud viewer for large datasets.
+- [Potree & Cesium.js](http://potree.org/potree/examples/cesium_retz.html) - Rezt, Austria LIDAR viewer.
+
+## Geo DataViz
+- [observableHQ](https://observablehq.com/@joewdavies) - Live coding data visualization development platform.
+- [data wrapper](https://www.datawrapper.de/) - Easy to use data visualization tool. Step by step visualization generator.
 
 ## Applications
 - [Radio Garden](https://radio.garden/) - 3D Globe Radio Tuner.
