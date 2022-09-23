@@ -60,6 +60,7 @@ Awesome Frontend GIS is a compilation of geospatial-related frameworks, tools, d
 ## Geo DataViz
 - [observableHQ](https://observablehq.com/@joewdavies) - Live coding data visualization development platform.
 - [data wrapper](https://www.datawrapper.de/) - Easy to use data visualization tool. Step by step visualization generator.
+- [ColorBrewer](https://colorbrewer2.org/) - Colour advice for maps.
 
 ## Applications
 - [Radio Garden](https://radio.garden/) - 3D Globe Radio Tuner.
