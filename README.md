@@ -6,26 +6,14 @@ Awesome Frontend GIS is a compilation of geospatial-related frameworks, tools, d
 **Feel free to contribute!**
 
 # Contents
-  - [Data](#data)
-  - [Libraries](#libraries)
+  - [JS Libraries](#libraries)
     - [Mapping](#mapping) 
     - [Data analysis](#data-analysis)
-    - [LiDAR](#lidar)
   - [Notebooks](#notebooks)
   - [Colour advice](#colour-advice)
   - [Web applications](#applications)
-
-## Data
-
-- [Natural Earth](https://www.naturalearthdata.com/) Free vector and raster map data at 1:10m, 1:50m, and 1:110m scales.
-- [Copernicus global DEM](https://ec.europa.eu/eurostat/web/gisco/geodata/reference-data/elevation/copernicus-dem/elevation) - Global elevation tiles.
-- [ETOPO1](https://www.ngdc.noaa.gov/mgg/global/) - 1 arc-minute global relief model of Earth's surface that integrates land topography and ocean bathymetry.
-- [HydroSHEDS](https://www.hydrosheds.org/) - Hydrographic information in a consistent and comprehensive format for regional and global-scale applications.
-- [WRI](https://www.wri.org/data) - World resources institute.
-- [geoboundaries](https://www.geoboundaries.org/) - The world's largest open, free and research-ready database of political administrative boundaries.
-- [OpenStreetMap](https://www.geofabrik.de/data/download.html) - The OpenStreetMap (OSM) project was founded in the United Kingdom in 2004 and is aimed at creating a free, world-wide geographic data set.
-- [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) An awesome repository full of open datasets from an abundance of different categories.
-- [Free GIS data](https://freegisdata.rtwilson.com/) - Links to over 500 sites providing freely available geographic datasets.
+  - [Data](#data)
+  - [LiDAR](#lidar)
 
 ## Libraries
 
@@ -59,11 +47,6 @@ Awesome Frontend GIS is a compilation of geospatial-related frameworks, tools, d
   - [awesome-GeoJSON](https://github.com/tmcw/awesome-geojson) - Catalogue of GeoJSON tools.
   - [topoJSON](https://github.com/topojson/topojson) - convert GeoJSON to TopoJSON for use in D3 maps.
 
-  #### LiDAR
-  - [Plasio](https://github.com/verma/plasio) - Drag-n-drop In-browser LAS/LAZ point cloud viewer.
-  - [Potree](https://github.com/potree/potree) - WebGL point cloud viewer for large datasets.
-  - [Potree & Cesium.js](http://potree.org/potree/examples/cesium_retz.html) - Rezt, Austria LIDAR viewer.
-
 ## Notebooks
 - [Bars and pubs in Paris](https://observablehq.com/@neocartocnrs/bars-pubs-in-paris) - Nicolas Lambert
 - [How to make a nice scalebar](https://observablehq.com/@jgaffuri/nice-scale-bar) - Julien Gaffuri
@@ -80,3 +63,21 @@ Awesome Frontend GIS is a compilation of geospatial-related frameworks, tools, d
 - [Kepler](https://kepler.gl/demo) - A powerful open source geospatial analysis tool for large-scale data sets.
 - [Plasio](https://github.com/verma/plasio) - Drag-n-drop In-browser LAS/LAZ point cloud viewer.
 
+  
+## Data
+
+- [Natural Earth](https://www.naturalearthdata.com/) Free vector and raster map data at 1:10m, 1:50m, and 1:110m scales.
+- [Copernicus global DEM](https://ec.europa.eu/eurostat/web/gisco/geodata/reference-data/elevation/copernicus-dem/elevation) - Global elevation tiles.
+- [ETOPO1](https://www.ngdc.noaa.gov/mgg/global/) - 1 arc-minute global relief model of Earth's surface that integrates land topography and ocean bathymetry.
+- [HydroSHEDS](https://www.hydrosheds.org/) - Hydrographic information in a consistent and comprehensive format for regional and global-scale applications.
+- [WRI](https://www.wri.org/data) - World resources institute.
+- [geoboundaries](https://www.geoboundaries.org/) - The world's largest open, free and research-ready database of political administrative boundaries.
+- [OpenStreetMap](https://www.geofabrik.de/data/download.html) - The OpenStreetMap (OSM) project was founded in the United Kingdom in 2004 and is aimed at creating a free, world-wide geographic data set.
+- [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) An awesome repository full of open datasets from an abundance of different categories.
+- [Free GIS data](https://freegisdata.rtwilson.com/) - Links to over 500 sites providing freely available geographic datasets.
+
+
+## LiDAR
+- [Plasio](https://github.com/verma/plasio) - Drag-n-drop In-browser LAS/LAZ point cloud viewer.
+- [Potree](https://github.com/potree/potree) - WebGL point cloud viewer for large datasets.
+- [Potree & Cesium.js](http://potree.org/potree/examples/cesium_retz.html) - Rezt, Austria LIDAR viewer.
