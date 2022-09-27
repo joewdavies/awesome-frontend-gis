@@ -11,7 +11,8 @@ Awesome Frontend GIS is a compilation of geospatial-related frameworks, tools, d
     - [Mapping](#mapping) 
     - [Data analysis](#data-analysis)
     - [LiDAR](#lidar)
-  - [Geo DataViz](#geo-dataviz)
+  - [Notebooks](#notebooks)
+  - [Colour advice](#colour-advice)
   - [Web applications](#applications)
 
 ## Data
@@ -63,10 +64,15 @@ Awesome Frontend GIS is a compilation of geospatial-related frameworks, tools, d
   - [Potree](https://github.com/potree/potree) - WebGL point cloud viewer for large datasets.
   - [Potree & Cesium.js](http://potree.org/potree/examples/cesium_retz.html) - Rezt, Austria LIDAR viewer.
 
-## Geo DataViz
-- [observableHQ](https://observablehq.com/@joewdavies) - Live coding data visualization development platform.
-- [data wrapper](https://www.datawrapper.de/) - Easy to use data visualization tool. Step by step visualization generator.
+## Notebooks
+- [Bars and pubs in Paris](https://observablehq.com/@neocartocnrs/bars-pubs-in-paris) - Nicolas Lambert
+- [How to make a nice scalebar](https://observablehq.com/@jgaffuri/nice-scale-bar) - Julien Gaffuri
+- [Visualizing earthquakes with Three.js](https://observablehq.com/@joewdavies/visualizing-earthquakes-with-three-js) - Joe Davies
+- [Animating voting maps with regl](https://observablehq.com/@bmschmidt/animating-voting-maps-with-regl) - Benjamin Schmidt
+
+## Colour advice
 - [ColorBrewer](https://colorbrewer2.org/) - Colour advice for maps.
+- [viz-palette](https://projects.susielu.com/viz-palette) - This project is optimized for tweaking, copying, and pasting colors in and out of JavaScript.
 
 ## Applications
 - [mapshaper](https://mapshaper.org/) - Online editor for map data.
