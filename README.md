@@ -46,6 +46,7 @@ Awesome Frontend GIS is a compilation of geospatial-related frameworks, tools, d
   - [Arc.js](https://github.com/springmeyer/arc.js) - Calculate great circles routes as lines in GeoJSON or WKT format.
   - [awesome-GeoJSON](https://github.com/tmcw/awesome-geojson) - Catalogue of GeoJSON tools.
   - [topoJSON](https://github.com/topojson/topojson) - convert GeoJSON to TopoJSON for use in D3 maps.
+  - [regl-map-animation](https://github.com/eurostat/regl-map-animation) - Animate x/y point data using regl and categorize them into a bar chart.
 
 ## Notebooks
 - [Bars and pubs in Paris](https://observablehq.com/@neocartocnrs/bars-pubs-in-paris) - Nicolas Lambert
