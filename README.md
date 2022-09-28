@@ -11,18 +11,20 @@ Awesome Frontend GIS is a compilation of geospatial-related frameworks, tools, d
 **Feel free to contribute!**
 
 # Contents
-  - [JS Libraries](#libraries)
+  - [JS Libraries](#js-libraries)
     - [Mapping](#mapping) 
     - [Data analysis](#data-analysis)
   - [Notebooks](#notebooks)
-  - [Colour advice](#colour-advice)
-  - [Web applications](#applications)
+  - [Web maps](#web-maps)
+  - [Web apps](#web-apps)
   - [Data](#data)
+  - [Colour advice](#colour-advice)
   - [LiDAR](#lidar)
 
 ## JS Libraries
 
   #### Mapping
+  Libraries for building map viewers.
   - [Leaflet](https://leafletjs.com/) - The leading open-source JavaScript library for mobile-friendly interactive maps.
   - [OpenLayers](https://openlayers.org/) - A high-performance, feature-packed library for creating interactive maps on the web.
   - [ArcGIS API for JS](https://developers.arcgis.com/javascript/latest/release-notes/) - A lightweight way to embed maps and tasks in web applications.
@@ -45,6 +47,7 @@ Awesome Frontend GIS is a compilation of geospatial-related frameworks, tools, d
   - [d3-geo](https://github.com/d3/d3-geo) - A library for creating maps based on D3.js.
 
   #### Data analysis
+  Libraries that help you analyse and process geospatial data.
   - [Turf.js](https://github.com/Turfjs/turf) - Turf is a JavaScript library for spatial analysis.
   - [Proj4js](https://github.com/proj4js/proj4js) - Transform coordinates from one coordinate system to another, including datum transformations.
   - [GeoTiff.js](https://github.com/geotiffjs/geotiff.js) - Parse TIFF files for visualization or analysis.
@@ -54,25 +57,27 @@ Awesome Frontend GIS is a compilation of geospatial-related frameworks, tools, d
   - [regl-map-animation](https://github.com/eurostat/regl-map-animation) - Animate x/y point data using regl and categorize them into a bar chart.
 
 ## Notebooks
+Some JavaScript notebooks to help you code.
 - [Bars and pubs in Paris](https://observablehq.com/@neocartocnrs/bars-pubs-in-paris) - Nicolas Lambert
 - [How to make a nice scalebar](https://observablehq.com/@jgaffuri/nice-scale-bar) - Julien Gaffuri
 - [Visualizing earthquakes with Three.js](https://observablehq.com/@joewdavies/visualizing-earthquakes-with-three-js) - Joe Davies
 - [Animating voting maps with regl](https://observablehq.com/@bmschmidt/animating-voting-maps-with-regl) - Benjamin Schmidt
 - [Visualizing Eurostat grid data using Three.js & D3](https://observablehq.com/@joewdavies/visualizing-eurostat-grid-data-using-three-js-d3) - Joe Davies
 
-## Colour advice
-- [ColorBrewer](https://colorbrewer2.org/) - Colour advice for maps.
-- [viz-palette](https://projects.susielu.com/viz-palette) - This project is optimized for tweaking, copying, and pasting colors in and out of JavaScript.
-
-## Applications
-- [mapshaper](https://mapshaper.org/) - Online editor for map data.
+## Web maps
+A compilation of interesting web maps.
+- [Map of notable people](https://tjukanovt.github.io/notable-people) - Topi Tjukanov
 - [Radio Garden](https://radio.garden/) - 3D Globe Radio Tuner.
+
+## Web apps
+Plug-and-play geospatial web apps!
+
 - [Kepler](https://kepler.gl/demo) - A powerful open source geospatial analysis tool for large-scale data sets.
 - [Plasio](https://github.com/verma/plasio) - Drag-n-drop In-browser LAS/LAZ point cloud viewer.
-
+- [mapshaper](https://mapshaper.org/) - Online editor for map data.
   
 ## Data
-
+A collection of geospatial open data sources.
 - [Natural Earth](https://www.naturalearthdata.com/) Free vector and raster map data at 1:10m, 1:50m, and 1:110m scales.
 - [Copernicus global DEM](https://ec.europa.eu/eurostat/web/gisco/geodata/reference-data/elevation/copernicus-dem/elevation) - Global elevation tiles.
 - [ETOPO1](https://www.ngdc.noaa.gov/mgg/global/) - 1 arc-minute global relief model of Earth's surface that integrates land topography and ocean bathymetry.
@@ -83,6 +88,11 @@ Awesome Frontend GIS is a compilation of geospatial-related frameworks, tools, d
 - [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) An awesome repository full of open datasets from an abundance of different categories.
 - [Free GIS data](https://freegisdata.rtwilson.com/) - Links to over 500 sites providing freely available geographic datasets.
 
+
+## Colour advice
+Tools to help you choose the best colours for your maps.
+- [ColorBrewer](https://colorbrewer2.org/) - Colour advice for maps.
+- [viz-palette](https://projects.susielu.com/viz-palette) - This project is optimized for tweaking, copying, and pasting colors in and out of JavaScript.
 
 ## LiDAR
 - [Plasio](https://github.com/verma/plasio) - Drag-n-drop In-browser LAS/LAZ point cloud viewer.
