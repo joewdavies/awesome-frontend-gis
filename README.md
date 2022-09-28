@@ -68,6 +68,7 @@ Some JavaScript notebooks to help you code.
 A compilation of interesting web maps.
 - [Map of notable people](https://tjukanovt.github.io/notable-people) - Topi Tjukanov
 - [Radio Garden](https://radio.garden/) - 3D Globe Radio Tuner.
+- [Map of every building in the United States](https://www.nytimes.com/interactive/2018/10/12/us/map-of-every-building-in-the-united-states.html) - New York Times
 
 ## Web apps
 Plug-and-play geospatial web apps!
@@ -78,14 +79,16 @@ Plug-and-play geospatial web apps!
   
 ## Data
 A collection of geospatial open data sources.
-- [Natural Earth](https://www.naturalearthdata.com/) Free vector and raster map data at 1:10m, 1:50m, and 1:110m scales.
+
+- [OpenMapTiles](https://openmaptiles.org/) - Free OpenStreetMap Vector Tiles.
+- [OpenStreetMap](https://www.geofabrik.de/data/download.html) - A free, world-wide geographic data set.
+- [Natural Earth](https://www.naturalearthdata.com/) - Free vector and raster map data at 1:10m, 1:50m, and 1:110m scales.
 - [Copernicus global DEM](https://ec.europa.eu/eurostat/web/gisco/geodata/reference-data/elevation/copernicus-dem/elevation) - Global elevation tiles.
 - [ETOPO1](https://www.ngdc.noaa.gov/mgg/global/) - 1 arc-minute global relief model of Earth's surface that integrates land topography and ocean bathymetry.
 - [HydroSHEDS](https://www.hydrosheds.org/) - Hydrographic information in a consistent and comprehensive format for regional and global-scale applications.
 - [WRI](https://www.wri.org/data) - World resources institute.
 - [geoboundaries](https://www.geoboundaries.org/) - The world's largest open, free and research-ready database of political administrative boundaries.
-- [OpenStreetMap](https://www.geofabrik.de/data/download.html) - The OpenStreetMap (OSM) project was founded in the United Kingdom in 2004 and is aimed at creating a free, world-wide geographic data set.
-- [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) An awesome repository full of open datasets from an abundance of different categories.
+- [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - An awesome repository full of open datasets from an abundance of different categories.
 - [Free GIS data](https://freegisdata.rtwilson.com/) - Links to over 500 sites providing freely available geographic datasets.
 
 
