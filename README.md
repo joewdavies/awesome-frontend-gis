@@ -1,5 +1,10 @@
 # Awesome Frontend GIS
-<img src='https://user-images.githubusercontent.com/25485293/191950255-cbd83c6a-4880-4c0a-a665-b59a21467702.PNG'></img>
+
+<p>
+    <img src='https://user-images.githubusercontent.com/25485293/191950255-cbd83c6a-4880-4c0a-a665-b59a21467702.PNG'></img>
+    <sup><em id="banner-caption" style="font-size: 10px !important;">gridviz example</em></sub>
+</p>
+
 
 Awesome Frontend GIS is a compilation of geospatial-related frameworks, tools, demos, applications, data sources and more - all for use on the browser!
 
