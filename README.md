@@ -15,7 +15,7 @@ Awesome Frontend GIS is a compilation of geospatial-related frameworks, tools, d
   - [Data](#data)
   - [LiDAR](#lidar)
 
-## Libraries
+## JS Libraries
 
   #### Mapping
   - [Leaflet](https://leafletjs.com/) - The leading open-source JavaScript library for mobile-friendly interactive maps.
@@ -52,6 +52,7 @@ Awesome Frontend GIS is a compilation of geospatial-related frameworks, tools, d
 - [How to make a nice scalebar](https://observablehq.com/@jgaffuri/nice-scale-bar) - Julien Gaffuri
 - [Visualizing earthquakes with Three.js](https://observablehq.com/@joewdavies/visualizing-earthquakes-with-three-js) - Joe Davies
 - [Animating voting maps with regl](https://observablehq.com/@bmschmidt/animating-voting-maps-with-regl) - Benjamin Schmidt
+- [Visualizing Eurostat grid data using Three.js & D3](https://observablehq.com/@joewdavies/visualizing-eurostat-grid-data-using-three-js-d3) - Joe Davies
 
 ## Colour advice
 - [ColorBrewer](https://colorbrewer2.org/) - Colour advice for maps.
