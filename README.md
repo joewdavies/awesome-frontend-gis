@@ -1,7 +1,9 @@
 # Awesome Frontend GIS
 
 <p>
+    <a href="https://github.com/eurostat/gridviz" target="_blank">
     <img src='https://user-images.githubusercontent.com/25485293/191950255-cbd83c6a-4880-4c0a-a665-b59a21467702.PNG'></img>
+    </a>
     <sup><em id="banner-caption" style="font-size: 10px !important;">gridviz example</em></sub>
 </p>
 
