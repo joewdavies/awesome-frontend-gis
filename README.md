@@ -14,10 +14,11 @@ Awesome Frontend GIS is a compilation of geospatial-related frameworks, tools, d
   - [JS Libraries](#js-libraries)
     - [Mapping](#mapping) 
     - [Data analysis](#data-analysis)
+    - [Miscellaneous](#miscellaneous)
   - [Notebooks](#notebooks)
   - [Web maps](#web-maps)
   - [Web apps](#web-apps)
-  - [Data](#data)
+  - [Data sources](#data-sources)
   - [Colour advice](#colour-advice)
   - [LiDAR](#lidar)
 
@@ -53,7 +54,10 @@ Awesome Frontend GIS is a compilation of geospatial-related frameworks, tools, d
   - [GeoTiff.js](https://github.com/geotiffjs/geotiff.js) - Parse TIFF files for visualization or analysis.
   - [Arc.js](https://github.com/springmeyer/arc.js) - Calculate great circles routes as lines in GeoJSON or WKT format.
   - [awesome-GeoJSON](https://github.com/tmcw/awesome-geojson) - Catalogue of GeoJSON tools.
-  - [topoJSON](https://github.com/topojson/topojson) - convert GeoJSON to TopoJSON for use in D3 maps.
+  - [topoJSON](https://github.com/topojson/topojson) - Convert GeoJSON to TopoJSON for use in D3 maps.
+  - [Wicket](https://github.com/arthur-e/Wicket) - A modest library for moving between Well-Known Text (WKT) and various framework geometries.
+  
+  #### Miscellaneous
   - [regl-map-animation](https://github.com/eurostat/regl-map-animation) - Animate x/y point data using regl and categorize them into a bar chart.
 
 ## Notebooks
@@ -78,7 +82,7 @@ Plug-and-play geospatial web apps!
 - [mapshaper](https://mapshaper.org/) - Online editor for map data.
 - [geotiff.io](http://app.geotiff.io/) - GeoTIFF.io provides quick access to easy-to-use raster processing.
   
-## Data
+## Data sources
 A collection of geospatial open data sources.
 
 - [OpenMapTiles](https://openmaptiles.org/) - Free OpenStreetMap Vector Tiles.
