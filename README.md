@@ -69,6 +69,7 @@ Awesome Frontend GIS is a compilation of geospatial-related frameworks, tools, d
   - [Wicket](https://github.com/arthur-e/Wicket) - A modest library for moving between Well-Known Text (WKT) and various framework geometries.
   - [koop](https://github.com/koopjs/koop) - Koop is a JavaScript toolkit for connecting incompatible spatial APIs.
   - [spl.js](https://github.com/jvail/spl.js) - Makes it possible to use SpatiaLite functionality in JavaScript. Behind the scenes, a WebAssembly port of SpatiaLite is used.
+  - [geotoolbox](https://github.com/neocarto/geotoolbox) - Provides several GIS operations for use with geojson properties. Useful for thematic cartography.
   
 
 ## Notebooks
@@ -77,6 +78,7 @@ Some JavaScript notebooks to help you code.
 - [How to make a nice scalebar](https://observablehq.com/@jgaffuri/nice-scale-bar) - Julien Gaffuri
 - [Visualizing earthquakes with Three.js](https://observablehq.com/@joewdavies/visualizing-earthquakes-with-three-js) - Joe Davies
 - [Animating voting maps with regl](https://observablehq.com/@bmschmidt/animating-voting-maps-with-regl) - Benjamin Schmidt
+- [Election maps as dorling striped circles](https://observablehq.com/@jgaffuri/election-map-dorling-striped-circles) - Julien Gaffuri
 - [Visualizing Eurostat grid data using Three.js & D3](https://observablehq.com/@joewdavies/visualizing-eurostat-grid-data-using-three-js-d3) - Joe Davies
 
 ## Web maps
