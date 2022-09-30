@@ -15,8 +15,9 @@ Awesome Frontend GIS is a compilation of geospatial-related frameworks, tools, d
 # Contents
   - [JS Libraries](#js-libraries)
     - [Mapping](#mapping) 
+        - [Map viewers](#map-viewers) 
+        - [Thematic mapping](#thematic-mapping) 
     - [Data analysis](#data-analysis)
-    - [Miscellaneous](#miscellaneous)
   - [Notebooks](#notebooks)
   - [Web maps](#web-maps)
   - [Web apps](#web-apps)
@@ -26,9 +27,11 @@ Awesome Frontend GIS is a compilation of geospatial-related frameworks, tools, d
 
 ## JS Libraries
 
-  #### Mapping
-  Libraries for building map viewers.
+  ### Mapping
+  Libraries for building maps.
   
+  #### Map viewers
+  Map engines for visualizing geospatial data.
   - [Leaflet](https://leafletjs.com/) - The leading open-source JavaScript library for mobile-friendly interactive maps.
   - [OpenLayers](https://openlayers.org/) - A high-performance, feature-packed library for creating interactive maps on the web.
   - [ArcGIS API for JS](https://developers.arcgis.com/javascript/latest/release-notes/) - A lightweight way to embed maps and tasks in web applications.
@@ -47,11 +50,15 @@ Awesome Frontend GIS is a compilation of geospatial-related frameworks, tools, d
   - [Wrld.js](https://github.com/wrld3d/wrld.js/) - Animated 3D city maps based on Leaflet.
   - [Deck.GL](https://github.com/uber/deck.gl) - WebGL2 powered geospatial visualization layers.
   - [harp.gl](https://github.com/heremaps/harp.gl) - An experimental and work in progress open-source 3D map rendering engine.
+  
+  #### Thematic mapping
+  For mapping a particular theme to a geographic area.
   - [Eurostat-map](https://github.com/eurostat/eurostat-map.js) - Reusable library to quickly create and customise web maps showing Eurostat data using D3.js.
   - [Bertin.js](https://github.com/neocarto/bertin) - A JavaScript library for visualizing geospatial data and make thematic maps for the web.
   - [d3-geo](https://github.com/d3/d3-geo) - A library for creating maps based on D3.js.
+  - [regl-map-animation](https://github.com/eurostat/regl-map-animation) - Animate x/y point data using regl and categorize them into a bar chart.
 
-  #### Data analysis
+  ### Data analysis
   Libraries that help you analyse and process geospatial data.
   - [Turf.js](https://github.com/Turfjs/turf) - Turf is a JavaScript library for spatial analysis.
   - [Proj4js](https://github.com/proj4js/proj4js) - Transform coordinates from one coordinate system to another, including datum transformations.
@@ -63,8 +70,6 @@ Awesome Frontend GIS is a compilation of geospatial-related frameworks, tools, d
   - [koop](https://github.com/koopjs/koop) - Koop is a JavaScript toolkit for connecting incompatible spatial APIs.
   - [spl.js](https://github.com/jvail/spl.js) - Makes it possible to use SpatiaLite functionality in JavaScript. Behind the scenes, a WebAssembly port of SpatiaLite is used.
   
-  #### Miscellaneous
-  - [regl-map-animation](https://github.com/eurostat/regl-map-animation) - Animate x/y point data using regl and categorize them into a bar chart.
 
 ## Notebooks
 Some JavaScript notebooks to help you code.
