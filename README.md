@@ -21,13 +21,14 @@ Awesome Frontend GIS is a compilation of geospatial-related frameworks, tools, d
         - [Map viewers](#map-viewers) 
         - [Thematic mapping](#thematic-mapping) 
     - [Data analysis](#data-analysis)
-  - [**Notebooks**](#notebooks)
-  - [**Web maps**](#web-maps)
-  - [**Web apps**](#web-apps)
   - [**Data sources**](#data-sources)
     - [Downloads](#downloads)
     - [Web APIs](#web-apis)
+        - [Routing](#routing)
     - [Collections](#collections)
+  - [**Notebooks**](#notebooks)
+  - [**Web maps**](#web-maps)
+  - [**Web apps**](#web-apps)
   - [**Colour advice**](#colour-advice)
   - [**LiDAR**](#lidar)
 
@@ -78,7 +79,41 @@ Awesome Frontend GIS is a compilation of geospatial-related frameworks, tools, d
   - [spl.js](https://github.com/jvail/spl.js) - Makes it possible to use SpatiaLite functionality in JavaScript. Behind the scenes, a WebAssembly port of SpatiaLite is used.
   - [geotoolbox](https://github.com/neocarto/geotoolbox) - Provides several GIS operations for use with geojson properties. Useful for thematic cartography.
   - [supercluster](https://www.npmjs.com/package/supercluster) - A very fast JavaScript library for geospatial point clustering for browsers and Node.
-  
+
+
+## Data sources
+A collection of geospatial open data sources.
+
+### Downloads
+Data available for download.
+- [OpenMapTiles](https://openmaptiles.org/) - Free OpenStreetMap Vector Tiles.
+- [OpenStreetMap](https://www.geofabrik.de/data/download.html) - A free, world-wide geographic data set.
+- [Natural Earth](https://www.naturalearthdata.com/) - Free vector and raster map data at 1:10m, 1:50m, and 1:110m scales.
+- [Copernicus global DEM](https://ec.europa.eu/eurostat/web/gisco/geodata/reference-data/elevation/copernicus-dem/elevation) - Global elevation tiles.
+- [ETOPO1](https://www.ngdc.noaa.gov/mgg/global/) - 1 arc-minute global relief model of Earth's surface that integrates land topography and ocean bathymetry.
+- [HydroSHEDS](https://www.hydrosheds.org/) - Hydrographic information in a consistent and comprehensive format for regional and global-scale applications.
+- [geoboundaries](https://www.geoboundaries.org/) - The world's largest open, free and research-ready database of political administrative boundaries.
+- [Global power plant database](https://datasets.wri.org/dataset/globalpowerplantdatabase) - A comprehensive, global, open source database of power plants.
+- [Ookla internet speed data](https://github.com/teamookla/ookla-open-data) - Provides global network performance metrics. Data is provided in both Shapefile format as well as Apache Parquet.
+
+### Web APIs
+Restful APIs for consuming geospatial data on the fly.
+
+- [REST counrties](https://restcountries.com/) - Get information about countries via a RESTful API.
+- [USGS earthquake data](https://earthquake.usgs.gov/fdsnws/event/1/) - Allows custom searches for earthquake information using a variety of parameters.
+- [movebank-api](https://github.com/movebank/movebank-api-doc) - Movebank is a free, online database and research platform for animal tracking and other on-animal sensor data 
+- [Overpass API](https://wiki.openstreetmap.org/wiki/Overpass_API) - Retrieve OpenStreetMap data.
+
+#### Routing
+- [openrouteservice](https://openrouteservice.org/dev/#/api-docs) - Directions, Isochrones, Time-Distance Matrix, Pelias Geocoding, POIs, Elevation, Optimization.
+- [GraphHopper Route Optimization API](https://www.graphhopper.com/route-optimization/) - Solves a variety of vehicle routing problems, including the classical “traveling salesman problem”.
+
+### Collections
+Compilations and repositories of open datasets.
+- [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - An awesome repository full of open datasets from an abundance of different categories.
+- [Free GIS data](https://freegisdata.rtwilson.com/) - Links to over 500 sites providing freely available geographic datasets.
+- [WRI](https://www.wri.org/data) - World resources institute.
+- [Public APIs](https://github.com/public-apis/public-apis) - A collective list of free APIs for use in software and web development.
 
 ## Notebooks
 Some JavaScript notebooks to help you code.
@@ -106,34 +141,6 @@ Plug-and-play geospatial web apps!
 - [mapshaper](https://mapshaper.org/) - Online editor for map data.
 - [geotiff.io](http://app.geotiff.io/) - GeoTIFF.io provides quick access to easy-to-use raster processing.
 - [StoryMap JS](https://storymap.knightlab.com/) - The Open source alternative to ESRI’s Story map application.
-
-  
-## Data sources
-A collection of geospatial open data sources.
-
-### Downloads
-Data available for download.
-- [OpenMapTiles](https://openmaptiles.org/) - Free OpenStreetMap Vector Tiles.
-- [OpenStreetMap](https://www.geofabrik.de/data/download.html) - A free, world-wide geographic data set.
-- [Natural Earth](https://www.naturalearthdata.com/) - Free vector and raster map data at 1:10m, 1:50m, and 1:110m scales.
-- [Copernicus global DEM](https://ec.europa.eu/eurostat/web/gisco/geodata/reference-data/elevation/copernicus-dem/elevation) - Global elevation tiles.
-- [ETOPO1](https://www.ngdc.noaa.gov/mgg/global/) - 1 arc-minute global relief model of Earth's surface that integrates land topography and ocean bathymetry.
-- [HydroSHEDS](https://www.hydrosheds.org/) - Hydrographic information in a consistent and comprehensive format for regional and global-scale applications.
-- [geoboundaries](https://www.geoboundaries.org/) - The world's largest open, free and research-ready database of political administrative boundaries.
-- [Global power plant database](https://datasets.wri.org/dataset/globalpowerplantdatabase) - A comprehensive, global, open source database of power plants.
-- [Ookla internet speed data](https://github.com/teamookla/ookla-open-data) - Provides global network performance metrics. Data is provided in both Shapefile format as well as Apache Parquet.
-
-### Web APIs
-Restful APIs for consuming geospatial data on the fly.
-- [Overpass API](https://wiki.openstreetmap.org/wiki/Overpass_API) - Retrieve OpenStreetMap data.
-- [USGS earthquake data](https://earthquake.usgs.gov/fdsnws/event/1/) - Allows custom searches for earthquake information using a variety of parameters.
-- [movebank-api](https://github.com/movebank/movebank-api-doc) - Movebank is a free, online database and research platform for animal tracking and other on-animal sensor data 
-
-### Collections
-Compilations and repositories of open datasets.
-- [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - An awesome repository full of open datasets from an abundance of different categories.
-- [Free GIS data](https://freegisdata.rtwilson.com/) - Links to over 500 sites providing freely available geographic datasets.
-- [WRI](https://www.wri.org/data) - World resources institute.
 
 ## Colour advice
 Tools to help you choose the best colours for your maps.
