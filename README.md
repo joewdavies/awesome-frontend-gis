@@ -2,7 +2,7 @@
 
 <div>
     <a href="https://github.com/eurostat/gridviz" target="_blank">
-        <img src='https://user-images.githubusercontent.com/25485293/191950255-cbd83c6a-4880-4c0a-a665-b59a21467702.PNG'></img>
+        <img src='https://user-images.githubusercontent.com/25485293/191950255-cbd83c6a-4880-4c0a-a665-b59a21467702.PNG'>
     </a>
     <p align="right">
         <sup>
@@ -18,13 +18,13 @@ Awesome Frontend GIS is a compilation of geospatial-related frameworks, tools, d
 # Contents
   - [**JS Libraries**](#js-libraries)
     - [Mapping](#mapping) 
-        - [Map viewers](#map-viewers) 
-        - [Thematic mapping](#thematic-mapping) 
+     - [Map viewers](#map-viewers) 
+     - [Thematic mapping](#thematic-mapping) 
     - [Data analysis](#data-analysis)
   - [**Data sources**](#data-sources)
     - [Downloads](#downloads)
     - [Web APIs](#web-apis)
-        - [Routing](#routing)
+     - [Routing](#routing)
     - [Collections](#collections)
   - [**Notebooks**](#notebooks)
   - [**Web maps**](#web-maps)
@@ -127,10 +127,11 @@ Some JavaScript notebooks to help you code.
 
 ## Web maps
 A compilation of interesting web maps.
-- [Map of notable people](https://tjukanovt.github.io/notable-people) - Topi Tjukanov
+- [Map of notable people](https://tjukanovt.github.io/notable-people) - Topi Tjukanov.
+- [Submarine cable map](https://www.submarinecablemap.com/) - TeleGeography.
 - [Radio Garden](https://radio.garden/) - 3D Globe Radio Tuner.
-- [Map of every building in the United States](https://www.nytimes.com/interactive/2018/10/12/us/map-of-every-building-in-the-united-states.html) - New York Times
-- [Map of the Roman transport network](https://orbis.stanford.edu/) - The Stanford Geospatial Network Model of the Roman World
+- [Map of every building in the United States](https://www.nytimes.com/interactive/2018/10/12/us/map-of-every-building-in-the-united-states.html) - New York Times.
+- [Map of the Roman transport network](https://orbis.stanford.edu/) - The Stanford Geospatial Network Model of the Roman World.
 
 ## Web apps
 Plug-and-play geospatial web apps!
