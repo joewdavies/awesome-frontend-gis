@@ -103,6 +103,7 @@ Restful APIs for consuming geospatial data on the fly.
 - [USGS earthquake data](https://earthquake.usgs.gov/fdsnws/event/1/) - Allows custom searches for earthquake information using a variety of parameters.
 - [movebank-api](https://github.com/movebank/movebank-api-doc) - Movebank is a free, online database and research platform for animal tracking and other on-animal sensor data 
 - [Overpass API](https://wiki.openstreetmap.org/wiki/Overpass_API) - Retrieve OpenStreetMap data.
+- [Open Notify](http://open-notify.org/Open-Notify-API/) - Get the current location of the International Space Station (ISS) and current number of people in space!
 
 #### Routing 
 - [openrouteservice](https://openrouteservice.org/dev/#/api-docs) - Directions, Isochrones, Time-Distance Matrix, Pelias Geocoding, POIs, Elevation, Optimization.
