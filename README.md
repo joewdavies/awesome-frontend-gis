@@ -118,14 +118,20 @@ Compilations and repositories of open datasets.
 
 ## Notebooks 
 Some JavaScript notebooks to help you code.
-- [Bars and pubs in Paris](https://observablehq.com/@neocartocnrs/bars-pubs-in-paris) - Nicolas Lambert
-- [How to make a nice scalebar](https://observablehq.com/@jgaffuri/nice-scale-bar) - Julien Gaffuri
-- [Brussels Street Gender Inequality](https://observablehq.com/@karimdouieb/brussels-streets-gender-inequality) - Karim Douieb
-- [Visualizing earthquakes with Three.js](https://observablehq.com/@joewdavies/visualizing-earthquakes-with-three-js) - Joe Davies
-- [Animating voting maps with regl](https://observablehq.com/@bmschmidt/animating-voting-maps-with-regl) - Benjamin Schmidt
-- [Hello, Bertin.js](https://observablehq.com/@neocartocnrs/hello-bertin-js) - Nicolas Lambert
-- [Election maps as dorling striped circles](https://observablehq.com/@jgaffuri/election-map-dorling-striped-circles) - Julien Gaffuri
-- [Visualizing Eurostat grid data using Three.js & D3](https://observablehq.com/@joewdavies/visualizing-eurostat-grid-data-using-three-js-d3) - Joe Davies
+
+- [Try to impeach this? Challenge accepted!](https://observablehq.com/@karimdouieb/try-to-impeach-this-challenge-accepted) - Karim Douieb.
+- [Bars and pubs in Paris](https://observablehq.com/@neocartocnrs/bars-pubs-in-paris) - Nicolas Lambert.
+- [How to make a nice scalebar](https://observablehq.com/@jgaffuri/nice-scale-bar) - Julien Gaffuri.
+- [Brussels Street Gender Inequality](https://observablehq.com/@karimdouieb/brussels-streets-gender-inequality) - Karim Douieb.
+- [Visualizing earthquakes with Three.js](https://observablehq.com/@joewdavies/visualizing-earthquakes-with-three-js) - Joe Davies.
+- [Animating voting maps with regl](https://observablehq.com/@bmschmidt/animating-voting-maps-with-regl) - Benjamin Schmidt.
+- [Hello, Bertin.js](https://observablehq.com/@neocartocnrs/hello-bertin-js) - Nicolas Lambert.
+- [Election maps as dorling striped circles](https://observablehq.com/@jgaffuri/election-map-dorling-striped-circles) - Julien Gaffuri.
+- [Visualizing Eurostat grid data using Three.js & D3](https://observablehq.com/@joewdavies/visualizing-eurostat-grid-data-using-three-js-d3) - Joe Davies.
+- [GeoParquet on the web](https://observablehq.com/@kylebarron/geoparquet-on-the-web) - Kyle Barron.
+- [Interactive Regl wind demo](https://observablehq.com/@dkaoster/interactive-regl-wind-demo) - Daniel Kao.
+- [Bivariate Choropleth with Continuous Color Scales](https://observablehq.com/@stephanietuerk/bivariate-choropleth-with-continuous-color-scales) - Stephanie Tuerk.
+
 
 ## Web maps 
 A compilation of interesting web maps.
