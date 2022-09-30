@@ -55,7 +55,7 @@ Awesome Frontend GIS is a compilation of geospatial-related frameworks, tools, d
   - [HERE maps API](https://developer.here.com/develop/javascript-api) - Build web applications with feature-rich and customizable HERE maps
   
   #### Thematic mapping
-  For mapping a particular theme to a geographic area.
+  For mapping a particular theme to a geographic area. Think of them as cartographic dataviz.
   - [Eurostat-map](https://github.com/eurostat/eurostat-map.js) - Create and customise web maps showing Eurostat data using D3.js.
   - [Bertin.js](https://github.com/neocarto/bertin) - A JavaScript library for visualizing geospatial data and making thematic maps for the web.
   - [gridviz](https://github.com/eurostat/gridviz) - A Three.js-based library for visualizing gridded statistics datasets as CSV files. 
@@ -92,6 +92,7 @@ A compilation of interesting web maps.
 - [Map of notable people](https://tjukanovt.github.io/notable-people) - Topi Tjukanov
 - [Radio Garden](https://radio.garden/) - 3D Globe Radio Tuner.
 - [Map of every building in the United States](https://www.nytimes.com/interactive/2018/10/12/us/map-of-every-building-in-the-united-states.html) - New York Times
+- [Map of the Roman transport network](https://orbis.stanford.edu/) - The Stanford Geospatial Network Model of the Roman World
 
 ## Web apps
 Plug-and-play geospatial web apps!
@@ -114,6 +115,8 @@ Data available for download.
 - [ETOPO1](https://www.ngdc.noaa.gov/mgg/global/) - 1 arc-minute global relief model of Earth's surface that integrates land topography and ocean bathymetry.
 - [HydroSHEDS](https://www.hydrosheds.org/) - Hydrographic information in a consistent and comprehensive format for regional and global-scale applications.
 - [geoboundaries](https://www.geoboundaries.org/) - The world's largest open, free and research-ready database of political administrative boundaries.
+- [Global power plant database](https://datasets.wri.org/dataset/globalpowerplantdatabase) - A comprehensive, global, open source database of power plants.
+- [Ookla internet speed data](https://github.com/teamookla/ookla-open-data) - Provides global network performance metrics. Data is provided in both Shapefile format as well as Apache Parquet.
 
 ### Web APIs
 Restful APIs for consuming geospatial data on the fly.
