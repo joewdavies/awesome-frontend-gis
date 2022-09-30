@@ -1,12 +1,15 @@
 # Awesome Frontend GIS
 
-<p>
+<div>
     <a href="https://github.com/eurostat/gridviz" target="_blank">
-    <img src='https://user-images.githubusercontent.com/25485293/191950255-cbd83c6a-4880-4c0a-a665-b59a21467702.PNG'></img>
+        <img src='https://user-images.githubusercontent.com/25485293/191950255-cbd83c6a-4880-4c0a-a665-b59a21467702.PNG'></img>
     </a>
-    <sup><em id="banner-caption" style="font-size: 10px !important;">gridviz example</em></sub>
-</p>
-
+    <p align="right">
+        <sup>
+            <em  id="banner-caption" style="font-size: 10px !important;">gridviz example</em>
+        </sup>
+    </p>
+</div>
 
 Awesome Frontend GIS is a compilation of geospatial-related frameworks, tools, demos, applications, data sources and more - all for use on the browser!
 
@@ -97,11 +100,13 @@ A compilation of interesting web maps.
 ## Web apps
 Plug-and-play geospatial web apps!
 
+- [city roads](https://anvaka.github.io/city-roads/) - Render every single road in any city at once.
 - [Kepler](https://kepler.gl/demo) - A powerful open source geospatial analysis tool for large-scale data sets.
 - [Plasio](https://github.com/verma/plasio) - Drag-n-drop In-browser LAS/LAZ point cloud viewer.
 - [mapshaper](https://mapshaper.org/) - Online editor for map data.
 - [geotiff.io](http://app.geotiff.io/) - GeoTIFF.io provides quick access to easy-to-use raster processing.
 - [StoryMap JS](https://storymap.knightlab.com/) - The Open source alternative to ESRI’s Story map application.
+
   
 ## Data sources
 A collection of geospatial open data sources.
@@ -120,6 +125,7 @@ Data available for download.
 
 ### Web APIs
 Restful APIs for consuming geospatial data on the fly.
+- [Overpass API](https://wiki.openstreetmap.org/wiki/Overpass_API) - Retrieve OpenStreetMap data.
 - [USGS earthquake data](https://earthquake.usgs.gov/fdsnws/event/1/) - Allows custom searches for earthquake information using a variety of parameters.
 - [movebank-api](https://github.com/movebank/movebank-api-doc) - Movebank is a free, online database and research platform for animal tracking and other on-animal sensor data 
 
