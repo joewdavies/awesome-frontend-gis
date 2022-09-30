@@ -18,13 +18,13 @@ Awesome Frontend GIS is a compilation of geospatial-related frameworks, tools, d
 # Contents
   - [**JS Libraries**](#js-libraries)
     - [Mapping](#mapping) 
-     - [Map viewers](#map-viewers) 
-     - [Thematic mapping](#thematic-mapping) 
+        - [Map viewers](#map-viewers) 
+        - [Thematic mapping](#thematic-mapping) 
     - [Data analysis](#data-analysis)
   - [**Data sources**](#data-sources)
     - [Downloads](#downloads)
     - [Web APIs](#web-apis)
-     - [Routing](#routing)
+         - [Routing](#routing)
     - [Collections](#collections)
   - [**Notebooks**](#notebooks)
   - [**Web maps**](#web-maps)
@@ -32,59 +32,59 @@ Awesome Frontend GIS is a compilation of geospatial-related frameworks, tools, d
   - [**Colour advice**](#colour-advice)
   - [**LiDAR**](#lidar)
 
-## JS Libraries
+## JS Libraries 
 
-  ### Mapping
-  Libraries for building maps.
-  
-  #### Map viewers
-  Map engines for visualizing geospatial data.
-  - [Leaflet](https://leafletjs.com/) - The leading open-source JavaScript library for mobile-friendly interactive maps.
-  - [OpenLayers](https://openlayers.org/) - A high-performance, feature-packed library for creating interactive maps on the web.
-  - [Cesium.js](https://cesiumjs.org/) - An open-source JavaScript library for world-class 3D mapping of geospatial data.
-  - [ArcGIS API for JS](https://developers.arcgis.com/javascript/latest/release-notes/) - A lightweight way to embed maps and tasks in web applications.
-  - [Mapbox GL JS](https://docs.mapbox.com/mapbox-gl-js/examples/) - JavaScript library that uses WebGL to render interactive maps from vector tiles.
-  - [maplibre](https://github.com/maplibre/maplibre-gl-js) - It originated as an open-source fork of mapbox-gl-js, before their switch to a non-OSS license in December 2020.
-  - [MapTalks.js](https://github.com/maptalks/maptalks.js) - An open-source javascript library for integrated 2D/3D maps.
-  - [antvis L7](https://github.com/antvis/L7) - Large-scale WebGL-powered Geospatial Data Visualization.
-  - [Tangram](https://github.com/tangrams/tangram) - WebGL map rendering engine for creative cartography.
-  - [Three.js](https://github.com/mrdoob/three.js) - Easy to use, lightweight, cross-browser, general purpose 3D library.
-  - [Procedural GL JS](https://github.com/felixpalmer/procedural-gl-js) - Procedural GL JS is a library built on top THREE.js for creating 3D maps on the web.
-  - [iTowns](https://github.com/iTowns/itowns) - A Three.js-based framework written in Javascript/WebGL for visualizing 3D geospatial data.
-  - [globe.gl](https://globe.gl/) - This library is a convenience wrapper around the three-globe plugin, and uses ThreeJS/WebGL for 3D rendering.
-  - [ArcGIS API for JS v4](https://developers.arcgis.com/javascript/) - A lightweight way to embed maps and tasks in web applications.
-  - [Wrld.js](https://github.com/wrld3d/wrld.js/) - Animated 3D city maps based on Leaflet.
-  - [Deck.GL](https://github.com/uber/deck.gl) - WebGL2 powered geospatial visualization layers.
-  - [harp.gl](https://github.com/heremaps/harp.gl) - An experimental and work in progress open-source 3D map rendering engine.
-  - [HERE maps API](https://developer.here.com/develop/javascript-api) - Build web applications with feature-rich and customizable HERE maps
-  
-  #### Thematic mapping
-  For mapping a particular theme to a geographic area. Think of them as cartographic dataviz.
-  - [Eurostat-map](https://github.com/eurostat/eurostat-map.js) - Create and customise web maps showing Eurostat data using D3.js.
-  - [Bertin.js](https://github.com/neocarto/bertin) - A JavaScript library for visualizing geospatial data and making thematic maps for the web.
-  - [gridviz](https://github.com/eurostat/gridviz) - A Three.js-based library for visualizing gridded statistics datasets as CSV files. 
-  - [d3-geo](https://github.com/d3/d3-geo) - A library for creating maps based on D3.js.
-  - [regl-map-animation](https://github.com/eurostat/regl-map-animation) - Animate x/y point data using regl and categorize them into a bar chart.
+### Mapping 
+Libraries for building maps.
 
-  ### Data analysis
-  Libraries that help you analyse and process geospatial data.
-  - [Turf.js](https://github.com/Turfjs/turf) - Turf is a JavaScript library for spatial analysis.
-  - [Proj4js](https://github.com/proj4js/proj4js) - Transform coordinates from one coordinate system to another, including datum transformations.
-  - [GeoTiff.js](https://github.com/geotiffjs/geotiff.js) - Parse TIFF files for visualization or analysis.
-  - [Arc.js](https://github.com/springmeyer/arc.js) - Calculate great circles routes as lines in GeoJSON or WKT format.
-  - [awesome-GeoJSON](https://github.com/tmcw/awesome-geojson) - Catalogue of GeoJSON tools.
-  - [topoJSON](https://github.com/topojson/topojson) - Convert GeoJSON to TopoJSON for use in D3 maps.
-  - [Wicket](https://github.com/arthur-e/Wicket) - A modest library for moving between Well-Known Text (WKT) and various framework geometries.
-  - [koop](https://github.com/koopjs/koop) - Koop is a JavaScript toolkit for connecting incompatible spatial APIs.
-  - [spl.js](https://github.com/jvail/spl.js) - Makes it possible to use SpatiaLite functionality in JavaScript. Behind the scenes, a WebAssembly port of SpatiaLite is used.
-  - [geotoolbox](https://github.com/neocarto/geotoolbox) - Provides several GIS operations for use with geojson properties. Useful for thematic cartography.
-  - [supercluster](https://www.npmjs.com/package/supercluster) - A very fast JavaScript library for geospatial point clustering for browsers and Node.
+#### Map viewers 
+Map engines for visualizing geospatial data.
+- [Leaflet](https://leafletjs.com/) - The leading open-source JavaScript library for mobile-friendly interactive maps.
+- [OpenLayers](https://openlayers.org/) - A high-performance, feature-packed library for creating interactive maps on the web.
+- [Cesium.js](https://cesiumjs.org/) - An open-source JavaScript library for world-class 3D mapping of geospatial data.
+- [ArcGIS API for JS](https://developers.arcgis.com/javascript/latest/release-notes/) - A lightweight way to embed maps and tasks in web applications.
+- [Mapbox GL JS](https://docs.mapbox.com/mapbox-gl-js/examples/) - JavaScript library that uses WebGL to render interactive maps from vector tiles.
+- [maplibre](https://github.com/maplibre/maplibre-gl-js) - It originated as an open-source fork of mapbox-gl-js, before their switch to a non-OSS license in December 2020.
+- [MapTalks.js](https://github.com/maptalks/maptalks.js) - An open-source javascript library for integrated 2D/3D maps.
+- [antvis L7](https://github.com/antvis/L7) - Large-scale WebGL-powered Geospatial Data Visualization.
+- [Tangram](https://github.com/tangrams/tangram) - WebGL map rendering engine for creative cartography.
+- [Three.js](https://github.com/mrdoob/three.js) - Easy to use, lightweight, cross-browser, general purpose 3D library.
+- [Procedural GL JS](https://github.com/felixpalmer/procedural-gl-js) - Procedural GL JS is a library built on top THREE.js for creating 3D maps on the web.
+- [iTowns](https://github.com/iTowns/itowns) - A Three.js-based framework written in Javascript/WebGL for visualizing 3D geospatial data.
+- [globe.gl](https://globe.gl/) - This library is a convenience wrapper around the three-globe plugin, and uses ThreeJS/WebGL for 3D rendering.
+- [ArcGIS API for JS v4](https://developers.arcgis.com/javascript/) - A lightweight way to embed maps and tasks in web applications.
+- [Wrld.js](https://github.com/wrld3d/wrld.js/) - Animated 3D city maps based on Leaflet.
+- [Deck.GL](https://github.com/uber/deck.gl) - WebGL2 powered geospatial visualization layers.
+- [harp.gl](https://github.com/heremaps/harp.gl) - An experimental and work in progress open-source 3D map rendering engine.
+- [HERE maps API](https://developer.here.com/develop/javascript-api) - Build web applications with feature-rich and customizable HERE maps
+
+#### Thematic mapping 
+For mapping a particular theme to a geographic area. Think of them as cartographic dataviz.
+- [Eurostat-map](https://github.com/eurostat/eurostat-map.js) - Create and customise web maps showing Eurostat data using D3.js.
+- [Bertin.js](https://github.com/neocarto/bertin) - A JavaScript library for visualizing geospatial data and making thematic maps for the web.
+- [gridviz](https://github.com/eurostat/gridviz) - A Three.js-based library for visualizing gridded statistics datasets as CSV files. 
+- [d3-geo](https://github.com/d3/d3-geo) - A library for creating maps based on D3.js.
+- [regl-map-animation](https://github.com/eurostat/regl-map-animation) - Animate x/y point data using regl and categorize them into a bar chart.
+
+### Data analysis 
+Libraries that help you analyse and process geospatial data.
+- [Turf.js](https://github.com/Turfjs/turf) - Turf is a JavaScript library for spatial analysis.
+- [Proj4js](https://github.com/proj4js/proj4js) - Transform coordinates from one coordinate system to another, including datum transformations.
+- [GeoTiff.js](https://github.com/geotiffjs/geotiff.js) - Parse TIFF files for visualization or analysis.
+- [Arc.js](https://github.com/springmeyer/arc.js) - Calculate great circles routes as lines in GeoJSON or WKT format.
+- [awesome-GeoJSON](https://github.com/tmcw/awesome-geojson) - Catalogue of GeoJSON tools.
+- [topoJSON](https://github.com/topojson/topojson) - Convert GeoJSON to TopoJSON for use in D3 maps.
+- [Wicket](https://github.com/arthur-e/Wicket) - A modest library for moving between Well-Known Text (WKT) and various framework geometries.
+- [koop](https://github.com/koopjs/koop) - Koop is a JavaScript toolkit for connecting incompatible spatial APIs.
+- [spl.js](https://github.com/jvail/spl.js) - Makes it possible to use SpatiaLite functionality in JavaScript. Behind the scenes, a WebAssembly port of SpatiaLite is used.
+- [geotoolbox](https://github.com/neocarto/geotoolbox) - Provides several GIS operations for use with geojson properties. Useful for thematic cartography.
+- [supercluster](https://www.npmjs.com/package/supercluster) - A very fast JavaScript library for geospatial point clustering for browsers and Node.
 
 
-## Data sources
+## Data sources 
 A collection of geospatial open data sources.
 
-### Downloads
+### Downloads 
 Data available for download.
 - [OpenMapTiles](https://openmaptiles.org/) - Free OpenStreetMap Vector Tiles.
 - [OpenStreetMap](https://www.geofabrik.de/data/download.html) - A free, world-wide geographic data set.
@@ -96,7 +96,7 @@ Data available for download.
 - [Global power plant database](https://datasets.wri.org/dataset/globalpowerplantdatabase) - A comprehensive, global, open source database of power plants.
 - [Ookla internet speed data](https://github.com/teamookla/ookla-open-data) - Provides global network performance metrics. Data is provided in both Shapefile format as well as Apache Parquet.
 
-### Web APIs
+### Web APIs 
 Restful APIs for consuming geospatial data on the fly.
 
 - [REST counrties](https://restcountries.com/) - Get information about countries via a RESTful API.
@@ -104,18 +104,18 @@ Restful APIs for consuming geospatial data on the fly.
 - [movebank-api](https://github.com/movebank/movebank-api-doc) - Movebank is a free, online database and research platform for animal tracking and other on-animal sensor data 
 - [Overpass API](https://wiki.openstreetmap.org/wiki/Overpass_API) - Retrieve OpenStreetMap data.
 
-#### Routing
+#### Routing 
 - [openrouteservice](https://openrouteservice.org/dev/#/api-docs) - Directions, Isochrones, Time-Distance Matrix, Pelias Geocoding, POIs, Elevation, Optimization.
 - [GraphHopper Route Optimization API](https://www.graphhopper.com/route-optimization/) - Solves a variety of vehicle routing problems, including the classical “traveling salesman problem”.
 
-### Collections
+### Collections 
 Compilations and repositories of open datasets.
 - [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - An awesome repository full of open datasets from an abundance of different categories.
 - [Free GIS data](https://freegisdata.rtwilson.com/) - Links to over 500 sites providing freely available geographic datasets.
 - [WRI](https://www.wri.org/data) - World resources institute.
 - [Public APIs](https://github.com/public-apis/public-apis) - A collective list of free APIs for use in software and web development.
 
-## Notebooks
+## Notebooks 
 Some JavaScript notebooks to help you code.
 - [Bars and pubs in Paris](https://observablehq.com/@neocartocnrs/bars-pubs-in-paris) - Nicolas Lambert
 - [How to make a nice scalebar](https://observablehq.com/@jgaffuri/nice-scale-bar) - Julien Gaffuri
@@ -125,7 +125,7 @@ Some JavaScript notebooks to help you code.
 - [Election maps as dorling striped circles](https://observablehq.com/@jgaffuri/election-map-dorling-striped-circles) - Julien Gaffuri
 - [Visualizing Eurostat grid data using Three.js & D3](https://observablehq.com/@joewdavies/visualizing-eurostat-grid-data-using-three-js-d3) - Joe Davies
 
-## Web maps
+## Web maps 
 A compilation of interesting web maps.
 - [Map of notable people](https://tjukanovt.github.io/notable-people) - Topi Tjukanov.
 - [Submarine cable map](https://www.submarinecablemap.com/) - TeleGeography.
@@ -133,7 +133,7 @@ A compilation of interesting web maps.
 - [Map of every building in the United States](https://www.nytimes.com/interactive/2018/10/12/us/map-of-every-building-in-the-united-states.html) - New York Times.
 - [Map of the Roman transport network](https://orbis.stanford.edu/) - The Stanford Geospatial Network Model of the Roman World.
 
-## Web apps
+## Web apps 
 Plug-and-play geospatial web apps!
 
 - [city roads](https://anvaka.github.io/city-roads/) - Render every single road in any city at once.
@@ -143,12 +143,12 @@ Plug-and-play geospatial web apps!
 - [geotiff.io](http://app.geotiff.io/) - GeoTIFF.io provides quick access to easy-to-use raster processing.
 - [StoryMap JS](https://storymap.knightlab.com/) - The Open source alternative to ESRI’s Story map application.
 
-## Colour advice
+## Colour advice 
 Tools to help you choose the best colours for your maps.
 - [ColorBrewer](https://colorbrewer2.org/) - Colour advice for maps.
 - [viz-palette](https://projects.susielu.com/viz-palette) - This project is optimized for tweaking, copying, and pasting colors in and out of JavaScript.
 
-## LiDAR
+## LiDAR 
 - [Plasio](https://github.com/verma/plasio) - Drag-n-drop In-browser LAS/LAZ point cloud viewer.
 - [Potree](https://github.com/potree/potree) - WebGL point cloud viewer for large datasets.
 - [Potree & Cesium.js](http://potree.org/potree/examples/cesium_retz.html) - Rezt, Austria LIDAR viewer.
