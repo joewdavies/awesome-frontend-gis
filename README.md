@@ -13,17 +13,20 @@ Awesome Frontend GIS is a compilation of geospatial-related frameworks, tools, d
 **Feel free to contribute!**
 
 # Contents
-  - [JS Libraries](#js-libraries)
+  - [**JS Libraries**](#js-libraries)
     - [Mapping](#mapping) 
         - [Map viewers](#map-viewers) 
         - [Thematic mapping](#thematic-mapping) 
     - [Data analysis](#data-analysis)
-  - [Notebooks](#notebooks)
-  - [Web maps](#web-maps)
-  - [Web apps](#web-apps)
-  - [Data sources](#data-sources)
-  - [Colour advice](#colour-advice)
-  - [LiDAR](#lidar)
+  - [**Notebooks**](#notebooks)
+  - [**Web maps**](#web-maps)
+  - [**Web apps**](#web-apps)
+  - [**Data sources**](#data-sources)
+    - [Downloads](#downloads)
+    - [Web APIs](#web-apis)
+    - [Collections](#collections)
+  - [**Colour advice**](#colour-advice)
+  - [**LiDAR**](#lidar)
 
 ## JS Libraries
 
@@ -34,6 +37,7 @@ Awesome Frontend GIS is a compilation of geospatial-related frameworks, tools, d
   Map engines for visualizing geospatial data.
   - [Leaflet](https://leafletjs.com/) - The leading open-source JavaScript library for mobile-friendly interactive maps.
   - [OpenLayers](https://openlayers.org/) - A high-performance, feature-packed library for creating interactive maps on the web.
+  - [Cesium.js](https://cesiumjs.org/) - An open-source JavaScript library for world-class 3D mapping of geospatial data.
   - [ArcGIS API for JS](https://developers.arcgis.com/javascript/latest/release-notes/) - A lightweight way to embed maps and tasks in web applications.
   - [Mapbox GL JS](https://docs.mapbox.com/mapbox-gl-js/examples/) - JavaScript library that uses WebGL to render interactive maps from vector tiles.
   - [maplibre](https://github.com/maplibre/maplibre-gl-js) - It originated as an open-source fork of mapbox-gl-js, before their switch to a non-OSS license in December 2020.
@@ -42,13 +46,13 @@ Awesome Frontend GIS is a compilation of geospatial-related frameworks, tools, d
   - [Tangram](https://github.com/tangrams/tangram) - WebGL map rendering engine for creative cartography.
   - [Three.js](https://github.com/mrdoob/three.js) - Easy to use, lightweight, cross-browser, general purpose 3D library.
   - [Procedural GL JS](https://github.com/felixpalmer/procedural-gl-js) - Procedural GL JS is a library built on top THREE.js for creating 3D maps on the web.
-  - [Cesium.js](https://cesiumjs.org/) - An open-source JavaScript library for world-class 3D mapping of geospatial data.
   - [iTowns](https://github.com/iTowns/itowns) - A Three.js-based framework written in Javascript/WebGL for visualizing 3D geospatial data.
   - [globe.gl](https://globe.gl/) - This library is a convenience wrapper around the three-globe plugin, and uses ThreeJS/WebGL for 3D rendering.
   - [ArcGIS API for JS v4](https://developers.arcgis.com/javascript/) - A lightweight way to embed maps and tasks in web applications.
   - [Wrld.js](https://github.com/wrld3d/wrld.js/) - Animated 3D city maps based on Leaflet.
   - [Deck.GL](https://github.com/uber/deck.gl) - WebGL2 powered geospatial visualization layers.
   - [harp.gl](https://github.com/heremaps/harp.gl) - An experimental and work in progress open-source 3D map rendering engine.
+  - [HERE maps API](https://developer.here.com/develop/javascript-api) - Build web applications with feature-rich and customizable HERE maps
   
   #### Thematic mapping
   For mapping a particular theme to a geographic area.
@@ -70,6 +74,7 @@ Awesome Frontend GIS is a compilation of geospatial-related frameworks, tools, d
   - [koop](https://github.com/koopjs/koop) - Koop is a JavaScript toolkit for connecting incompatible spatial APIs.
   - [spl.js](https://github.com/jvail/spl.js) - Makes it possible to use SpatiaLite functionality in JavaScript. Behind the scenes, a WebAssembly port of SpatiaLite is used.
   - [geotoolbox](https://github.com/neocarto/geotoolbox) - Provides several GIS operations for use with geojson properties. Useful for thematic cartography.
+  - [supercluster](https://www.npmjs.com/package/supercluster) - A very fast JavaScript library for geospatial point clustering for browsers and Node.
   
 
 ## Notebooks
@@ -95,21 +100,31 @@ Plug-and-play geospatial web apps!
 - [Plasio](https://github.com/verma/plasio) - Drag-n-drop In-browser LAS/LAZ point cloud viewer.
 - [mapshaper](https://mapshaper.org/) - Online editor for map data.
 - [geotiff.io](http://app.geotiff.io/) - GeoTIFF.io provides quick access to easy-to-use raster processing.
+- [StoryMap JS](https://storymap.knightlab.com/) - The Open source alternative to ESRI’s Story map application.
   
 ## Data sources
 A collection of geospatial open data sources.
 
+### Downloads
+Data available for download.
 - [OpenMapTiles](https://openmaptiles.org/) - Free OpenStreetMap Vector Tiles.
 - [OpenStreetMap](https://www.geofabrik.de/data/download.html) - A free, world-wide geographic data set.
 - [Natural Earth](https://www.naturalearthdata.com/) - Free vector and raster map data at 1:10m, 1:50m, and 1:110m scales.
 - [Copernicus global DEM](https://ec.europa.eu/eurostat/web/gisco/geodata/reference-data/elevation/copernicus-dem/elevation) - Global elevation tiles.
 - [ETOPO1](https://www.ngdc.noaa.gov/mgg/global/) - 1 arc-minute global relief model of Earth's surface that integrates land topography and ocean bathymetry.
 - [HydroSHEDS](https://www.hydrosheds.org/) - Hydrographic information in a consistent and comprehensive format for regional and global-scale applications.
-- [WRI](https://www.wri.org/data) - World resources institute.
 - [geoboundaries](https://www.geoboundaries.org/) - The world's largest open, free and research-ready database of political administrative boundaries.
+
+### Web APIs
+Restful APIs for consuming geospatial data on the fly.
+- [USGS earthquake data](https://earthquake.usgs.gov/fdsnws/event/1/) - Allows custom searches for earthquake information using a variety of parameters.
+- [movebank-api](https://github.com/movebank/movebank-api-doc) - Movebank is a free, online database and research platform for animal tracking and other on-animal sensor data 
+
+### Collections
+Compilations and repositories of open datasets.
 - [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - An awesome repository full of open datasets from an abundance of different categories.
 - [Free GIS data](https://freegisdata.rtwilson.com/) - Links to over 500 sites providing freely available geographic datasets.
-
+- [WRI](https://www.wri.org/data) - World resources institute.
 
 ## Colour advice
 Tools to help you choose the best colours for your maps.
