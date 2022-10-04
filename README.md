@@ -16,9 +16,7 @@
 <p align="center">
   A compilation of geospatial-related frameworks, tools, demos, applications, data sources and more - all for use on the browser.
   <br />
-    <b>Feel free to contribute!</b>
   <br />
-   <br />
   <a href="https://github.com/sindresorhus/awesome">
     <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" href="https://github.com/sindresorhus/awesome">
   </a>
