@@ -32,6 +32,7 @@ Awesome Frontend GIS is a compilation of geospatial-related frameworks, tools, d
   - [**Web maps**](#web-maps)
   - [**Web apps**](#web-apps)
   - [**Colour advice**](#colour-advice)
+  - [**Videos**](#videos)
   - [**Further reading**](#further-reading)
 
 ## JS Libraries 
@@ -196,7 +197,7 @@ Tools to help you choose the best colours for your maps.
 - [Chroma.js Color Palette Helper](https://gka.github.io/palettes/#/9|s|00429d,96ffea,ffffe0|ffffe0,ff005e,93003a|1|1) - This chroma.js-powered tool is here to help us mastering multi-hued, multi-stops color scales.
 
 ## Videos
-Videos of mapping presentations and tutorials.
+Videos of web mapping presentations and tutorials.
 
 - [Mapping Geolocation with Leaflet.js - Working with Data and APIs in JavaScript](https://www.youtube.com/watch?v=nZaZ2dB6pow) - The Coding Train
 - [10 Maps, and the Tech and Stories Behind Them](https://www.youtube.com/watch?v=PpWAKVjPlgU) - Maarten Lambrechts
