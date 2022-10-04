@@ -31,7 +31,6 @@ Awesome Frontend GIS is a compilation of geospatial-related frameworks, tools, d
   - [**Web maps**](#web-maps)
   - [**Web apps**](#web-apps)
   - [**Colour advice**](#colour-advice)
-  - [**LiDAR**](#lidar)
   - [**Further reading**](#further-reading)
 
 ## JS Libraries 
