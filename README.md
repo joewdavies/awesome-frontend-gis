@@ -1,4 +1,4 @@
-<!--lint disable awesome-heading awesome-git-repo-age awesome-github double-link-->
+<!--lint disable awesome-heading awesome-git-repo-age awesome-github double-link awesome-toc-->
 
 <div>
     <a href="https://github.com/eurostat/gridviz" target="_blank">
