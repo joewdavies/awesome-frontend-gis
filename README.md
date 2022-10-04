@@ -20,6 +20,7 @@ Awesome Frontend GIS is a compilation of geospatial-related frameworks, tools, d
     - [Mapping](#mapping) 
         - [Map viewers](#map-viewers) 
         - [Thematic mapping](#thematic-mapping) 
+        - [LiDAR](#lidar) 
     - [Data analysis](#data-analysis)
   - [**Data sources**](#data-sources)
     - [Downloads](#downloads)
@@ -31,6 +32,7 @@ Awesome Frontend GIS is a compilation of geospatial-related frameworks, tools, d
   - [**Web apps**](#web-apps)
   - [**Colour advice**](#colour-advice)
   - [**LiDAR**](#lidar)
+  - [**Further reading**](#further-reading)
 
 ## JS Libraries 
 
@@ -80,6 +82,12 @@ Libraries that help you analyse and process geospatial data.
 - [geotoolbox](https://github.com/neocarto/geotoolbox) - Provides several GIS operations for use with geojson properties. Useful for thematic cartography.
 - [supercluster](https://www.npmjs.com/package/supercluster) - A very fast JavaScript library for geospatial point clustering for browsers and Node.
 
+### LiDAR
+Tools for visualizing point clouds.
+- [Potree](https://github.com/potree/potree) - WebGL point cloud viewer for large datasets.
+- [Plasio](https://github.com/verma/plasio) - Drag-n-drop In-browser LAS/LAZ point cloud viewer.
+- [Potree & Cesium.js](http://potree.org/potree/examples/cesium_retz.html) - Rezt, Austria LIDAR viewer.
+- [Three.js](https://threejs.org/examples/#webgl_loader_pcd) - Point cloud data loader.
 
 ## Data sources 
 A collection of geospatial open data sources.
@@ -159,7 +167,6 @@ Tools to help you choose the best colours for your maps.
 - [ColorBrewer](https://colorbrewer2.org/) - Colour advice for maps.
 - [viz-palette](https://projects.susielu.com/viz-palette) - This project is optimized for tweaking, copying, and pasting colors in and out of JavaScript.
 
-## LiDAR 
-- [Plasio](https://github.com/verma/plasio) - Drag-n-drop In-browser LAS/LAZ point cloud viewer.
-- [Potree](https://github.com/potree/potree) - WebGL point cloud viewer for large datasets.
-- [Potree & Cesium.js](http://potree.org/potree/examples/cesium_retz.html) - Rezt, Austria LIDAR viewer.
+## Further reading
+- [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) - Claus O. Wilke
+- [Thematic Mapping: 101 Inspiring Ways to Visualise Empirical Data](https://www.esri.com/en-us/esri-press/browse/thematic-mapping) - Kenneth Field
