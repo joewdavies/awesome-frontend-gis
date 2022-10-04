@@ -20,6 +20,7 @@ Awesome Frontend GIS is a compilation of geospatial-related frameworks, tools, d
     - [Mapping](#mapping) 
         - [Map viewers](#map-viewers) 
         - [Thematic mapping](#thematic-mapping) 
+        - [D3-based](#d3-based)
         - [LiDAR](#lidar) 
     - [Data analysis](#data-analysis)
   - [**Data sources**](#data-sources)
@@ -64,8 +65,35 @@ For mapping a particular theme to a geographic area. Think of them as cartograph
 - [Eurostat-map](https://github.com/eurostat/eurostat-map.js) - Create and customise web maps showing Eurostat data using D3.js.
 - [Bertin.js](https://github.com/neocarto/bertin) - A JavaScript library for visualizing geospatial data and making thematic maps for the web.
 - [gridviz](https://github.com/eurostat/gridviz) - A Three.js-based library for visualizing gridded statistics datasets as CSV files. 
-- [d3-geo](https://github.com/d3/d3-geo) - A library for creating maps based on D3.js.
 - [regl-map-animation](https://github.com/eurostat/regl-map-animation) - Animate x/y point data using regl and categorize them into a bar chart.
+
+#### D3-based
+
+Mapping libraries and plugins based on the [D3 data visualization library](https://observablehq.com/@d3/gallery). Thanks to [awesome-d3](https://github.com/wbkd/awesome-d3).
+
+- [d3-carto-map](https://github.com/emeeks/d3-carto-map) - A mapping API that uses D3 geospatial functionality.
+- [d3-composite-projections](https://github.com/rveciana/d3-composite-projections) - Projections for showing countries' distant lands together.
+- [datamaps](https://github.com/markmarkoh/datamaps) - Customizable map visualizations in one file.
+- [d3-topogram](https://github.com/shawnbot/topogram) - Continuous area cartograms based on TopoJSON.
+- [d3-exploder](https://github.com/bsouthga/d3-exploder) - Lets you easily move and resize geographic features.
+- [d3-geo](https://github.com/d3/d3-geo) - A library for creating maps based on D3.js.
+- [d3-geo-polygon](https://github.com/d3/d3-geo-polygon) - Clipping and geometric operations for spherical polygons.
+- [d3-geo-projection](https://github.com/d3/d3-geo-projection) - Extended geographic projections.
+- [d3-geo-scale-bar](https://github.com/HarryStevens/d3-geo-scale-bar) - Displays automatic scale bars for projected geospatial data.
+- [d3-geo-voronoi](https://github.com/Fil/d3-geo-voronoi) - Voronoi diagrams and Delaunay triangulation for the sphere.
+- [d3-geomap](https://github.com/yaph/d3-geomap) - Library for creating geographic maps.
+- [d3.geo2rect](https://github.com/sebastian-meier/d3.geo2rect) - Morphing geojson polygons into rectangles.
+- [d3-inertia](https://github.com/Fil/d3-inertia) - An extension to d3-drag that continues the mouse movement with some inertia.
+- [earthjs](https://github.com/earthjs/earthjs) - Building orthographic globe with SVG, Canvas & WebGL.
+- [mapmap.js](https://github.com/floledermann/mapmap.js) - A data-driven API for interactive thematic maps.
+- [mapsense.js](https://github.com/mapsense/mapsense.js) - Full resolution vector maps with D3.
+- [maptable](https://github.com/Packet-Clearing-House/maptable) - Convert datasets to a set of visual components (Map, Filters, Table).
+- [simple-map-d3](https://github.com/MinnPost/simple-map-d3) - Easy choropleth style maps.
+- [spam](https://github.com/newsappsio/spam) - Create maps with D3 and Canvas, easily.
+- [leaflet-d3](https://github.com/Asymmetrik/leaflet-d3) - Collection of plugins for using D3 with Leaflet.
+- [react-d3-basic](https://github.com/react-d3/react-d3-basic) - Library For Building Composable And Declarative Maps.
+- [Wikimaps-D3js Atlas](https://github.com/WikimapsAtlas/WikimapsAtlas-generator) - CLI to generate raster, topojson and svg maps.
+- [react-simple-maps](https://github.com/zcreativelabs/react-simple-maps) - An SVG mapping component library for React, built on top of d3-geo.
 
 ### Data analysis 
 Libraries that help you analyse and process geospatial data.
