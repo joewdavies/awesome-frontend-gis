@@ -17,25 +17,25 @@ Awesome Frontend GIS is a compilation of geospatial-related frameworks, tools, d
 
 **Feel free to contribute!**
 
-# Contents
-  - [**JS Libraries**](#js-libraries)
-    - [Mapping](#mapping) 
-        - [Map viewers](#map-viewers) 
-        - [Thematic mapping](#thematic-mapping) 
-        - [D3-based](#d3-based)
-        - [LiDAR](#lidar) 
-    - [Data analysis](#data-analysis)
-  - [**Data sources**](#data-sources)
-    - [Downloads](#downloads)
-    - [Web APIs](#web-apis)
-         - [Routing](#routing)
-    - [Collections](#collections)
-  - [**Notebooks**](#notebooks)
-  - [**Web maps**](#web-maps)
-  - [**Web apps**](#web-apps)
-  - [**Colour advice**](#colour-advice)
-  - [**Videos**](#videos)
-  - [**Further reading**](#further-reading)
+## Contents
+- [**JS Libraries**](#js-libraries)
+  - [Mapping](#mapping) 
+      - [Map viewers](#map-viewers) 
+      - [Thematic mapping](#thematic-mapping) 
+      - [D3-based](#d3-based)
+      - [LiDAR](#lidar) 
+  - [Data analysis](#data-analysis)
+- [**Data sources**](#data-sources)
+  - [Downloads](#downloads)
+  - [Web APIs](#web-apis)
+       - [Routing](#routing)
+  - [Collections](#collections)
+- [**Notebooks**](#notebooks)
+- [**Web maps**](#web-maps)
+- [**Web apps**](#web-apps)
+- [**Colour advice**](#colour-advice)
+- [**Videos**](#videos)
+- [**Further reading**](#further-reading)
 
 ## JS Libraries 
 
@@ -47,21 +47,21 @@ Map engines for visualizing geospatial data.
 - [Leaflet](https://leafletjs.com/) - The leading open-source JavaScript library for mobile-friendly interactive maps.
 - [OpenLayers](https://openlayers.org/) - A high-performance, feature-packed library for creating interactive maps on the web.
 - [Cesium.js](https://cesiumjs.org/) - An open-source JavaScript library for world-class 3D mapping of geospatial data.
-- [ArcGIS API for JS](https://developers.arcgis.com/javascript/latest/release-notes/) - A lightweight way to embed maps and tasks in web applications.
+- [ArcGIS API for JS](https://developers.arcgis.com/JavaScript/latest/release-notes/) - A lightweight way to embed maps and tasks in web applications.
 - [Mapbox GL JS](https://docs.mapbox.com/mapbox-gl-js/examples/) - JavaScript library that uses WebGL to render interactive maps from vector tiles.
 - [maplibre](https://github.com/maplibre/maplibre-gl-js) - It originated as an open-source fork of mapbox-gl-js, before their switch to a non-OSS license in December 2020.
-- [MapTalks.js](https://github.com/maptalks/maptalks.js) - An open-source javascript library for integrated 2D/3D maps.
+- [MapTalks.js](https://github.com/maptalks/maptalks.js) - An open-source JavaScript library for integrated 2D/3D maps.
 - [antvis L7](https://github.com/antvis/L7) - Large-scale WebGL-powered Geospatial Data Visualization.
 - [Tangram](https://github.com/tangrams/tangram) - WebGL map rendering engine for creative cartography.
 - [Three.js](https://github.com/mrdoob/three.js) - Easy to use, lightweight, cross-browser, general purpose 3D library.
 - [Procedural GL JS](https://github.com/felixpalmer/procedural-gl-js) - Procedural GL JS is a library built on top THREE.js for creating 3D maps on the web.
-- [iTowns](https://github.com/iTowns/itowns) - A Three.js-based framework written in Javascript/WebGL for visualizing 3D geospatial data.
+- [iTowns](https://github.com/iTowns/itowns) - A Three.js-based framework written in JavaScript/WebGL for visualizing 3D geospatial data.
 - [globe.gl](https://globe.gl/) - This library is a convenience wrapper around the three-globe plugin, and uses ThreeJS/WebGL for 3D rendering.
 - [ArcGIS API for JS v4](https://developers.arcgis.com/javascript/) - A lightweight way to embed maps and tasks in web applications.
 - [Wrld.js](https://github.com/wrld3d/wrld.js/) - Animated 3D city maps based on Leaflet.
 - [Deck.GL](https://github.com/uber/deck.gl) - WebGL2 powered geospatial visualization layers.
 - [harp.gl](https://github.com/heremaps/harp.gl) - An experimental and work in progress open-source 3D map rendering engine.
-- [HERE maps API](https://developer.here.com/develop/javascript-api) - Build web applications with feature-rich and customizable HERE maps
+- [HERE maps API](https://developer.here.com/develop/javascript-api) - Build web applications with feature-rich and customizable HERE maps.
 
 #### Thematic mapping 
 For mapping a particular theme to a geographic area. Think of them as cartographic dataviz.
@@ -139,7 +139,7 @@ Restful APIs for consuming geospatial data on the fly.
 
 - [REST counrties](https://restcountries.com/) - Get information about countries via a RESTful API.
 - [USGS earthquake data](https://earthquake.usgs.gov/fdsnws/event/1/) - Allows custom searches for earthquake information using a variety of parameters.
-- [movebank-api](https://github.com/movebank/movebank-api-doc) - Movebank is a free, online database and research platform for animal tracking and other on-animal sensor data 
+- [movebank-api](https://github.com/movebank/movebank-api-doc) - Movebank is a free, online database and research platform for animal tracking and other on-animal sensor data. 
 - [Overpass API](https://wiki.openstreetmap.org/wiki/Overpass_API) - Retrieve OpenStreetMap data.
 - [Open Notify](http://open-notify.org/Open-Notify-API/) - Get the current location of the International Space Station (ISS) and current number of people in space!
 
@@ -169,7 +169,7 @@ Some JavaScript notebooks to help you code.
 - [GeoParquet on the web](https://observablehq.com/@kylebarron/geoparquet-on-the-web) - Kyle Barron.
 - [Interactive Regl wind demo](https://observablehq.com/@dkaoster/interactive-regl-wind-demo) - Daniel Kao.
 - [Bivariate Choropleth with Continuous Color Scales](https://observablehq.com/@stephanietuerk/bivariate-choropleth-with-continuous-color-scales) - Stephanie Tuerk.
-- [Hexgrid maps with d3-hexgrid](https://observablehq.com/@larsvers/hexgrid-maps-with-d3-hexgrid) - @larsvers
+- [Hexgrid maps with d3-hexgrid](https://observablehq.com/@larsvers/hexgrid-maps-with-d3-hexgrid) - @larsvers.
 - [Dorling cartogram of the Spanish Presidential election](https://observablehq.com/@adrianblanco/dorling-cartogram-of-the-spanish-presidential-election) - Adrián Blanco.
 
 
@@ -190,7 +190,7 @@ Plug-and-play geospatial web apps!
 - [Plasio](https://github.com/verma/plasio) - Drag-n-drop In-browser LAS/LAZ point cloud viewer.
 - [mapshaper](https://mapshaper.org/) - Online editor for map data.
 - [geotiff.io](http://app.geotiff.io/) - GeoTIFF.io provides quick access to easy-to-use raster processing.
-- [StoryMap JS](https://storymap.knightlab.com/) - The Open source alternative to ESRI’s Story map application.
+- [StoryMap JS](https://storymap.knightlab.com/) - The Open source alternative to ESRI's Story map application.
 
 ## Colour advice 
 Tools to help you choose the best colours for your maps.
@@ -201,12 +201,12 @@ Tools to help you choose the best colours for your maps.
 ## Videos
 Videos of web mapping presentations and tutorials.
 
-- [Mapping Geolocation with Leaflet.js - Working with Data and APIs in JavaScript](https://www.youtube.com/watch?v=nZaZ2dB6pow) - The Coding Train
-- [10 Maps, and the Tech and Stories Behind Them](https://www.youtube.com/watch?v=PpWAKVjPlgU) - Maarten Lambrechts
-- [Intermediate Three.js Tutorial - Create a Globe with Custom Shaders](https://www.youtube.com/watch?v=vM8M4QloVL0&t=4418s) - Chris Courses
+- [Mapping Geolocation with Leaflet.js - Working with Data and APIs in JavaScript](https://www.youtube.com/watch?v=nZaZ2dB6pow) - The Coding Train.
+- [10 Maps, and the Tech and Stories Behind Them](https://www.youtube.com/watch?v=PpWAKVjPlgU) - Maarten Lambrechts.
+- [Intermediate Three.js Tutorial - Create a Globe with Custom Shaders](https://www.youtube.com/watch?v=vM8M4QloVL0&t=4418s) - Chris Courses.
 
 
 ## Further reading
 - [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) - Claus O. Wilke
 - [A Workbook for Interactive Cartography and Visualization on the Open Web](https://github.com/uwcartlab/webmapping) - Robert Roth, Carl Sack, Gareth Baldrica-Franklin, Yuying Chen, Rich Donohue, Lily Houtman, Tim Prestby, Robin Tolochko, Nick Underwood.
-- [Thematic Mapping: 101 Inspiring Ways to Visualise Empirical Data](https://www.esri.com/en-us/esri-press/browse/thematic-mapping) - Kenneth Field
+- [Thematic Mapping: 101 Inspiring Ways to Visualise Empirical Data](https://www.esri.com/en-us/esri-press/browse/thematic-mapping) - Kenneth Field.
