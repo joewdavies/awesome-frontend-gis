@@ -1,7 +1,5 @@
 <!--lint disable awesome-heading awesome-git-repo-age awesome-github double-link-->
 
-# Awesome Frontend GIS  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
 <div>
     <a href="https://github.com/eurostat/gridviz" target="_blank">
         <img src='https://user-images.githubusercontent.com/25485293/191950255-cbd83c6a-4880-4c0a-a665-b59a21467702.PNG'>
@@ -13,9 +11,26 @@
     </p>
 </div>
 
-Awesome Frontend GIS is a compilation of geospatial-related frameworks, tools, demos, applications, data sources and more - all for use on the browser!
+<h2 align="center">Awesome Frontend GIS</h2>
 
-**Feel free to contribute!**
+<p align="center">
+  A compilation of geospatial-related frameworks, tools, demos, applications, data sources and more - all for use on the browser.
+  <br />
+    <b>Feel free to contribute!</b>
+  <br />
+   <br />
+  <a href="https://github.com/sindresorhus/awesome">
+    <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" href="https://github.com/sindresorhus/awesome">
+  </a>
+  &nbsp;
+  <a href="https://github.com/sindresorhus/awesome-lint">
+    <img src="https://github.com/joewdavies/awesome-frontend-gis/workflows/Lint/badge.svg" alt="Lint status">
+  </a>
+  <br />
+  <br />
+</p>
+
+
 
 ## Contents
 - [**JS Libraries**](#js-libraries)
