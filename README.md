@@ -165,6 +165,7 @@ Restful APIs for consuming geospatial data on the fly.
 - [movebank-api](https://github.com/movebank/movebank-api-doc) - Movebank is a free, online database and research platform for animal tracking and other on-animal sensor data. 
 - [Overpass API](https://wiki.openstreetmap.org/wiki/Overpass_API) - Retrieve OpenStreetMap data.
 - [Open Notify](http://open-notify.org/Open-Notify-API/) - Get the current location of the International Space Station (ISS) and current number of people in space!
+- [OpenAQ](https://docs.openaq.org/docs) - OpenAQ is the largest open-source air quality data platform.
 
 #### Routing 
 - [openrouteservice](https://openrouteservice.org/dev/#/api-docs) - Directions, Isochrones, Time-Distance Matrix, Pelias Geocoding, POIs, Elevation, Optimization.
