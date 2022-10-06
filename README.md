@@ -196,6 +196,7 @@ Some JavaScript notebooks to help you code.
 - [Bivariate Choropleth with Continuous Color Scales](https://observablehq.com/@stephanietuerk/bivariate-choropleth-with-continuous-color-scales) - Stephanie Tuerk.
 - [Hexgrid maps with d3-hexgrid](https://observablehq.com/@larsvers/hexgrid-maps-with-d3-hexgrid) - Larsvers.
 - [Dorling cartogram of the Spanish Presidential election](https://observablehq.com/@adrianblanco/dorling-cartogram-of-the-spanish-presidential-election) - Adrián Blanco.
+- [#GISCHAT Twitter Users with MapBoxGL - Globe Projection](https://observablehq.com/@chriszrc/gischat-twitter-users-with-mapboxgl-globe-projection) - Chris Marx.
 
 
 
