@@ -164,6 +164,7 @@ Restful APIs for consuming geospatial data on the fly.
 - [USGS earthquake data](https://earthquake.usgs.gov/fdsnws/event/1/) - Allows custom searches for earthquake information using a variety of parameters.
 - [movebank-api](https://github.com/movebank/movebank-api-doc) - Movebank is a free, online database and research platform for animal tracking and other on-animal sensor data. 
 - [Overpass API](https://wiki.openstreetmap.org/wiki/Overpass_API) - Retrieve OpenStreetMap data.
+- [OSMNames](https://osmnames.org/api/) - The OSMNames open-source project provides raw place data in an easy-to-index form.
 - [Open Notify](http://open-notify.org/Open-Notify-API/) - Get the current location of the International Space Station (ISS) and current number of people in space!
 - [OpenAQ](https://docs.openaq.org/docs) - OpenAQ is the largest open-source air quality data platform.
 
