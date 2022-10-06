@@ -45,6 +45,7 @@
 - [**Colour advice**](#colour-advice)
 - [**Videos**](#videos)
 - [**Further reading**](#further-reading)
+- [**Contributing**](#Contributing)
 
 ## JS Libraries 
 
@@ -227,3 +228,17 @@ Videos of web mapping presentations and tutorials.
 - [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) - Claus O. Wilke.
 - [A Workbook for Interactive Cartography and Visualization on the Open Web](https://github.com/uwcartlab/webmapping) - Robert Roth, Carl Sack, Gareth Baldrica-Franklin, Yuying Chen, Rich Donohue, Lily Houtman, Tim Prestby, Robin Tolochko, Nick Underwood.
 - [Thematic Mapping: 101 Inspiring Ways to Visualise Empirical Data](https://www.esri.com/en-us/esri-press/browse/thematic-mapping) - Kenneth Field.
+
+
+## Contributing
+
+- Please check for duplicates first.
+- Keep descriptions short, simple and unbiased.
+- Please make an individual commit for each suggestion
+- Add a new category if needed.
+
+Thanks for your suggestions!
+
+- - -
+
+If you have any questions about this list, please don't hesitate to contact me [@joewdavies](https://twitter.com/joewdavies) on Twitter or [open a GitHub issue](https://github.com/joewdavies/awesome-frontend-gis/issues/new).
