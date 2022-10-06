@@ -133,6 +133,7 @@ Tools for visualizing point clouds.
 - [Google Earth Engine](https://developers.google.com/earth-engine/tutorials/tutorial_api_01) - Google Earth Engine is a geospatial processing service. With Earth Engine, you can perform geospatial processing at scale, powered by Google Cloud Platform.
 - [sentinelhub-js](https://github.com/sentinel-hub/sentinelhub-js/) - Download and process satellite imagery in JavaScript or TypeScript using Sentinel Hub services.
 - [Sentinel Hub custom scripts](https://github.com/sentinel-hub/custom-scripts) - A repository of custom scripts to be used with Sentinel Hub.
+- [Spectral](https://github.com/awesome-spectral-indices) - Awesome Spectral Indices for the Google Earth Engine JavaScript API (Code Editor).
 
 
 ## Data sources 
