@@ -239,6 +239,6 @@ Videos of web mapping presentations and tutorials.
 
 Thanks for your suggestions!
 
-- - -
+---
 
 If you have any questions about this list, please don't hesitate to contact me [@joewdavies](https://twitter.com/joewdavies) on Twitter or [open a GitHub issue](https://github.com/joewdavies/awesome-frontend-gis/issues/new).
