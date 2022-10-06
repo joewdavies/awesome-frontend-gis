@@ -234,7 +234,7 @@ Videos of web mapping presentations and tutorials.
 
 - Please check for duplicates first.
 - Keep descriptions short, simple and unbiased.
-- Please make an individual commit for each suggestion
+- Please make an individual commit for each suggestion.
 - Add a new category if needed.
 
 Thanks for your suggestions!
