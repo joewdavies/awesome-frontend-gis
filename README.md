@@ -31,7 +31,8 @@
       - [Map viewers](#map-viewers) 
       - [Thematic mapping](#thematic-mapping) 
       - [D3-based](#d3-based)
-      - [LiDAR](#lidar) 
+  - [LiDAR](#lidar)
+  - [Remote Sensing](#remote-sensing)
   - [Data analysis](#data-analysis)
 - [**Data sources**](#data-sources)
   - [Downloads](#downloads)
@@ -119,6 +120,7 @@ Libraries that help you analyse and process geospatial data.
 - [spl.js](https://github.com/jvail/spl.js) - Makes it possible to use SpatiaLite functionality in JavaScript. Behind the scenes, a WebAssembly port of SpatiaLite is used.
 - [geotoolbox](https://github.com/neocarto/geotoolbox) - Provides several GIS operations for use with geojson properties. Useful for thematic cartography.
 - [supercluster](https://www.npmjs.com/package/supercluster) - A very fast JavaScript library for geospatial point clustering for browsers and Node.
+- [geoblaze](https://github.com/GeoTIFF/geoblaze) - A blazing fast javascript raster processing engine. Using geoblaze, you can run computations ranging from basic statistics (min, max, mean, mode) to band arithmetic and histogram generation in either a web browser or a node application.
 
 ### LiDAR
 Tools for visualizing point clouds.
@@ -126,6 +128,12 @@ Tools for visualizing point clouds.
 - [Plasio](https://github.com/verma/plasio) - Drag-n-drop In-browser LAS/LAZ point cloud viewer.
 - [Potree & Cesium.js](http://potree.org/potree/examples/cesium_retz.html) - Rezt, Austria LIDAR viewer.
 - [Three.js](https://threejs.org/examples/#webgl_loader_pcd) - Point cloud data loader.
+
+### Remote Sensing
+- [Google Earth Engine](https://developers.google.com/earth-engine/tutorials/tutorial_api_01) - Google Earth Engine is a geospatial processing service. With Earth Engine, you can perform geospatial processing at scale, powered by Google Cloud Platform.
+- [sentinelhub-js](https://github.com/sentinel-hub/sentinelhub-js/) - Download and process satellite imagery in JavaScript or TypeScript using Sentinel Hub services.
+- [Sentinel Hub custom scripts](https://github.com/sentinel-hub/custom-scripts) - A repository of custom scripts to be used with Sentinel Hub.
+
 
 ## Data sources 
 A collection of geospatial open data sources.
