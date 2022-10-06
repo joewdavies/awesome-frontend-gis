@@ -60,9 +60,11 @@ Map engines for visualizing geospatial data.
 - [ArcGIS API for JS](https://developers.arcgis.com/JavaScript/latest/release-notes/) - A lightweight way to embed maps and tasks in web applications.
 - [Mapbox GL JS](https://docs.mapbox.com/mapbox-gl-js/examples/) - JavaScript library that uses WebGL to render interactive maps from vector tiles.
 - [maplibre](https://github.com/maplibre/maplibre-gl-js) - It originated as an open-source fork of mapbox-gl-js, before their switch to a non-OSS license in December 2020.
+- [Google Maps](https://developers.google.com/maps/documentation/javascript/?hl=pt-br) - Google Maps API for JavaScript.
 - [MapTalks.js](https://github.com/maptalks/maptalks.js) - An open-source JavaScript library for integrated 2D/3D maps.
 - [antvis L7](https://github.com/antvis/L7) - Large-scale WebGL-powered Geospatial Data Visualization.
 - [Tangram](https://github.com/tangrams/tangram) - WebGL map rendering engine for creative cartography.
+- [TerriaJS](https://github.com/TerriaJS/terriajs) - TerriaJS is a library for building rich, web-based geospatial data explorers.
 - [Three.js](https://github.com/mrdoob/three.js) - Easy to use, lightweight, cross-browser, general purpose 3D library.
 - [Procedural GL JS](https://github.com/felixpalmer/procedural-gl-js) - Procedural GL JS is a library built on top THREE.js for creating 3D maps on the web.
 - [iTowns](https://github.com/iTowns/itowns) - A Three.js-based framework written in JavaScript/WebGL for visualizing 3D geospatial data.
@@ -123,6 +125,8 @@ Libraries that help you analyse and process geospatial data.
 - [supercluster](https://www.npmjs.com/package/supercluster) - A very fast JavaScript library for geospatial point clustering for browsers and Node.
 - [geoblaze](https://github.com/GeoTIFF/geoblaze) - A blazing fast JavaScript raster processing engine. Using geoblaze, you can run computations ranging from basic statistics (min, max, mean, mode) to band arithmetic and histogram generation in either a web browser or a node application.
 - [geopackage-js](https://github.com/ngageoint/geopackage-js) - The GeoPackage JavaScript library currently provides the ability to read GeoPackage files.
+- [geojson-merge](https://github.com/mapbox/geojson-merge) - Merge multiple GeoJSON files into one FeatureCollection.
+- [Galton](https://github.com/urbica/galton) - Lightweight Node.js isochrone server. Build isochrones using OSRM, Turf and concaveman.
 
 ### LiDAR
 Tools for visualizing point clouds.
