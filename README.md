@@ -122,6 +122,7 @@ Libraries that help you analyse and process geospatial data.
 - [geotoolbox](https://github.com/neocarto/geotoolbox) - Provides several GIS operations for use with geojson properties. Useful for thematic cartography.
 - [supercluster](https://www.npmjs.com/package/supercluster) - A very fast JavaScript library for geospatial point clustering for browsers and Node.
 - [geoblaze](https://github.com/GeoTIFF/geoblaze) - A blazing fast JavaScript raster processing engine. Using geoblaze, you can run computations ranging from basic statistics (min, max, mean, mode) to band arithmetic and histogram generation in either a web browser or a node application.
+- [geopackage-js]([GeoPackage](https://github.com/ngageoint/geopackage-js)) - The GeoPackage JavaScript library currently provides the ability to read GeoPackage files.
 
 ### LiDAR
 Tools for visualizing point clouds.
