@@ -153,6 +153,7 @@ Data available for download.
 - [OpenMapTiles](https://openmaptiles.org/) - Free OpenStreetMap Vector Tiles.
 - [OpenStreetMap](https://www.geofabrik.de/data/download.html) - A free, world-wide geographic data set.
 - [Natural Earth](https://www.naturalearthdata.com/) - Free vector and raster map data at 1:10m, 1:50m, and 1:110m scales.
+- [World Atlas TopoJSON](https://github.com/topojson/world-atlas) - A convenient redistribution of Natural Earth’s vector data as TopoJSON.
 - [Copernicus global DEM](https://ec.europa.eu/eurostat/web/gisco/geodata/reference-data/elevation/copernicus-dem/elevation) - Global elevation tiles.
 - [ETOPO1](https://www.ngdc.noaa.gov/mgg/global/) - 1 arc-minute global relief model of Earth's surface that integrates land topography and ocean bathymetry.
 - [HydroSHEDS](https://www.hydrosheds.org/) - Hydrographic information in a consistent and comprehensive format for regional and global-scale applications.
