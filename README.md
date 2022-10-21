@@ -245,6 +245,7 @@ Videos of web mapping presentations and tutorials.
 - [Mapping Geolocation with Leaflet.js - Working with Data and APIs in JavaScript](https://www.youtube.com/watch?v=nZaZ2dB6pow) - The Coding Train.
 - [10 Maps, and the Tech and Stories Behind Them](https://www.youtube.com/watch?v=PpWAKVjPlgU) - Maarten Lambrechts.
 - [Intermediate Three.js Tutorial - Create a Globe with Custom Shaders](https://www.youtube.com/watch?v=vM8M4QloVL0&t=4418s) - Chris Courses.
+- [Statistical Cartography - Design principles for statistical map design](https://www.youtube.com/watch?v=e803ElX5Q_c) - Julien Gaffuri.
 
 
 ## Further reading
