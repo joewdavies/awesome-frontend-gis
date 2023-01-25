@@ -161,6 +161,8 @@ Data available for download.
 - [Global power plant database](https://datasets.wri.org/dataset/globalpowerplantdatabase) - A comprehensive, global, open source database of power plants.
 - [Ookla internet speed data](https://github.com/teamookla/ookla-open-data) - Provides global network performance metrics. Data is provided in both Shapefile format as well as Apache Parquet.
 - [European population grids - GISCO](https://ec.europa.eu/eurostat/web/gisco/geodata/reference-data/grids) - These datasets contain grid cells covering the European land territory, for various resolutions from 1km to 100km. Base statistics such as population figures are provided for these cells.
+- [Healthcare Services in Europe](https://ec.europa.eu/eurostat/web/gisco/geodata/reference-data/healthcare-services) - The locations of healthcare services across Europe.
+- [European Postcodes Point Data](https://ec.europa.eu/eurostat/web/gisco/geodata/reference-data/postal-codes) -  The postal code point dataset shows the location of postal codes, NUTS codes and the Degree of Urbanisation classification across the EU, EFTA and candidate countries from a variety of sources.
 
 ### Web APIs 
 Restful APIs for consuming geospatial data on the fly.
