@@ -130,6 +130,7 @@ Libraries that help you analyse and process geospatial data.
 - [geopackage-js](https://github.com/ngageoint/geopackage-js) - The GeoPackage JavaScript library currently provides the ability to read GeoPackage files.
 - [geojson-merge](https://github.com/mapbox/geojson-merge) - Merge multiple GeoJSON files into one FeatureCollection.
 - [Galton](https://github.com/urbica/galton) - Lightweight Node.js isochrone server. Build isochrones using OSRM, Turf and concaveman.
+- [geojson-vt](https://github.com/mapbox/geojson-vt) - A highly efficient JavaScript library for slicing GeoJSON data into vector tiles on the fly.
 
 ### LiDAR
 Tools for visualizing point clouds.
