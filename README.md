@@ -160,6 +160,7 @@ Data available for download.
 - [geoboundaries](https://www.geoboundaries.org/) - The world's largest open, free and research-ready database of political administrative boundaries.
 - [Global power plant database](https://datasets.wri.org/dataset/globalpowerplantdatabase) - A comprehensive, global, open source database of power plants.
 - [Ookla internet speed data](https://github.com/teamookla/ookla-open-data) - Provides global network performance metrics. Data is provided in both Shapefile format as well as Apache Parquet.
+- [European population grids - GISCO](https://ec.europa.eu/eurostat/web/gisco/geodata/reference-data/grids) - These datasets contain grid cells covering the European land territory, for various resolutions from 1km to 100km. Base statistics such as population figures are provided for these cells.
 
 ### Web APIs 
 Restful APIs for consuming geospatial data on the fly.
