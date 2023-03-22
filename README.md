@@ -37,7 +37,6 @@
 - [**Data sources**](#data-sources)
   - [Downloads](#downloads)
   - [Web APIs](#web-apis)
-       - [Routing](#routing)
   - [Collections](#collections)
 - [**Notebooks**](#notebooks)
   - [Beginner](#beginner)
@@ -176,8 +175,6 @@ Restful APIs for consuming geospatial data on the fly.
 - [OSMNames](https://osmnames.org/api/) - The OSMNames open-source project provides raw place data in an easy-to-index form.
 - [Open Notify](http://open-notify.org/Open-Notify-API/) - Get the current location of the International Space Station (ISS) and current number of people in space!
 - [OpenAQ](https://docs.openaq.org/docs) - OpenAQ is the largest open-source air quality data platform.
-
-#### Routing 
 - [openrouteservice](https://openrouteservice.org/dev/#/api-docs) - Directions, Isochrones, Time-Distance Matrix, Pelias Geocoding, POIs, Elevation, Optimization.
 - [GraphHopper Route Optimization API](https://www.graphhopper.com/route-optimization/) - Solves a variety of vehicle routing problems, including the classical “traveling salesman problem”.
 
