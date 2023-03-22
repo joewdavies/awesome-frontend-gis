@@ -16,7 +16,10 @@
 </div>
 
 
+Contributions of any kind are welcome, just follow the [guidelines](.github/CONTRIBUTING.md) by either:
 
+- Filling a [suggestion issue](https://github.com/joewdavies/awesome-frontend-gis/issues/new/) (easier).
+- Opening a [pull request](https://github.com/joewdavies/awesome-frontend-gis/compare).
 
 
 
