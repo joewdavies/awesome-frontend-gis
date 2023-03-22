@@ -48,7 +48,6 @@
 - [**Icons**](#icons)
 - [**Videos**](#videos)
 - [**Further reading**](#further-reading)
-- [**Contributing**](#Contributing)
 
 ## JS Libraries 
 
