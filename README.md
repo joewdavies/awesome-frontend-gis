@@ -45,9 +45,6 @@
 
 ### Mapping 
 Libraries for building maps.
-
-#### Map viewers 
-Map engines for visualizing geospatial data.
 - [Leaflet](https://leafletjs.com/) - The leading open-source JavaScript library for mobile-friendly interactive maps.
 - [OpenLayers](https://openlayers.org/) - A high-performance, feature-packed library for creating interactive maps on the web.
 - [Cesium.js](https://cesiumjs.org/) - An open-source JavaScript library for world-class 3D mapping of geospatial data.
