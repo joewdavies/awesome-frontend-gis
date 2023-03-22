@@ -218,7 +218,7 @@ Plug-and-play geospatial web apps!
 
 ## Colour advice 
 Tools to help you choose the best colours for your maps.
-- [ColorBrewer](https://colorbrewer2.org/) - Colour advice for maps.
+- [ColorBrewer](https://colorbrewer2.org/) - Colour advice for maps, based on the research of Dr. Cynthia Brewer.
 - [viz-palette](https://projects.susielu.com/viz-palette) - This project is optimized for tweaking, copying, and pasting colors in and out of JavaScript.
 - [Chroma.js Color Palette Helper](https://gka.github.io/palettes/#/9) - This chroma.js-powered tool is here to help us mastering multi-hued, multi-stops color scales.
 
