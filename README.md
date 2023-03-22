@@ -23,9 +23,6 @@
 ## Contents
 - [**JavaScript Libraries**](#javascript-libraries)
   - [Mapping](#mapping) 
-      - [Map viewers](#map-viewers) 
-      - [Thematic mapping](#thematic-mapping) 
-      - [D3-based](#d3-based)
   - [Data analysis](#data-analysis)
   - [LiDAR](#lidar)
   - [Remote Sensing](#remote-sensing)
@@ -71,18 +68,10 @@ Map engines for visualizing geospatial data.
 - [Deck.GL](https://github.com/uber/deck.gl) - WebGL2 powered geospatial visualization layers.
 - [harp.gl](https://github.com/heremaps/harp.gl) - An experimental and work in progress open-source 3D map rendering engine.
 - [HERE maps API](https://developer.here.com/develop/javascript-api) - Build web applications with feature-rich and customizable HERE maps.
-
-#### Thematic mapping 
-For mapping a particular theme to a geographic area. Think of them as cartographic dataviz.
 - [Eurostat-map](https://github.com/eurostat/eurostat-map.js) - Create and customise web maps showing Eurostat data using D3.js.
 - [Bertin.js](https://github.com/neocarto/bertin) - A JavaScript library for visualizing geospatial data and making thematic maps for the web.
 - [gridviz](https://github.com/eurostat/gridviz) - A Three.js-based library for visualizing gridded statistics datasets as CSV files. 
 - [regl-map-animation](https://github.com/eurostat/regl-map-animation) - Animate x/y point data using regl and categorize them into a bar chart.
-
-#### D3-based
-
-Mapping libraries and plugins based on the [D3 data visualization library](https://observablehq.com/@d3/gallery). Thanks to [awesome-d3](https://github.com/wbkd/awesome-d3).
-
 - [d3-carto-map](https://github.com/emeeks/d3-carto-map) - A mapping API that uses D3 geospatial functionality.
 - [d3-composite-projections](https://github.com/rveciana/d3-composite-projections) - Projections for showing countries' distant lands together.
 - [datamaps](https://github.com/markmarkoh/datamaps) - Customizable map visualizations in one file.
