@@ -46,6 +46,7 @@
 - [**Web maps**](#web-maps)
 - [**Web apps**](#web-apps)
 - [**Colour advice**](#colour-advice)
+- [**Icons**](#icons)
 - [**Videos**](#videos)
 - [**Further reading**](#further-reading)
 - [**Contributing**](#Contributing)
@@ -243,6 +244,10 @@ Tools to help you choose the best colours for your maps.
 - [ColorBrewer](https://colorbrewer2.org/) - Colour advice for maps.
 - [viz-palette](https://projects.susielu.com/viz-palette) - This project is optimized for tweaking, copying, and pasting colors in and out of JavaScript.
 - [Chroma.js Color Palette Helper](https://gka.github.io/palettes/#/9) - This chroma.js-powered tool is here to help us mastering multi-hued, multi-stops color scales.
+
+## Icons
+Icons to add to your GIS websites!
+- [font-GIS](https://github.com/Viglino/font-gis) - A very very cool icon font set for use with GIS and spatial analysis tools
 
 ## Videos
 Videos of web mapping presentations and tutorials.
