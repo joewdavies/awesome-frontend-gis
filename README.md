@@ -1,32 +1,27 @@
 <!--lint disable awesome-heading awesome-git-repo-age awesome-github double-link awesome-toc-->
+<div align="center">
+<h2>Awesome Frontend GIS &nbsp  <a href="https://github.com/sindresorhus/awesome">
+    <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" href="https://github.com/sindresorhus/awesome">
+  </a></h2>
+  
+  
+ *A compilation of geospatial-related web frameworks, tools, demos, applications, data sources and more.*
 
+  
 <div>
     <a href="https://github.com/eurostat/gridviz" target="_blank">
         <img src='https://user-images.githubusercontent.com/25485293/191950255-cbd83c6a-4880-4c0a-a665-b59a21467702.PNG'>
     </a>
 </div>
+</div>
 
-<h2 align="center">Awesome Frontend GIS</h2>
 
-<p align="center">
-  A compilation of geospatial-related frameworks, tools, demos, applications, data sources and more - all for use on the browser.
-  <br />
-  <br />
-  <a href="https://github.com/sindresorhus/awesome">
-    <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" href="https://github.com/sindresorhus/awesome">
-  </a>
-  &nbsp;
-  <a href="https://github.com/sindresorhus/awesome-lint">
-    <img src="https://github.com/joewdavies/awesome-frontend-gis/workflows/Lint/badge.svg" alt="Lint status">
-  </a>
-  <br />
-  <br />
-</p>
+
 
 
 
 ## Contents
-- [**JS Libraries**](#js-libraries)
+- [**JavaScript Libraries**](#javascript-libraries)
   - [Mapping](#mapping) 
       - [Map viewers](#map-viewers) 
       - [Thematic mapping](#thematic-mapping) 
@@ -49,7 +44,7 @@
 - [**Videos**](#videos)
 - [**Further reading**](#further-reading)
 
-## JS Libraries 
+## JavaScript Libraries 
 
 ### Mapping 
 Libraries for building maps.
