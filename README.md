@@ -247,7 +247,7 @@ Tools to help you choose the best colours for your maps.
 
 ## Icons
 Icons to add to your GIS websites!
-- [font-GIS](https://github.com/Viglino/font-gis) - A very very cool icon font set for use with GIS and spatial analysis tools
+- [font-GIS](https://github.com/Viglino/font-gis) - A very very cool icon font set for use with GIS and spatial analysis tools.
 
 ## Videos
 Videos of web mapping presentations and tutorials.
