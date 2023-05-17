@@ -17,27 +17,27 @@
 
 
 ## Contents
-- [**JavaScript Libraries**](#javascript-libraries)
+- [🔧 **JavaScript Libraries**](#-javascript-libraries)
   - [Mapping](#mapping) 
   - [Data analysis](#data-analysis)
   - [LiDAR](#lidar)
   - [Remote Sensing](#remote-sensing)
-- [**Data sources**](#data-sources)
+- [💾 **Data sources**](#-data-sources)
   - [Downloads](#downloads)
   - [Web APIs](#web-apis)
   - [Collections](#collections)
-- [**Notebooks**](#notebooks)
+- [📒 **Notebooks**](#-notebooks)
   - [Beginner](#beginner)
   - [Intermediate](#intermediate)
   - [Advanced](#advanced)
-- [**Web maps**](#web-maps)
-- [**Web apps**](#web-apps)
-- [**Colour advice**](#colour-advice)
-- [**Icons**](#icons)
-- [**Videos**](#videos)
-- [**Further reading**](#further-reading)
+- [🗺️ **Web maps**](#-web-maps)
+- [🌐 **Web apps**](#-web-apps)
+- [🎨 **Colour advice**](#-colour-advice)
+- [📍 **Icons**](#-icons)
+- [📺 **Videos**](#-videos)
+- [📚 **Further reading**](#-further-reading)
 
-## JavaScript Libraries 
+## 🔧 JavaScript Libraries 
 
 ### Mapping 
 Libraries for building maps.
@@ -122,7 +122,7 @@ Tools for visualizing point clouds.
 - [Spectral](https://github.com/awesome-spectral-indices) - Awesome Spectral Indices for the Google Earth Engine JavaScript API (Code Editor).
 
 
-## Data sources 
+## 💾 Data sources 
 A collection of geospatial open data sources.
 
 ### Downloads 
@@ -161,7 +161,7 @@ Compilations and repositories of open datasets.
 - [WRI](https://www.wri.org/data) - World resources institute.
 - [Public APIs](https://github.com/public-apis/public-apis) - A collective list of free APIs for use in software and web development.
 
-## Notebooks 
+## 📒 Notebooks 
 Some JavaScript notebooks to help you code.
 
 ### Beginner
@@ -191,10 +191,7 @@ Some JavaScript notebooks to help you code.
 - [Dorling cartogram of the Spanish Presidential election](https://observablehq.com/@adrianblanco/dorling-cartogram-of-the-spanish-presidential-election) - Adrián Blanco.
 - [Visualizing earthquakes with Three.js](https://observablehq.com/@joewdavies/visualizing-earthquakes-with-three-js) - Joe Davies.
 
-
-
-
-## Web maps 
+## 🗺️ Web maps 
 A compilation of interesting web maps.
 - [Map of notable people](https://tjukanovt.github.io/notable-people) - Topi Tjukanov.
 - [Submarine cable map](https://www.submarinecablemap.com/) - TeleGeography.
@@ -202,7 +199,7 @@ A compilation of interesting web maps.
 - [Map of every building in the United States](https://www.nytimes.com/interactive/2018/10/12/us/map-of-every-building-in-the-united-states.html) - New York Times.
 - [Map of the Roman transport network](https://orbis.stanford.edu/) - The Stanford Geospatial Network Model of the Roman World.
 
-## Web apps 
+## 🌐 Web apps 
 Plug-and-play geospatial web apps!
 
 - [city roads](https://anvaka.github.io/city-roads/) - Render every single road in any city at once.
@@ -212,17 +209,17 @@ Plug-and-play geospatial web apps!
 - [geotiff.io](http://app.geotiff.io/) - GeoTIFF.io provides quick access to easy-to-use raster processing.
 - [StoryMap JS](https://storymap.knightlab.com/) - The Open source alternative to ESRI's Story map application.
 
-## Colour advice 
-Tools to help you choose the best colours for your maps.
+## 🎨 Colour advice 
+Colour usage is very important in data visualisation and cartography. Here are some tools to help you choose the best colours for your maps.
 - [ColorBrewer](https://colorbrewer2.org/) - Colour advice for maps, based on the research of Dr. Cynthia Brewer.
 - [viz-palette](https://projects.susielu.com/viz-palette) - This project is optimized for tweaking, copying, and pasting colors in and out of JavaScript.
 - [Chroma.js Color Palette Helper](https://gka.github.io/palettes/#/9) - This chroma.js-powered tool is here to help us mastering multi-hued, multi-stops color scales.
 
-## Icons
+## 📍 Icons
 Icons to add to your GIS websites!
 - [font-GIS](https://github.com/Viglino/font-gis) - A very very cool icon font set for use with GIS and spatial analysis tools.
 
-## Videos
+## 📺 Videos
 Videos of web mapping presentations and tutorials.
 
 - [Mapping Geolocation with Leaflet.js - Working with Data and APIs in JavaScript](https://www.youtube.com/watch?v=nZaZ2dB6pow) - The Coding Train.
@@ -231,7 +228,7 @@ Videos of web mapping presentations and tutorials.
 - [Statistical Cartography - Design principles for statistical map design](https://www.youtube.com/watch?v=e803ElX5Q_c) - Julien Gaffuri.
 
 
-## Further reading
+## 📚 Further reading
 - [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) - Claus O. Wilke.
 - [A Workbook for Interactive Cartography and Visualization on the Open Web](https://github.com/uwcartlab/webmapping) - Robert Roth, Carl Sack, Gareth Baldrica-Franklin, Yuying Chen, Rich Donohue, Lily Houtman, Tim Prestby, Robin Tolochko, Nick Underwood.
 - [Thematic Mapping: 101 Inspiring Ways to Visualise Empirical Data](https://www.esri.com/en-us/esri-press/browse/thematic-mapping) - Kenneth Field.
