@@ -17,13 +17,6 @@
 
 <br>
 
-Contributions of any kind are welcome, just follow the [guidelines](./CONTRIBUTING.md) by either:
-
-- Filling a [suggestion issue](https://github.com/joewdavies/awesome-frontend-gis/issues/new/) (easier).
-- Opening a [pull request](https://github.com/joewdavies/awesome-frontend-gis/compare).
-
-
-
 ## Contents
 - [**JavaScript Libraries**](#javascript-libraries)
   - [Mapping](#mapping) 
@@ -247,12 +240,10 @@ Videos of web mapping presentations and tutorials.
 
 ## Contributing
 
-- Please check for duplicates first.
-- Keep descriptions short, simple and unbiased.
-- Please make an individual commit for each suggestion.
-- Add a new category if needed.
+Contributions of any kind are welcome, just follow the [guidelines](./CONTRIBUTING.md) by either:
 
-Thanks for your suggestions!
+- Filling a [suggestion issue](https://github.com/joewdavies/awesome-frontend-gis/issues/new/) (easier).
+- Opening a [pull request](https://github.com/joewdavies/awesome-frontend-gis/compare).
 
 ---
 
