@@ -30,7 +30,7 @@
   - [Beginner](#beginner)
   - [Intermediate](#intermediate)
   - [Advanced](#advanced)
-- [🗺️ **Web maps**](#-web-maps)
+- [:world_map: **Web maps** ](#world_map-web-maps)
 - [🌐 **Web apps**](#-web-apps)
 - [🎨 **Colour advice**](#-colour-advice)
 - [📍 **Icons**](#-icons)
@@ -191,7 +191,7 @@ Some JavaScript notebooks to help you code.
 - [Dorling cartogram of the Spanish Presidential election](https://observablehq.com/@adrianblanco/dorling-cartogram-of-the-spanish-presidential-election) - Adrián Blanco.
 - [Visualizing earthquakes with Three.js](https://observablehq.com/@joewdavies/visualizing-earthquakes-with-three-js) - Joe Davies.
 
-## 🗺️ Web maps 
+## :world_map: Web maps 
 A compilation of interesting web maps.
 - [Map of notable people](https://tjukanovt.github.io/notable-people) - Topi Tjukanov.
 - [Submarine cable map](https://www.submarinecablemap.com/) - TeleGeography.
