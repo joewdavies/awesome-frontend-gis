@@ -15,7 +15,6 @@
 </div>
 </div>
 
-<br>
 
 ## Contents
 - [**JavaScript Libraries**](#javascript-libraries)
