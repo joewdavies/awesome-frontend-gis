@@ -1,6 +1,6 @@
 <!--lint disable awesome-heading awesome-git-repo-age awesome-github double-link awesome-toc-->
 <div align="center">
-<h2>Awesome Frontend GIS &nbsp  <a href="https://github.com/sindresorhus/awesome">
+<h2>Awesome Frontend GIS   <a href="https://github.com/sindresorhus/awesome">
     <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" href="https://github.com/sindresorhus/awesome">
   </a></h2>
   
