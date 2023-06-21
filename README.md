@@ -144,7 +144,7 @@ Data available for download.
 ### Web APIs 
 Restful APIs for consuming geospatial data on the fly.
 
-- [GISCO data distribution API](https://gisco-services.ec.europa.eu/distribution/v2/) - Official European Commission dataset on administrative regions, Coastal lines, Communes, Countries, Local Administrative Units, NUTS, Urban Audit.
+- [GISCO data distribution API](https://gisco-services.ec.europa.eu/distribution/v2/) - Official European Commission data source for administrative regions, Coastal lines, Communes, Countries, Local Administrative Units, NUTS, Urban Audit.
 - [Address API](https://gisco-services.ec.europa.eu/addressapi/docs/) - Pan-european address data. Supports geocoding, reverse-geocoding and lists of address components (e.g. all roads in a city).
 - [USGS earthquake data](https://earthquake.usgs.gov/fdsnws/event/1/) - Allows custom searches for earthquake information using a variety of parameters.
 - [movebank-api](https://github.com/movebank/movebank-api-doc) - Movebank is a free, online database and research platform for animal tracking and other on-animal sensor data. 
