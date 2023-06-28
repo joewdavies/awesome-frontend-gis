@@ -69,7 +69,6 @@ Libraries for building maps.
 - [d3-composite-projections](https://github.com/rveciana/d3-composite-projections) - Projections for showing countries' distant lands together.
 - [datamaps](https://github.com/markmarkoh/datamaps) - Customizable map visualizations in one file.
 - [d3-topogram](https://github.com/shawnbot/topogram) - Continuous area cartograms based on TopoJSON.
-- [d3-exploder](https://github.com/bsouthga/d3-exploder) - Lets you easily move and resize geographic features.
 - [d3-geo](https://github.com/d3/d3-geo) - A library for creating maps based on D3.js.
 - [d3-geo-polygon](https://github.com/d3/d3-geo-polygon) - Clipping and geometric operations for spherical polygons.
 - [d3-geo-projection](https://github.com/d3/d3-geo-projection) - Extended geographic projections.
