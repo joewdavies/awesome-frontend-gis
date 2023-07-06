@@ -64,7 +64,6 @@ Libraries for building maps. Open source libraries listed first.
 - [d3-geo](https://github.com/d3/d3-geo) - A library for creating maps based on D3.js.
 - [d3-geo-polygon](https://github.com/d3/d3-geo-polygon) - Clipping and geometric operations for spherical polygons.
 - [d3-geo-projection](https://github.com/d3/d3-geo-projection) - Extended geographic projections.
-- [d3-geo-scale-bar](https://github.com/HarryStevens/d3-geo-scale-bar) - Displays automatic scale bars for projected geospatial data.
 - [d3-geo-voronoi](https://github.com/Fil/d3-geo-voronoi) - Voronoi diagrams and Delaunay triangulation for the sphere.
 - [d3-inertia](https://github.com/Fil/d3-inertia) - An extension to d3-drag that continues the mouse movement with some inertia.
 - [spam](https://github.com/newsappsio/spam) - Create maps with D3 and Canvas, easily.
