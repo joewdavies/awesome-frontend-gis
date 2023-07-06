@@ -127,6 +127,12 @@ Data available for download.
 - [European population grids - GISCO](https://ec.europa.eu/eurostat/web/gisco/geodata/reference-data/grids) - These datasets contain grid cells covering the European land territory, for various resolutions from 1km to 100km. Base statistics such as population figures are provided for these cells.
 - [Healthcare Services in Europe](https://ec.europa.eu/eurostat/web/gisco/geodata/reference-data/healthcare-services) - The locations of healthcare services across Europe.
 - [European Postcodes Point Data](https://ec.europa.eu/eurostat/web/gisco/geodata/reference-data/postal-codes) -  The postal code point dataset shows the location of postal codes, NUTS codes and the Degree of Urbanisation classification across the EU, EFTA and candidate countries from a variety of sources.
+- [WorldPop](www.worldpop.org) - Open access spatial demographic datasets built using transparent approaches.
+- [World Bank](https://data.worldbank.org/) - Free and open access to global development data.
+- [Earth Explorer](https://earthexplorer.usgs.gov/) - Query and order satellite images, aerial photographs, and cartographic products through the U.S. Geological Survey.
+- [Open Topography](https://opentopography.org/) - OpenTopography facilitates community access to high-resolution, Earth science-oriented, topography data, and related tools and resources.
+- [NASA Earth Observations](https://neo.gsfc.nasa.gov/) - Here you can browse and download imagery of satellite data from NASA's constellation of Earth Observing System satellites.
+
 
 ### Web APIs 
 Restful APIs for consuming geospatial data on the fly.
