@@ -142,6 +142,7 @@ Restful APIs for consuming geospatial data on the fly.
 - [OpenAQ](https://docs.openaq.org/docs) - OpenAQ is the largest open-source air quality data platform.
 - [openrouteservice](https://openrouteservice.org/dev/#/api-docs) - Directions, Isochrones, Time-Distance Matrix, Pelias Geocoding, POIs, Elevation, Optimization.
 - [GraphHopper Route Optimization API](https://www.graphhopper.com/route-optimization/) - Solves a variety of vehicle routing problems, including the classical “traveling salesman problem”.
+- [Geoapify](https://apidocs.geoapify.com/) - Maps, address and location search, route optimization, reachability analysis, geodata access, and more.
 
 ### Collections 
 Compilations and repositories of open datasets.
@@ -211,6 +212,7 @@ Icons to add to your GIS websites!
 - [font-GIS](https://github.com/Viglino/font-gis) - A very very cool icon font set for use with GIS and spatial analysis tools.
 - [Map Icons Collection](https://mapicons.mapsmarker.com/) - A set of more than 1000 free and customizable icons to use as placemarks for your POI (Point of Interests) locations on your maps.
 - [Material Symbols](https://fonts.google.com/icons?icon.query=map) - Over 2,990 glyphs in a single font file with a wide range of design variants.
+- [Geoapify map marker playground](https://apidocs.geoapify.com/playground/icon/) - The Marker Icon API lets you create beautiful icons and use them as Map Markers.
 
 ## 📺 Videos
 Videos of web mapping presentations and tutorials.
