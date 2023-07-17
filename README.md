@@ -158,6 +158,7 @@ Some JavaScript notebooks to help you code.
 - [Hello, Bertin.js](https://observablehq.com/@neocartocnrs/hello-bertin-js) - Nicolas Lambert.
 - [Hello, Mapbox GL](https://observablehq.com/@observablehq/hello-mapbox-gl) - Mike Bostock.
 - [Hello, eurostat-map.js](https://observablehq.com/@joewdavies/eurostat-map-js) - Joe Davies.
+- [Hello, gridviz](https://observablehq.com/@neocartocnrs/hello-gridviz) - Nicolas Lambert.
 
 ### Intermediate
 - [World Tour](https://observablehq.com/@d3/world-tour) - D3.
@@ -203,6 +204,7 @@ Colour usage is very important in data visualisation and cartography. Here are s
 - [ColorBrewer](https://colorbrewer2.org/) - Colour advice for maps, based on the research of Dr. Cynthia Brewer.
 - [viz-palette](https://projects.susielu.com/viz-palette) - This project is optimized for tweaking, copying, and pasting colors in and out of JavaScript.
 - [Chroma.js Color Palette Helper](https://gka.github.io/palettes/#/9) - This chroma.js-powered tool is here to help us mastering multi-hued, multi-stops color scales.
+- [Dicopal.js](https://github.com/riatelab/dicopal.js) - Discrete color palettes (hundreds of them!) for JavaScript.
 
 ## 📍 Icons
 Icons to add to your GIS websites!
