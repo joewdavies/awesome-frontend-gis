@@ -209,6 +209,7 @@ Colour usage is very important in data visualisation and cartography. Here are s
 ## 📍 Icons
 Icons to add to your GIS websites!
 - [font-GIS](https://github.com/Viglino/font-gis) - A very very cool icon font set for use with GIS and spatial analysis tools.
+- [Map Icons Collection](https://mapicons.mapsmarker.com/) - A set of more than 1000 free and customizable icons to use as placemarks for your POI (Point of Interests) locations on your maps.
 - [Material Symbols](https://fonts.google.com/icons?icon.query=map) - Over 2,990 glyphs in a single font file with a wide range of design variants.
 
 ## 📺 Videos
