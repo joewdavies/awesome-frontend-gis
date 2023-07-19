@@ -201,7 +201,10 @@ Plug-and-play geospatial web apps!
 - [Plasio](https://github.com/verma/plasio) - Drag-n-drop In-browser LAS/LAZ point cloud viewer.
 - [mapshaper](https://mapshaper.org/) - Online editor for map data.
 - [geotiff.io](http://app.geotiff.io/) - GeoTIFF.io provides quick access to easy-to-use raster processing.
+- [IMAGE](https://gisco-services.ec.europa.eu/image/) - An easy-to-use tool for generating thematic maps.
+- [magrit](https://magrit.cnrs.fr/) - Magrit is an online application for thematic mapping (cartography).
 - [StoryMap JS](https://storymap.knightlab.com/) - The Open source alternative to ESRI's Story map application.
+- [Datawrapper](https://github.com/datawrapper/datawrapper) - Create charts, maps, and tables.
 
 ## 🎨 Colour advice 
 Colour usage is very important in data visualisation and cartography. Here are some tools to help you choose the best colours for your maps.
