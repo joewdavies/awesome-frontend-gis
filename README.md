@@ -219,7 +219,7 @@ Colour usage is very important in data visualisation and cartography. Here are s
 - [viz-palette](https://projects.susielu.com/viz-palette) - This project is optimized for tweaking, copying, and pasting colors in and out of JavaScript.
 - [Chroma.js Color Palette Helper](https://gka.github.io/palettes/#/9) - This chroma.js-powered tool is here to help us mastering multi-hued, multi-stops color scales.
 - [Dicopal.js](https://github.com/riatelab/dicopal.js) - Discrete color palettes (hundreds of them!) for JavaScript.
-- [Textures.js)(https://github.com/riccardoscalco/textures) - JavaScript library for creating SVG patterns. Made on top of d3.js, it is designed for data visualization. Textures are useful for the
+- [Textures.js](https://github.com/riccardoscalco/textures) - JavaScript library for creating SVG patterns. Made on top of d3.js, it is designed for data visualization. Textures are useful for the
 selective perception of different categories.
 
 ## 📍 Icons
