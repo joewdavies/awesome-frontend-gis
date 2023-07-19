@@ -207,6 +207,7 @@ Plug-and-play geospatial web apps!
 - [Datawrapper](https://github.com/datawrapper/datawrapper) - Create charts, maps, and tables.
 - [Maputnik](https://github.com/maputnik/editor) - A free and open visual editor for the Mapbox GL styles targeted at developers and map designers.
 - [Fantasy Map Generator](https://github.com/Azgaar/Fantasy-Map-Generator) - Free web application that helps fantasy writers, game masters, and cartographers create and edit fantasy maps.
+- [uMap](https://github.com/umap-project/umap) - Lets you create a map with OpenStreetMap layers and embed it in your site.
 
 ## 🎨 Colour advice 
 Colour usage is very important in data visualisation and cartography. Here are some tools to help you choose the best colours for your maps.
