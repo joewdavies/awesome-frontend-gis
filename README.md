@@ -206,6 +206,7 @@ Plug-and-play geospatial web apps!
 - [StoryMap JS](https://storymap.knightlab.com/) - The Open source alternative to ESRI's Story map application.
 - [Datawrapper](https://github.com/datawrapper/datawrapper) - Create charts, maps, and tables.
 - [Maputnik](https://github.com/maputnik/editor) - A free and open visual editor for the Mapbox GL styles targeted at developers and map designers.
+- [Fantasy Map Generator](https://github.com/Azgaar/Fantasy-Map-Generator) - Free web application that helps fantasy writers, game masters, and cartographers create and edit fantasy maps.
 
 ## 🎨 Colour advice 
 Colour usage is very important in data visualisation and cartography. Here are some tools to help you choose the best colours for your maps.
