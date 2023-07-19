@@ -69,6 +69,7 @@ Libraries for building maps. Open source libraries listed first.
 - [Mapbox GL JS](https://docs.mapbox.com/mapbox-gl-js/examples/) - JavaScript library that uses WebGL to render interactive maps from vector tiles.
 - [ArcGIS API for JS](https://developers.arcgis.com/JavaScript/latest/release-notes/) - A lightweight way to embed maps and tasks in web applications.
 - [HERE maps API](https://developer.here.com/develop/javascript-api) - Build web applications with feature-rich and customizable HERE maps.
+- [Map Forecast API](https://github.com/windycom/API) - Simple-to-use library based on Leaflet 1.4.x. It allows you to use everything Leaflet or JavaScript offers, along with the Windy map visualizations we use at Windy.com.
 
 ### Data Processing 
 Libraries that help you analyse and process geospatial data.
