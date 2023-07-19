@@ -90,6 +90,7 @@ Libraries that help you analyse and process geospatial data.
 - [geojson-vt](https://github.com/mapbox/geojson-vt) - A highly efficient JavaScript library for slicing GeoJSON data into vector tiles on the fly.
 - [geobuf](https://github.com/mapbox/geobuf) - Geobuf is a compact binary encoding for geographic data.
 - [geoparquet](https://github.com/opengeospatial/geoparquet) - Encoding geospatial data in Apache Parquet.
+- [statsbreaks](https://github.com/riatelab/statsbreaks) - Split (classify/discretize) a quantitative dataset into a (k) number of classes or thematic categories. Useful for creating a choropleth map.
 
 ### LiDAR
 Tools for visualizing point clouds.
@@ -99,7 +100,7 @@ Tools for visualizing point clouds.
 - [Three.js](https://threejs.org/examples/#webgl_loader_pcd) - Point cloud data loader.
 
 ### Remote Sensing
-- [Google Earth Engine](https://developers.google.com/earth-engine/tutorials/tutorial_api_01) - Google Earth Engine is a geospatial processing service. With Earth Engine, you can perform geospatial processing at scale, powered by Google Cloud Platform.
+- [Google Earth Engine](https://developers.google.com/earth-engine/tutorials/tutorial_api_01) - Geospatial processing service.
 - [sentinelhub-js](https://github.com/sentinel-hub/sentinelhub-js/) - Download and process satellite imagery in JavaScript or TypeScript using Sentinel Hub services.
 - [Sentinel Hub custom scripts](https://github.com/sentinel-hub/custom-scripts) - A repository of custom scripts to be used with Sentinel Hub.
 - [Spectral](https://github.com/awesome-spectral-indices) - Awesome Spectral Indices for the Google Earth Engine JavaScript API (Code Editor).
