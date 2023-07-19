@@ -17,7 +17,7 @@
 
 
 ## Contents
-- [🔧 **JavaScript Libraries**](#-javascript-libraries)
+- [👨‍💻 **JavaScript Libraries**](#-javascript-libraries)
   - [Mapping](#mapping) 
   - [Data Processing](#data-processing)
   - [LiDAR](#lidar)
@@ -37,7 +37,7 @@
 - [📺 **Videos**](#-videos)
 - [📚 **Further reading**](#-further-reading)
 
-## 🔧 JavaScript Libraries 
+## 👨‍💻 JavaScript Libraries 
 
 ### Mapping 
 Libraries for building maps. Open source libraries listed first.
