@@ -19,7 +19,7 @@
 ## Contents
 - [🔧 **JavaScript Libraries**](#-javascript-libraries)
   - [Mapping](#mapping) 
-  - [Data analysis](#data-analysis)
+  - [Data Processing](#data-processing)
   - [LiDAR](#lidar)
   - [Remote Sensing](#remote-sensing)
 - [💾 **Data sources**](#-data-sources)
@@ -70,7 +70,7 @@ Libraries for building maps. Open source libraries listed first.
 - [ArcGIS API for JS](https://developers.arcgis.com/JavaScript/latest/release-notes/) - A lightweight way to embed maps and tasks in web applications.
 - [HERE maps API](https://developer.here.com/develop/javascript-api) - Build web applications with feature-rich and customizable HERE maps.
 
-### Data analysis 
+### Data Processing 
 Libraries that help you analyse and process geospatial data.
 - [Turf.js](https://github.com/Turfjs/turf) - Turf is a JavaScript library for spatial analysis.
 - [Proj4js](https://github.com/proj4js/proj4js) - Transform coordinates from one coordinate system to another, including datum transformations.
@@ -88,6 +88,8 @@ Libraries that help you analyse and process geospatial data.
 - [geojson-merge](https://github.com/mapbox/geojson-merge) - Merge multiple GeoJSON files into one FeatureCollection.
 - [Galton](https://github.com/urbica/galton) - Lightweight Node.js isochrone server. Build isochrones using OSRM, Turf and concaveman.
 - [geojson-vt](https://github.com/mapbox/geojson-vt) - A highly efficient JavaScript library for slicing GeoJSON data into vector tiles on the fly.
+- [geobuf](https://github.com/mapbox/geobuf) - Geobuf is a compact binary encoding for geographic data.
+- [geoparquet](https://github.com/opengeospatial/geoparquet) - Encoding geospatial data in Apache Parquet.
 
 ### LiDAR
 Tools for visualizing point clouds.
