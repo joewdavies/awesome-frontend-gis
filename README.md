@@ -205,6 +205,7 @@ Plug-and-play geospatial web apps!
 - [magrit](https://magrit.cnrs.fr/) - Magrit is an online application for thematic mapping (cartography).
 - [StoryMap JS](https://storymap.knightlab.com/) - The Open source alternative to ESRI's Story map application.
 - [Datawrapper](https://github.com/datawrapper/datawrapper) - Create charts, maps, and tables.
+- [Maputnik](https://github.com/maputnik/editor) - A free and open visual editor for the Mapbox GL styles targeted at developers and map designers.
 
 ## 🎨 Colour advice 
 Colour usage is very important in data visualisation and cartography. Here are some tools to help you choose the best colours for your maps.
