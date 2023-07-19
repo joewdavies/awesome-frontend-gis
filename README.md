@@ -210,6 +210,7 @@ Plug-and-play geospatial web apps!
 - [Fantasy Map Generator](https://github.com/Azgaar/Fantasy-Map-Generator) - Free web application that helps fantasy writers, game masters, and cartographers create and edit fantasy maps.
 - [uMap](https://github.com/umap-project/umap) - Lets you create a map with OpenStreetMap layers and embed it in your site.
 - [Peak Map](https://github.com/anvaka/peak-map) - Allows you to visualize elevation of any area on the map with filled area charts (also known as a ridgeline).
+- [mapus](https://github.com/alyssaxuu/mapus) - Mapus is a tool to explore and annotate collaboratively on a map.
 
 ## 🎨 Colour advice 
 Colour usage is very important in data visualisation and cartography. Here are some tools to help you choose the best colours for your maps.
