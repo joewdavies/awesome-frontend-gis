@@ -73,6 +73,7 @@ Libraries for building maps. Open source libraries listed first.
 
 ### Data Processing 
 Libraries that help you analyse and process geospatial data.
+- [geolib](https://github.com/manuelbieh/geolib) - Library to provide basic geospatial operations like distance calculation, conversion of decimal coordinates to sexagesimal and vice versa, etc.
 - [Turf.js](https://github.com/Turfjs/turf) - Turf is a JavaScript library for spatial analysis.
 - [Proj4js](https://github.com/proj4js/proj4js) - Transform coordinates from one coordinate system to another, including datum transformations.
 - [GeoTiff.js](https://github.com/geotiffjs/geotiff.js) - Parse TIFF files for visualization or analysis.
