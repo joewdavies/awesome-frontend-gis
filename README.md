@@ -58,7 +58,6 @@ Libraries for building maps. Open source libraries listed first.
 - [globe.gl](https://globe.gl/) - This library is a convenience wrapper around the three-globe plugin, and uses ThreeJS/WebGL for 3D rendering.
 - [d3-topogram](https://github.com/shawnbot/topogram) - Continuous area cartograms based on TopoJSON.
 - [d3-geo](https://github.com/d3/d3-geo) - A library for creating maps based on D3.js.
-- [d3-geo-polygon](https://github.com/d3/d3-geo-polygon) - Clipping and geometric operations for spherical polygons.
 - [d3-geo-projection](https://github.com/d3/d3-geo-projection) - Extended geographic projections.
 - [d3-geo-voronoi](https://github.com/Fil/d3-geo-voronoi) - Voronoi diagrams and Delaunay triangulation for the sphere.
 - [d3-inertia](https://github.com/Fil/d3-inertia) - An extension to d3-drag that continues the mouse movement with some inertia.
@@ -73,8 +72,9 @@ Libraries for building maps. Open source libraries listed first.
 
 ### Data Processing 
 Libraries that help you analyse and process geospatial data.
-- [geolib](https://github.com/manuelbieh/geolib) - Library to provide basic geospatial operations like distance calculation, conversion of decimal coordinates to sexagesimal and vice versa, etc.
+- [geolib](https://github.com/manuelbieh/geolib) - Library to provide basic geospatial operations like distance calculation, conversion of decimal coordinates to sexagesimal, etc.
 - [Turf.js](https://github.com/Turfjs/turf) - Turf is a JavaScript library for spatial analysis.
+- [JSTS](https://github.com/bjornharrtell/jsts) - JavaScript Topology Suite.
 - [flatten-js](https://github.com/alexbol99/flatten-js) - For manipulating geometrical shapes, finding intersections, checking inclusion, calculating distance, transformations and more.
 - [flatbrush](https://github.com/mourner/flatbush) - A really fast static spatial index for 2D points and rectangles in JavaScript.
 - [rbush](https://github.com/mourner/rbush) - RBush is a high-performance JavaScript library for 2D spatial indexing of points and rectangles.
@@ -85,6 +85,7 @@ Libraries that help you analyse and process geospatial data.
 - [Arc.js](https://github.com/springmeyer/arc.js) - Calculate great circles routes as lines in GeoJSON or WKT format.
 - [awesome-GeoJSON](https://github.com/tmcw/awesome-geojson) - Catalogue of GeoJSON tools.
 - [topoJSON](https://github.com/topojson/topojson) - Convert GeoJSON to TopoJSON for use in D3 maps.
+- [d3-geo-polygon](https://github.com/d3/d3-geo-polygon) - Clipping and geometric operations for spherical polygons.
 - [Wicket](https://github.com/arthur-e/Wicket) - A modest library for moving between Well-Known Text (WKT) and various framework geometries.
 - [koop](https://github.com/koopjs/koop) - Koop is a JavaScript toolkit for connecting incompatible spatial APIs.
 - [spl.js](https://github.com/jvail/spl.js) - Makes it possible to use SpatiaLite functionality in JavaScript. Behind the scenes, a WebAssembly port of SpatiaLite is used.
