@@ -3,16 +3,17 @@
 <h2>Awesome Frontend GIS   <a href="https://github.com/sindresorhus/awesome">
     <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" href="https://github.com/sindresorhus/awesome">
   </a></h2>
-  
-  
- *A compilation of geospatial-related web frameworks, tools, demos, applications, data sources and more.*
 
+ A Geographic Information System (GIS) is a computer system that analyzes and displays geographically referenced information.
   
 <div>
     <a href="https://github.com/eurostat/gridviz" target="_blank">
         <img src='https://user-images.githubusercontent.com/25485293/191950255-cbd83c6a-4880-4c0a-a665-b59a21467702.PNG'>
     </a>
 </div>
+
+ *A compilation of geospatial-related web frameworks, tools, demos, applications, data sources and more.*
+ 
 </div>
 
 
