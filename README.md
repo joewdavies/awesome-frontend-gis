@@ -100,6 +100,7 @@ Libraries that help you analyse and process geospatial data.
 - [geobuf](https://github.com/mapbox/geobuf) - Geobuf is a compact binary encoding for geographic data.
 - [geoparquet](https://github.com/opengeospatial/geoparquet) - Encoding geospatial data in Apache Parquet.
 - [statsbreaks](https://github.com/riatelab/statsbreaks) - Split (classify/discretize) a quantitative dataset into a (k) number of classes or thematic categories. Useful for creating a choropleth map.
+- [gdal3.js](https://github.com/bugra9/gdal3.js) - Convert raster and vector geospatial data to various formats and coordinate systems entirely in the browser.
 
 ### LiDAR
 Tools for visualizing point clouds.
