@@ -101,6 +101,7 @@ Libraries that help you analyse and process geospatial data.
 - [geoparquet](https://github.com/opengeospatial/geoparquet) - Encoding geospatial data in Apache Parquet.
 - [statsbreaks](https://github.com/riatelab/statsbreaks) - Split (classify/discretize) a quantitative dataset into a (k) number of classes or thematic categories. Useful for creating a choropleth map.
 - [gdal3.js](https://github.com/bugra9/gdal3.js) - Convert raster and vector geospatial data to various formats and coordinate systems entirely in the browser.
+- [math.gl](https://github.com/uber-web/math.gl) - JavaScript math library focused on Geospatial and 3D use cases.
 
 ### LiDAR
 Tools for visualizing point clouds.
