@@ -157,6 +157,7 @@ Restful APIs for consuming geospatial data on the fly.
 - [openrouteservice](https://openrouteservice.org/dev/#/api-docs) - Directions, Isochrones, Time-Distance Matrix, Pelias Geocoding, POIs, Elevation, Optimization.
 - [GraphHopper Route Optimization API](https://www.graphhopper.com/route-optimization/) - Solves a variety of vehicle routing problems, including the classical “traveling salesman problem”.
 - [Geoapify](https://apidocs.geoapify.com/) - Maps, address and location search, route optimization, reachability analysis, geodata access, and more.
+- [OpenCage](https://opencagedata.com/api) - Forward and reverse worldwide geocoding API using open data.
 
 ### Collections 
 Compilations and repositories of open datasets.
