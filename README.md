@@ -4,7 +4,7 @@
     <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" href="https://github.com/sindresorhus/awesome">
   </a></h2>
 
- A Geographic Information System (GIS) is a computer system that analyzes and displays geographically referenced information.
+ Geographic Information Systems (GIS) for web browsers.
   
 <div>
     <a href="https://github.com/eurostat/gridviz" target="_blank">
@@ -31,7 +31,7 @@
   - [Beginner](#beginner)
   - [Intermediate](#intermediate)
   - [Advanced](#advanced)
-- [:world_map: **Web maps** ](#world_map-web-maps)
+- [🗺️ **Web maps** ](#world_map-web-maps)
 - [🌐 **Web apps**](#-web-apps)
 - [🎨 **Colour advice**](#-colour-advice)
 - [📍 **Icons**](#-icons)
@@ -134,13 +134,13 @@ Data available for download.
 - [Ookla internet speed data](https://github.com/teamookla/ookla-open-data) - Provides global network performance metrics. Data is provided in both Shapefile format as well as Apache Parquet.
 - [European population grids - GISCO](https://ec.europa.eu/eurostat/web/gisco/geodata/reference-data/grids) - These datasets contain grid cells covering the European land territory, for various resolutions from 1km to 100km. Base statistics such as population figures are provided for these cells.
 - [Healthcare Services in Europe](https://ec.europa.eu/eurostat/web/gisco/geodata/reference-data/healthcare-services) - The locations of healthcare services across Europe.
-- [European Postcodes Point Data](https://ec.europa.eu/eurostat/web/gisco/geodata/reference-data/postal-codes) -  The postal code point dataset shows the location of postal codes, NUTS codes and the Degree of Urbanisation classification across the EU, EFTA and candidate countries from a variety of sources.
+- [European Postcodes Point Data](https://ec.europa.eu/eurostat/web/gisco/geodata/reference-data/postal-codes) - The postal code point dataset shows the location of postal codes, NUTS codes and the Degree of Urbanisation classification across the EU, EFTA and candidate countries from a variety of sources.
 - [WorldPop](www.worldpop.org) - Open access spatial demographic datasets built using transparent approaches.
 - [World Bank](https://data.worldbank.org/) - Free and open access to global development data.
 - [Earth Explorer](https://earthexplorer.usgs.gov/) - Query and order satellite images, aerial photographs, and cartographic products through the U.S. Geological Survey.
 - [Open Topography](https://opentopography.org/) - OpenTopography facilitates community access to high-resolution, Earth science-oriented, topography data, and related tools and resources.
 - [NASA Earth Observations](https://neo.gsfc.nasa.gov/) - Here you can browse and download imagery of satellite data from NASA's constellation of Earth Observing System satellites.
-
+- [Geodata.gov.gr](https://geodata.gov.gr/en/dataset) - Open geospatial data for Greece.
 
 ### Web APIs 
 Restful APIs for consuming geospatial data on the fly.
@@ -158,6 +158,24 @@ Restful APIs for consuming geospatial data on the fly.
 - [GraphHopper Route Optimization API](https://www.graphhopper.com/route-optimization/) - Solves a variety of vehicle routing problems, including the classical “traveling salesman problem”.
 - [Geoapify](https://apidocs.geoapify.com/) - Maps, address and location search, route optimization, reachability analysis, geodata access, and more.
 - [OpenCage](https://opencagedata.com/api) - Forward and reverse worldwide geocoding API using open data.
+- [breezometer](https://docs.breezometer.com/api-documentation/introduction/) - API endpoints for Air Quality, Pollen, Weather, Wildfire, Cleanest Routes and Environmental Alerts. Serves current conditions, forecasts, and historical data.
+- [IQAir](https://www.iqair.com/air-pollution-data-api) - Air quality API. Global, historical, real-time and forecast air quality data.
+- [ipfind](https://ipfind.io/) - Geographic location of an IP address or any domain name along with some other useful information.
+- [bng2latlong](https://www.getthedata.com/bng2latlong) - Simple API to convert an OSGB36 easting and northing (British National Grid) to WGS84 latitude and longitude.
+- [Open Postcode Geo API](https://www.getthedata.com/open-postcode-geo-api) - British postcodes with easting, northing, latitude, and longitude.
+- [Country State City API](https://countrystatecity.in/) - Full Database of city state country available in JSON, SQL, XML, YAML & CSV format.
+- [API Geo](https://api.gouv.fr/les-api/api-geo) - 	Official French geographical data API.
+- [geonames](http://www.geonames.org/export/web-services.html) - Supports placename lookup, postal Code Search, reverse geocoding, nearby populated place and nearby toponym searches.
+- [opentopodata API](https://www.opentopodata.org/) - Open Topo Data is a REST API server for your elevation data.
+- [what3words](https://developer.what3words.com/public-api) - Convert 3 word addresses to coordinates and vice versa.
+- [TomTom](https://developer.tomtom.com/api-explorer-index/documentation/product-information/introduction) - Charging stations, fuel prices, routing, geocoding, parking availability, traffic and waypoint optimization endpoints.
+- [geoplugin](https://www.geoplugin.com/webservices) - Free geolocation and currency conversion API.
+- [Open Charge Map API](https://openchargemap.org/site/develop/api) - Non-commercial, non-profit global public registry of electric vehicle charging locations.
+- [OpenSky API](https://openskynetwork.github.io/opensky-api/rest.html) - Retrieve live airspace information for research and non-commerical purposes.
+- [Open-Meteo](https://open-meteo.com/) - Global weather forecast API for non-commercial use.
+- [RainViewer](https://www.rainviewer.com/api.html) - Free weather API. Offers the past (2 hours) and forecast (30 minutes) weather radar data and the past infrared satellite data.
+- [Sunrise and sunset](https://sunrise-sunset.org/api) - Sunset and sunrise times for a given latitude and longitude.
+- [Geocode.xyz](https://geocode.xyz/) - Reverse Geocoding, Forward Geocoding, Geoparsing API. Free requests throttled at 1 request per second.
 
 ### Collections 
 Compilations and repositories of open datasets.
