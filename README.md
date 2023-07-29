@@ -182,7 +182,7 @@ Compilations and repositories of open datasets.
 - [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - An awesome repository full of open datasets from an abundance of different categories.
 - [Free GIS data](https://freegisdata.rtwilson.com/) - Links to over 500 sites providing freely available geographic datasets.
 - [WRI](https://www.wri.org/data) - World resources institute.
-- [Public APIs](https://github.com/public-apis/public-apis) - A collective list of free APIs for use in software and web development.
+- [Public APIs](https://github.com/public-apis-dev/public-apis) - A collective list of free APIs for use in software and web development.
 
 ## 📒 Notebooks 
 Some JavaScript notebooks to help you code.
