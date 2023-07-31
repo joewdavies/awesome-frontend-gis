@@ -4,7 +4,7 @@
     <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" href="https://github.com/sindresorhus/awesome">
   </a></h2>
 
- Geographic Information Systems (GIS) for web browsers.
+ Geographic Information Systems (GIS) for web browsers. For managing, analyzing, editing, and visualizing geographic data.
   
 <div>
     <a href="https://github.com/eurostat/gridviz" target="_blank">
