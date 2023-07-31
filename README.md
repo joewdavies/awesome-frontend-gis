@@ -57,7 +57,6 @@ Libraries for building maps. Open source libraries listed first.
 - [regl-map-animation](https://github.com/eurostat/regl-map-animation) - Animate x/y point data using regl and categorize them into a bar chart.
 - [iTowns](https://github.com/iTowns/itowns) - A Three.js-based framework written in JavaScript/WebGL for visualizing 3D geospatial data.
 - [globe.gl](https://globe.gl/) - This library is a convenience wrapper around the three-globe plugin, and uses ThreeJS/WebGL for 3D rendering.
-- [d3-topogram](https://github.com/shawnbot/topogram) - Continuous area cartograms based on TopoJSON.
 - [d3-geo](https://github.com/d3/d3-geo) - A library for creating maps based on D3.js.
 - [d3-geo-projection](https://github.com/d3/d3-geo-projection) - Extended geographic projections.
 - [d3-geo-voronoi](https://github.com/Fil/d3-geo-voronoi) - Voronoi diagrams and Delaunay triangulation for the sphere.
