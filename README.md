@@ -51,7 +51,7 @@ Libraries for building maps. Open source libraries listed first.
 - [antvis L7](https://github.com/antvis/L7) - Large-scale WebGL-powered Geospatial Data Visualization.
 - [Tangram](https://github.com/tangrams/tangram) - WebGL map rendering engine for creative cartography.
 - [TerriaJS](https://github.com/TerriaJS/terriajs) - TerriaJS is a library for building rich, web-based geospatial data explorers.
-- [gridviz](https://github.com/eurostat/gridviz) - A Three.js-based library for visualizing gridded statistics datasets as CSV files.
+- [gridviz](https://github.com/eurostat/gridviz) - A package for visualizing gridded data.
 - [Eurostat-map](https://github.com/eurostat/eurostat-map.js) - Create and customise web maps showing Eurostat data using D3.js.
 - [Bertin.js](https://github.com/neocarto/bertin) - A JavaScript library for visualizing geospatial data and making thematic maps for the web.
 - [regl-map-animation](https://github.com/eurostat/regl-map-animation) - Animate x/y point data using regl and categorize them into a bar chart.
