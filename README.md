@@ -145,6 +145,7 @@ Data available for download.
 - [DIVA-GIS](https://www.diva-gis.org/Data) - Free spatial data. Includes country and global level boundaries, climate, species occurence, crop and elevation data.
 - [OpenAerialMap](https://openaerialmap.org/) - An open service to provide access to a commons of openly licensed imagery and map layer services.
 - [Global Climate Monitor](https://www.globalclimatemonitor.org/) - Global open climate data available for download.
+- [Copernicus open access hub](https://scihub.copernicus.eu) - Copernicus satellite imagery download.
 
 ### Web APIs 
 Restful APIs for consuming geospatial data on the fly.
