@@ -141,7 +141,7 @@ Data available for download.
 - [Open Topography](https://opentopography.org/) - OpenTopography facilitates community access to high-resolution, Earth science-oriented, topography data, and related tools and resources.
 - [NASA Earth Observations](https://neo.gsfc.nasa.gov/) - Here you can browse and download imagery of satellite data from NASA's constellation of Earth Observing System satellites.
 - [Geodata.gov.gr](https://geodata.gov.gr/en/dataset) - Open geospatial data for Greece.
-[ArcGIS Hub](https://hub.arcgis.com/) - Over 380,000 open datasets.
+- [ArcGIS Hub](https://hub.arcgis.com/) - Over 380,000 open datasets.
 
 ### Web APIs 
 Restful APIs for consuming geospatial data on the fly.
