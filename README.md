@@ -137,11 +137,12 @@ Data available for download.
 - [European Postcodes Point Data](https://ec.europa.eu/eurostat/web/gisco/geodata/reference-data/postal-codes) - The postal code point dataset shows the location of postal codes, NUTS codes and the Degree of Urbanisation classification across the EU, EFTA and candidate countries from a variety of sources.
 - [WorldPop](https://www.worldpop.org/) - Open access spatial demographic datasets built using transparent approaches. 
 - [World Bank](https://data.worldbank.org/) - Free and open access to global development data.
-- [Earth Explorer](https://earthexplorer.usgs.gov/) - Query and order satellite images, aerial photographs, and cartographic products through the U.S. Geological Survey.
+- [USGS Earth Explorer](https://earthexplorer.usgs.gov/) - Query and order satellite images, aerial photographs, and cartographic products through the U.S. Geological Survey.
 - [Open Topography](https://opentopography.org/) - OpenTopography facilitates community access to high-resolution, Earth science-oriented, topography data, and related tools and resources.
 - [NASA Earth Observations](https://neo.gsfc.nasa.gov/) - Here you can browse and download imagery of satellite data from NASA's constellation of Earth Observing System satellites.
 - [Geodata.gov.gr](https://geodata.gov.gr/en/dataset) - Open geospatial data for Greece.
 - [ArcGIS Hub](https://hub.arcgis.com/) - Over 380,000 open datasets.
+- [DIVA-GIS](https://www.diva-gis.org/Data) - Free spatial data. Includes country and global level boundaries, climate, species occurence, crop and elevation data.
 
 ### Web APIs 
 Restful APIs for consuming geospatial data on the fly.
