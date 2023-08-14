@@ -241,7 +241,7 @@ Plug-and-play geospatial web apps!
 - [uMap](https://github.com/umap-project/umap) - Lets you create a map with OpenStreetMap layers and embed it in your site.
 - [Peak Map](https://github.com/anvaka/peak-map) - Allows you to visualize elevation of any area on the map with filled area charts (also known as a ridgeline).
 - [mapus](https://github.com/alyssaxuu/mapus) - Mapus is a tool to explore and annotate collaboratively on a map.
-
+- [MapOnShirt](https://maponshirt.com) - A fun tool for creating colorful designs from maps and turning them into T-shirts, Posters, Cushions and more.
 ## 🎨 Colour advice 
 Colour usage is very important in data visualisation and cartography. Here are some tools to help you choose the best colours for your maps.
 - [ColorBrewer](https://colorbrewer2.org/) - Colour advice for maps, based on the research of Dr. Cynthia Brewer.
