@@ -1,4 +1,4 @@
-<!--lint disable double-link -->
+ok<!--lint disable double-link -->
 <div align="center">
 <h2>Awesome Frontend GIS   <a href="https://github.com/sindresorhus/awesome">
     <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" href="https://github.com/sindresorhus/awesome">
@@ -144,6 +144,7 @@ Data available for download.
 - [ArcGIS Hub](https://hub.arcgis.com/) - Over 380,000 open datasets.
 - [DIVA-GIS](https://www.diva-gis.org/Data) - Free spatial data. Includes country and global level boundaries, climate, species occurence, crop and elevation data.
 - [OpenAerialMap](https://openaerialmap.org/) - An open service to provide access to a commons of openly licensed imagery and map layer services.
+- [Global Climate Monitor](https://www.globalclimatemonitor.org/) - Global open climate data available for download.
 
 ### Web APIs 
 Restful APIs for consuming geospatial data on the fly.
