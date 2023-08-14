@@ -143,6 +143,7 @@ Data available for download.
 - [Geodata.gov.gr](https://geodata.gov.gr/en/dataset) - Open geospatial data for Greece.
 - [ArcGIS Hub](https://hub.arcgis.com/) - Over 380,000 open datasets.
 - [DIVA-GIS](https://www.diva-gis.org/Data) - Free spatial data. Includes country and global level boundaries, climate, species occurence, crop and elevation data.
+- [OpenAerialMap](https://openaerialmap.org/) - An open service to provide access to a commons of openly licensed imagery and map layer services.
 
 ### Web APIs 
 Restful APIs for consuming geospatial data on the fly.
