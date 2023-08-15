@@ -1,4 +1,4 @@
-ok<!--lint disable double-link -->
+<!--lint disable double-link -->
 <div align="center">
 <h2>Awesome Frontend GIS   <a href="https://github.com/sindresorhus/awesome">
     <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" href="https://github.com/sindresorhus/awesome">
@@ -41,7 +41,8 @@ ok<!--lint disable double-link -->
 ## 👨‍💻 JavaScript Libraries 
 
 ### Mapping 
-Libraries for building maps. Open source libraries listed first.
+Libraries for creating web maps:
+
 - [Leaflet](https://leafletjs.com/) - The leading open-source JavaScript library for mobile-friendly interactive maps.
 - [OpenLayers](https://openlayers.org/) - A high-performance, feature-packed library for creating interactive maps on the web.
 - [Cesium.js](https://cesiumjs.org/) - An open-source JavaScript library for world-class 3D mapping of geospatial data.
@@ -71,7 +72,7 @@ Libraries for building maps. Open source libraries listed first.
 - [Map Forecast API](https://github.com/windycom/API) - Simple-to-use library based on Leaflet 1.4.x. It allows you to show wind maps.
 
 ### Data Processing 
-Libraries that help you analyse and process geospatial data.
+Libraries that help you analyse and process geospatial data:
 - [geolib](https://github.com/manuelbieh/geolib) - Library to provide basic geospatial operations like distance calculation, conversion of decimal coordinates to sexagesimal, etc.
 - [Turf.js](https://github.com/Turfjs/turf) - Turf is a JavaScript library for spatial analysis.
 - [JSTS](https://github.com/bjornharrtell/jsts) - JavaScript Topology Suite.
@@ -103,13 +104,17 @@ Libraries that help you analyse and process geospatial data.
 - [math.gl](https://github.com/uber-web/math.gl) - JavaScript math library focused on Geospatial and 3D use cases.
 
 ### LiDAR
-Tools for visualizing point clouds.
+Tools for visualizing point clouds with web browsers:
+
 - [Potree](https://github.com/potree/potree) - WebGL point cloud viewer for large datasets.
 - [Plasio](https://github.com/verma/plasio) - Drag-n-drop In-browser LAS/LAZ point cloud viewer.
 - [Potree & Cesium.js](http://potree.org/potree/examples/cesium_retz.html) - Rezt, Austria LIDAR viewer.
 - [Three.js](https://threejs.org/examples/#webgl_loader_pcd) - Point cloud data loader.
 
 ### Remote Sensing
+
+Resources for frontend earth observation and remote sensing:
+
 - [Google Earth Engine](https://developers.google.com/earth-engine/tutorials/tutorial_api_01) - Geospatial processing service.
 - [sentinelhub-js](https://github.com/sentinel-hub/sentinelhub-js/) - Download and process satellite imagery in JavaScript or TypeScript using Sentinel Hub services.
 - [Sentinel Hub custom scripts](https://github.com/sentinel-hub/custom-scripts) - A repository of custom scripts to be used with Sentinel Hub.
@@ -118,7 +123,7 @@ Tools for visualizing point clouds.
 
 
 ## 💾 Data sources 
-A collection of geospatial open data sources.
+A collection of geospatial open data sources:
 
 ### Downloads 
 Data available for download.
@@ -148,7 +153,7 @@ Data available for download.
 - [Copernicus open access hub](https://scihub.copernicus.eu) - Copernicus satellite imagery download.
 
 ### Web APIs 
-Restful APIs for consuming geospatial data on the fly.
+Restful APIs for consuming geospatial data on the fly:
 
 - [GISCO data distribution API](https://gisco-services.ec.europa.eu/distribution/v2/) - Official European Commission data source for administrative regions, Coastal lines, Communes, Countries, Local Administrative Units, NUTS, Urban Audit.
 - [Address API](https://gisco-services.ec.europa.eu/addressapi/docs/) - Pan-european address data. Supports geocoding, reverse-geocoding and lists of address components (e.g. all roads in a city).
@@ -183,14 +188,14 @@ Restful APIs for consuming geospatial data on the fly.
 - [Geocode.xyz](https://geocode.xyz/) - Reverse Geocoding, Forward Geocoding, Geoparsing API. Free requests throttled at 1 request per second.
 
 ### Collections 
-Compilations and repositories of open datasets.
+Compilations and repositories of open geospatial datasets:
 - [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - An awesome repository full of open datasets from an abundance of different categories.
 - [Free GIS data](https://freegisdata.rtwilson.com/) - Links to over 500 sites providing freely available geographic datasets.
 - [WRI](https://www.wri.org/data) - World resources institute.
 - [Public APIs](https://github.com/public-apis-dev/public-apis) - A collective list of free APIs for use in software and web development.
 
 ## 📒 Notebooks 
-Some JavaScript notebooks to help you code.
+Some JavaScript notebooks to help you code:
 
 ### Beginner
 - [Hello, Leaflet](https://observablehq.com/@observablehq/hello-leaflet) - ObservableHQ.
@@ -221,7 +226,8 @@ Some JavaScript notebooks to help you code.
 - [Visualizing earthquakes with Three.js](https://observablehq.com/@joewdavies/visualizing-earthquakes-with-three-js) - Joe Davies.
 
 ## :world_map: Web maps 
-A compilation of interesting web maps.
+A compilation of interesting web maps:
+
 - [Map of notable people](https://tjukanovt.github.io/notable-people) - Topi Tjukanov.
 - [Submarine cable map](https://www.submarinecablemap.com/) - TeleGeography.
 - [Radio Garden](https://radio.garden/) - 3D Globe Radio Tuner.
@@ -230,7 +236,7 @@ A compilation of interesting web maps.
 - [Webgl Wind](https://github.com/mapbox/webgl-wind) - A WebGL-powered visualization of wind power. Capable of rendering up to 1 million wind particles at 60fps.
 
 ## 🌐 Web apps 
-Plug-and-play geospatial web apps!
+Plug-and-play geospatial web apps:
 
 - [city roads](https://anvaka.github.io/city-roads/) - Render every single road in any city at once.
 - [Kepler](https://kepler.gl/demo) - A powerful open source geospatial analysis tool for large-scale data sets.
@@ -247,8 +253,10 @@ Plug-and-play geospatial web apps!
 - [Peak Map](https://github.com/anvaka/peak-map) - Allows you to visualize elevation of any area on the map with filled area charts (also known as a ridgeline).
 - [mapus](https://github.com/alyssaxuu/mapus) - Mapus is a tool to explore and annotate collaboratively on a map.
 - [MapOnShirt](https://maponshirt.com) - A fun tool for creating colorful designs from maps and turning them into T-shirts, Posters, Cushions and more.
+
 ## 🎨 Colour advice 
-Colour usage is very important in data visualisation and cartography. Here are some tools to help you choose the best colours for your maps.
+Colour usage is very important in data visualisation and cartography. Here are some tools to help you choose the best colours for your maps:
+
 - [ColorBrewer](https://colorbrewer2.org/) - Colour advice for maps, based on the research of Dr. Cynthia Brewer.
 - [viz-palette](https://projects.susielu.com/viz-palette) - This project is optimized for tweaking, copying, and pasting colors in and out of JavaScript.
 - [Chroma.js Color Palette Helper](https://gka.github.io/palettes/#/9) - This chroma.js-powered tool is here to help us mastering multi-hued, multi-stops color scales.
@@ -257,14 +265,14 @@ Colour usage is very important in data visualisation and cartography. Here are s
 selective perception of different categories.
 
 ## 📍 Icons
-Icons to add to your GIS websites!
+Icons to add to your GIS websites:
 - [font-GIS](https://github.com/Viglino/font-gis) - A very very cool icon font set for use with GIS and spatial analysis tools.
 - [Map Icons Collection](https://mapicons.mapsmarker.com/) - A set of more than 1000 free and customizable icons to use as placemarks for your POI (Point of Interests) locations on your maps.
 - [Material Symbols](https://fonts.google.com/icons?icon.query=map) - Over 2,990 glyphs in a single font file with a wide range of design variants.
 - [Geoapify map marker playground](https://apidocs.geoapify.com/playground/icon/) - The Marker Icon API lets you create beautiful icons and use them as Map Markers.
 
 ## 📺 Videos
-Videos of web mapping presentations and tutorials.
+Videos of web mapping presentations and tutorials:
 
 - [Mapping Geolocation with Leaflet.js - Working with Data and APIs in JavaScript](https://www.youtube.com/watch?v=nZaZ2dB6pow) - The Coding Train.
 - [10 Maps, and the Tech and Stories Behind Them](https://www.youtube.com/watch?v=PpWAKVjPlgU) - Maarten Lambrechts.
