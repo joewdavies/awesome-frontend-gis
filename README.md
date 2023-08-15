@@ -126,7 +126,8 @@ Resources for frontend earth observation and remote sensing:
 A collection of geospatial open data sources:
 
 ### Downloads 
-Data available for download.
+Data available for download:
+
 - [OpenMapTiles](https://openmaptiles.org/) - Free OpenStreetMap Vector Tiles.
 - [OpenStreetMap](https://www.geofabrik.de/data/download.html) - A free, world-wide geographic data set.
 - [Natural Earth](https://www.naturalearthdata.com/) - Free vector and raster map data at 1:10m, 1:50m, and 1:110m scales.
