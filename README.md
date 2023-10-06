@@ -297,4 +297,4 @@ Contributions of any kind are welcome, just follow the [guidelines](./CONTRIBUTI
 
 ---
 
-If you have any questions about this list, please don't hesitate to contact me [@joewdavies](https://twitter.com/joewdavies) on Twitter or [open a GitHub issue](https://github.com/joewdavies/awesome-frontend-gis/issues/new).
+If you have any questions about this list, please don't hesitate to contact me [@joewdavies](https://twitter.com/joewdavies) on X (formerly Twitter) or [open a GitHub issue](https://github.com/joewdavies/awesome-frontend-gis/issues/new).
