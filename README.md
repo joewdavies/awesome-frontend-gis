@@ -45,7 +45,7 @@ Libraries for creating web maps:
 
 - [Leaflet](https://leafletjs.com/) - The leading open-source JavaScript library for mobile-friendly interactive maps.
 - [OpenLayers](https://openlayers.org/) - A high-performance, feature-packed library for creating interactive maps on the web.
-- [Cesium.js](https://cesiumjs.org/) - An open-source JavaScript library for world-class 3D mapping of geospatial data.
+- [Cesium.js](https://cesiumjs.com) - An open-source JavaScript library for world-class 3D mapping of geospatial data.
 - [maplibre](https://github.com/maplibre/maplibre-gl-js) - It originated as an open-source fork of mapbox-gl-js, before their switch to a non-OSS license in December 2020.
 - [Deck.GL](https://github.com/uber/deck.gl) - WebGL2 powered geospatial visualization layers.
 - [MapTalks.js](https://github.com/maptalks/maptalks.js) - An open-source JavaScript library for integrated 2D/3D maps.
@@ -67,7 +67,7 @@ Libraries for creating web maps:
 - [Google Maps](https://developers.google.com/maps/documentation/javascript) - Google Maps API for JavaScript.
 - [Wrld.js](https://github.com/wrld3d/wrld.js/) - Animated 3D city maps based on Leaflet.
 - [Mapbox GL JS](https://docs.mapbox.com/mapbox-gl-js/examples/) - JavaScript library that uses WebGL to render interactive maps from vector tiles.
-- [ArcGIS API for JS](https://developers.arcgis.com/JavaScript/latest/release-notes/) - A lightweight way to embed maps and tasks in web applications.
+- [ArcGIS API for JS](https://developers.arcgis.com/javascript/3/) - A lightweight way to embed maps and tasks in web applications.
 - [HERE maps API](https://developer.here.com/develop/javascript-api) - Build web applications with feature-rich and customizable HERE maps.
 - [Map Forecast API](https://github.com/windycom/API) - Simple-to-use library based on Leaflet 1.4.x. It allows you to show wind maps.
 
@@ -108,7 +108,7 @@ Tools for visualizing point clouds with web browsers:
 
 - [Potree](https://github.com/potree/potree) - WebGL point cloud viewer for large datasets.
 - [Plasio](https://github.com/verma/plasio) - Drag-n-drop In-browser LAS/LAZ point cloud viewer.
-- [Potree & Cesium.js](http://potree.org/potree/examples/cesium_retz.html) - Rezt, Austria LIDAR viewer.
+- [Potree & Cesium.js](https://potree.org/potree/examples/cesium_retz.html) - Rezt, Austria LIDAR viewer.
 - [Three.js](https://threejs.org/examples/#webgl_loader_pcd) - Point cloud data loader.
 
 ### Remote Sensing
@@ -180,7 +180,7 @@ Restful APIs for consuming geospatial data on the fly:
 - [opentopodata API](https://www.opentopodata.org/) - Open Topo Data is a REST API server for your elevation data.
 - [what3words](https://developer.what3words.com/public-api) - Convert 3 word addresses to coordinates and vice versa.
 - [TomTom](https://developer.tomtom.com/api-explorer-index/documentation/product-information/introduction) - Charging stations, fuel prices, routing, geocoding, parking availability, traffic and waypoint optimization endpoints.
-- [geoplugin](https://www.geoplugin.com/webservices) - Free geolocation and currency conversion API.
+- [geoplugin](https://www.geoplugin.com) - Free geolocation and currency conversion API.
 - [Open Charge Map API](https://openchargemap.org/site/develop/api) - Non-commercial, non-profit global public registry of electric vehicle charging locations.
 - [OpenSky API](https://openskynetwork.github.io/opensky-api/rest.html) - Retrieve live airspace information for research and non-commerical purposes.
 - [Open-Meteo](https://open-meteo.com/) - Global weather forecast API for non-commercial use.
