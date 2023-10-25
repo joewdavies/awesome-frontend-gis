@@ -45,7 +45,7 @@ Libraries for creating web maps:
 
 - [Leaflet](https://leafletjs.com/) - The leading open-source JavaScript library for mobile-friendly interactive maps.
 - [OpenLayers](https://openlayers.org/) - A high-performance, feature-packed library for creating interactive maps on the web.
-- [Cesium.js](https://cesiumjs.com) - An open-source JavaScript library for world-class 3D mapping of geospatial data.
+- [Cesium.js](https://cesium.com) - An open-source JavaScript library for world-class 3D mapping of geospatial data.
 - [maplibre](https://github.com/maplibre/maplibre-gl-js) - It originated as an open-source fork of mapbox-gl-js, before their switch to a non-OSS license in December 2020.
 - [Deck.GL](https://github.com/uber/deck.gl) - WebGL2 powered geospatial visualization layers.
 - [MapTalks.js](https://github.com/maptalks/maptalks.js) - An open-source JavaScript library for integrated 2D/3D maps.
@@ -180,7 +180,7 @@ Restful APIs for consuming geospatial data on the fly:
 - [opentopodata API](https://www.opentopodata.org/) - Open Topo Data is a REST API server for your elevation data.
 - [what3words](https://developer.what3words.com/public-api) - Convert 3 word addresses to coordinates and vice versa.
 - [TomTom](https://developer.tomtom.com/api-explorer-index/documentation/product-information/introduction) - Charging stations, fuel prices, routing, geocoding, parking availability, traffic and waypoint optimization endpoints.
-- [geoplugin](https://www.geoplugin.com) - Free geolocation and currency conversion API.
+- [geoplugin](https://geoplugin.com/) - Free geolocation and currency conversion API.
 - [Open Charge Map API](https://openchargemap.org/site/develop/api) - Non-commercial, non-profit global public registry of electric vehicle charging locations.
 - [OpenSky API](https://openskynetwork.github.io/opensky-api/rest.html) - Retrieve live airspace information for research and non-commerical purposes.
 - [Open-Meteo](https://open-meteo.com/) - Global weather forecast API for non-commercial use.
@@ -259,7 +259,7 @@ Plug-and-play geospatial web apps:
 Colour usage is very important in data visualisation and cartography. Here are some tools to help you choose the best colours for your maps:
 
 - [ColorBrewer](https://colorbrewer2.org/) - Colour advice for maps, based on the research of Dr. Cynthia Brewer.
-- [viz-palette](https://projects.susielu.com/viz-palette) - This project is optimized for tweaking, copying, and pasting colors in and out of JavaScript.
+- [viz-palette](https://www.susielu.com/data-viz/viz-palette) - This project is optimized for tweaking, copying, and pasting colors in and out of JavaScript.
 - [Chroma.js Color Palette Helper](https://gka.github.io/palettes/#/9) - This chroma.js-powered tool is here to help us mastering multi-hued, multi-stops color scales.
 - [Dicopal.js](https://github.com/riatelab/dicopal.js) - Discrete color palettes (hundreds of them!) for JavaScript.
 - [Textures.js](https://github.com/riccardoscalco/textures) - JavaScript library for creating SVG patterns. Made on top of d3.js, it is designed for data visualization. Textures are useful for the
