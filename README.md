@@ -180,7 +180,6 @@ Restful APIs for consuming geospatial data on the fly:
 - [opentopodata API](https://www.opentopodata.org/) - Open Topo Data is a REST API server for your elevation data.
 - [what3words](https://developer.what3words.com/public-api) - Convert 3 word addresses to coordinates and vice versa.
 - [TomTom](https://developer.tomtom.com/api-explorer-index/documentation/product-information/introduction) - Charging stations, fuel prices, routing, geocoding, parking availability, traffic and waypoint optimization endpoints.
-- [geoplugin](https://geoplugin.com/) - Free geolocation and currency conversion API.
 - [Open Charge Map API](https://openchargemap.org/site/develop/api) - Non-commercial, non-profit global public registry of electric vehicle charging locations.
 - [OpenSky API](https://openskynetwork.github.io/opensky-api/rest.html) - Retrieve live airspace information for research and non-commerical purposes.
 - [Open-Meteo](https://open-meteo.com/) - Global weather forecast API for non-commercial use.
