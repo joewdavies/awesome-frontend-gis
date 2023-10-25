@@ -31,7 +31,7 @@
   - [Beginner](#beginner)
   - [Intermediate](#intermediate)
   - [Advanced](#advanced)
-- [🗺️ **Web maps**](#world_map-web-maps)
+- [:world_map: Web maps](#world_map-web-maps)
 - [🌐 **Web apps**](#-web-apps)
 - [🎨 **Colour advice**](#-colour-advice)
 - [📍 **Icons**](#-icons)
