@@ -152,6 +152,7 @@ Data available for download:
 - [OpenAerialMap](https://openaerialmap.org/) - An open service to provide access to a commons of openly licensed imagery and map layer services.
 - [Global Climate Monitor](https://www.globalclimatemonitor.org/) - Global open climate data available for download.
 - [Copernicus open access hub](https://scihub.copernicus.eu) - Copernicus satellite imagery download.
+- [Global Biodiversity Information Facility (GBIF)](https://www.gbif.org/) - An international network and data infrastructure funded by the world's governments and aimed at providing anyone, anywhere, open access to data about all types of life on Earth.
 
 ### Web APIs 
 Restful APIs for consuming geospatial data on the fly:
@@ -170,7 +171,6 @@ Restful APIs for consuming geospatial data on the fly:
 - [Geoapify](https://apidocs.geoapify.com/) - Maps, address and location search, route optimization, reachability analysis, geodata access, and more.
 - [OpenCage](https://opencagedata.com/api) - Forward and reverse worldwide geocoding API using open data.
 - [breezometer](https://docs.breezometer.com/api-documentation/introduction/) - API endpoints for Air Quality, Pollen, Weather, Wildfire, Cleanest Routes and Environmental Alerts. Serves current conditions, forecasts, and historical data.
-- [ipfind](https://ipfind.io/) - Geographic location of an IP address or any domain name along with some other useful information.
 - [bng2latlong](https://www.getthedata.com/bng2latlong) - Simple API to convert an OSGB36 easting and northing (British National Grid) to WGS84 latitude and longitude.
 - [Open Postcode Geo API](https://www.getthedata.com/open-postcode-geo-api) - British postcodes with easting, northing, latitude, and longitude.
 - [Country State City API](https://countrystatecity.in/) - Full Database of city state country available in JSON, SQL, XML, YAML & CSV format.
