@@ -264,6 +264,7 @@ Colour usage is very important in data visualisation and cartography. Here are s
 - [Dicopal.js](https://github.com/riatelab/dicopal.js) - Discrete color palettes (hundreds of them!) for JavaScript.
 - [Textures.js](https://github.com/riccardoscalco/textures) - JavaScript library for creating SVG patterns. Made on top of d3.js, it is designed for data visualization. Textures are useful for the
 selective perception of different categories.
+- [CartoColor](https://github.com/CartoDB/CartoColor) - A set of custom color palettes built on top of well-known standards for color use on maps.
 
 ## 📍 Icons
 Icons to add to your GIS websites:
