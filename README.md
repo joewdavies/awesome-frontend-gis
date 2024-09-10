@@ -153,6 +153,7 @@ Data available for download:
 - [Global Climate Monitor](https://www.globalclimatemonitor.org/) - Global open climate data available for download.
 - [Copernicus open access hub](https://scihub.copernicus.eu) - Copernicus satellite imagery download.
 - [Global Biodiversity Information Facility (GBIF)](https://www.gbif.org/) - An international network and data infrastructure funded by the world's governments and aimed at providing anyone, anywhere, open access to data about all types of life on Earth.
+- [Galileo](https://galileo.gisdata.io/) - Geospatial data discovery, download, and management platform.
 
 ### Web APIs 
 Restful APIs for consuming geospatial data on the fly:
