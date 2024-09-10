@@ -67,7 +67,7 @@ Libraries for creating web maps:
 - [Google Maps](https://developers.google.com/maps/documentation/javascript) - Google Maps API for JavaScript.
 - [Wrld.js](https://github.com/wrld3d/wrld.js/) - Animated 3D city maps based on Leaflet.
 - [Mapbox GL JS](https://docs.mapbox.com/mapbox-gl-js/examples/) - JavaScript library that uses WebGL to render interactive maps from vector tiles.
-- [ArcGIS API for JS](https://developers.arcgis.com/javascript/3/) - A lightweight way to embed maps and tasks in web applications.
+- [ArcGIS Maps SDK for JavaScript](https://developers.arcgis.com/javascript/latest/) - Modern JavaScript API and web component library for building interactive web apps for the browser.
 - [HERE maps API](https://developer.here.com/develop/javascript-api) - Build web applications with feature-rich and customizable HERE maps.
 - [Map Forecast API](https://github.com/windycom/API) - Simple-to-use library based on Leaflet 1.4.x. It allows you to show wind maps.
 
