@@ -44,6 +44,7 @@
 Libraries for creating web maps:
 
 - [Leaflet](https://leafletjs.com/) - The leading open-source JavaScript library for mobile-friendly interactive maps.
+- [ArcGIS Maps SDK for JavaScript](https://developers.arcgis.com/javascript/latest/) - Modern JavaScript API and web component library for building interactive web apps for the browser.
 - [OpenLayers](https://openlayers.org/) - A high-performance, feature-packed library for creating interactive maps on the web.
 - [Cesium.js](https://cesium.com) - An open-source JavaScript library for world-class 3D mapping of geospatial data.
 - [maplibre](https://github.com/maplibre/maplibre-gl-js) - It originated as an open-source fork of mapbox-gl-js, before their switch to a non-OSS license in December 2020.
