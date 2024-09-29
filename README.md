@@ -241,6 +241,7 @@ A compilation of interesting web maps:
 - [Statistical Atlas](https://ec.europa.eu/statistical-atlas/viewer) - A leaflet-powered atlas showcasing Eurostat's statistics.
 - [ShadeMap](https://shademap.app/) - Every mountain, building and tree shadow in the world simulated for any date and time.
 - [ClimateArchive](https://climatearchive.org/) - An interactive visualisation of climate model data across time and space.
+- [Old Maps Online](https://www.oldmapsonline.org/) - Browse historical places and search for old maps with timeline.
 
 ## 🌐 Web apps 
 Plug-and-play geospatial web apps:
