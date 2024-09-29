@@ -144,6 +144,7 @@ Data available for download:
 - [HydroSHEDS](https://www.hydrosheds.org/) - Consistent hydrographic data for global applications.
 - [NASA Earth Data](https://search.earthdata.nasa.gov/search) - Search, discover, visualize, refine, and access NASA Earth Observation data in your browser with Earthdata Search.
 - [NASA Earth Observations](https://neo.gsfc.nasa.gov/) - Browse and download satellite data imagery.
+- [NASA SEDAC](https://sedac.ciesin.columbia.edu/data/set/urbanspatial-guppd-v1) - Global Urban Polygons and Points Dataset.
 - [Natural Earth](https://www.naturalearthdata.com/) - Free vector and raster map data.
 - [OpenAerialMap](https://openaerialmap.org/) - Open service for accessing licensed imagery.
 - [OpenMapTiles](https://openmaptiles.org/) - Free OpenStreetMap Vector Tiles.
