@@ -131,7 +131,7 @@ Data available for download:
 - [ArcGIS Hub](https://hub.arcgis.com/) - Over 380,000 open datasets.
 - [Copernicus global DEM](https://ec.europa.eu/eurostat/web/gisco/geodata/digital-elevation-model/copernicus#Elevation) - Global elevation tiles.
 - [Copernicus open access hub](https://scihub.copernicus.eu) - Copernicus satellite imagery download.
-- [ETOPO1](https://www.ngdc.noaa.gov/mgg/global/) - 1 arc-minute global relief model of Earth's surface.
+- [ETOPO1](https://www.ngdc.noaa.gov/mgg) - 1 arc-minute global relief model of Earth's surface.
 - [European population grids - GISCO](https://ec.europa.eu/eurostat/web/gisco/geodata/grids) - Population figures in grid cells.
 - [European Postcodes Point Data](https://ec.europa.eu/eurostat/web/gisco/geodata/administrative-units/postal-codes) - Location of postal codes across Europe.
 - [Geoboundaries](https://www.geoboundaries.org/) - The world's largest open, free political boundaries database.
