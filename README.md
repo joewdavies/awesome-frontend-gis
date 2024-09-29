@@ -239,6 +239,7 @@ A compilation of interesting web maps:
 - [Map of the Roman transport network](https://orbis.stanford.edu/) - The Stanford Geospatial Network Model of the Roman World.
 - [Webgl Wind](https://github.com/mapbox/webgl-wind) - A WebGL-powered visualization of wind power. Capable of rendering up to 1 million wind particles at 60fps.
 - [Statistical Atlas](https://ec.europa.eu/statistical-atlas/viewer) - A leaflet-powered atlas showcasing Eurostat's statistics.
+- [ShadeMap](https://shademap.app/) - Every mountain, building and tree shadow in the world simulated for any date and time.
 
 ## 🌐 Web apps 
 Plug-and-play geospatial web apps:
