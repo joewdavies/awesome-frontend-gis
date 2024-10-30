@@ -175,7 +175,7 @@ Restful APIs for consuming geospatial data on the fly:
 - [GraphHopper Route Optimization API](https://www.graphhopper.com/route-optimization/) - Solves various vehicle routing problems.
 - [movebank-api](https://github.com/movebank/movebank-api-doc) - Platform for animal tracking data.
 - [OpenAQ](https://openaq.org/) - Largest open-source air quality data platform.
-- [Open Charge Map API](https://openchargemap.org/site/develop/api) - Public registry of electric vehicle charging locations.
+- [Open Charge Map API](https://openchargemap.org/site/develop#api) - Public registry of electric vehicle charging locations.
 - [OpenCage](https://opencagedata.com/api) - Forward and reverse geocoding API using open data.
 - [Open-Meteo](https://open-meteo.com/) - Global weather forecast API.
 - [Open Notify](http://open-notify.org/Open-Notify-API/) - ISS location and number of people in space.
