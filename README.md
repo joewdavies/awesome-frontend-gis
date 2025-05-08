@@ -252,7 +252,7 @@ Plug-and-play geospatial web apps:
 - [city roads](https://anvaka.github.io/city-roads/) - Render every single road in any city at once.
 - [Datawrapper](https://github.com/datawrapper/datawrapper) - Create charts, maps, and tables.
 - [Fantasy Map Generator](https://github.com/Azgaar/Fantasy-Map-Generator) - Free web application for creating and editing fantasy maps.
-- [geotiff.io](//app.geotiff.io/) - Provides quick access to easy-to-use raster processing.
+- [geotiff.io](http://app.geotiff.io/) - Provides quick access to easy-to-use raster processing.
 - [IMAGE](https://gisco-services.ec.europa.eu/image/) - Tool for generating thematic maps.
 - [Kepler](https://kepler.gl/demo) - A powerful open-source geospatial analysis tool for large-scale datasets.
 - [magrit](https://magrit.cnrs.fr/) - An online application for thematic mapping.
