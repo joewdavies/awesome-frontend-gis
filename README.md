@@ -132,20 +132,19 @@ Data available for download:
 
 - [ArcGIS Hub](https://hub.arcgis.com/) - Over 380,000 open datasets.
 - [Copernicus global DEM](https://ec.europa.eu/eurostat/web/gisco/geodata/digital-elevation-model/copernicus#Elevation) - Global elevation tiles.
-- [Copernicus open access hub](https://scihub.copernicus.eu) - Copernicus satellite imagery download.
+- [Copernicus open access hub](https://www.copernicus.eu/en/access-data/conventional-data-access-hubs) - Copernicus satellite imagery download.
 - [ETOPO1](https://www.ngdc.noaa.gov/mgg) - 1 arc-minute global relief model of Earth's surface.
 - [European population grids - GISCO](https://ec.europa.eu/eurostat/web/gisco/geodata/grids) - Population figures in grid cells.
 - [European Postcodes Point Data](https://ec.europa.eu/eurostat/web/gisco/geodata/administrative-units/postal-codes) - Location of postal codes across Europe.
 - [Geoboundaries](https://www.geoboundaries.org/) - The world's largest open, free political boundaries database.
 - [Global Biodiversity Information Facility (GBIF)](https://www.gbif.org/) - Open access to biodiversity data.
-- [Global Climate Monitor](https://www.globalclimatemonitor.org/) - Global open climate data.
+- [Global Climate Monitor](https://kerdoc.cica.es/) - Global open climate data.
 - [Global power plant database](https://datasets.wri.org/dataset/globalpowerplantdatabase) - Open source database of power plants.
 - [Galileo](https://galileo.gisdata.io/) - Geospatial data discovery and management platform.
 - [Healthcare Services in Europe](https://ec.europa.eu/eurostat/web/gisco/geodata/basic-services#Healthcare) - Locations of healthcare services in Europe.
 - [HydroSHEDS](https://www.hydrosheds.org/) - Consistent hydrographic data for global applications.
 - [NASA Earth Data](https://search.earthdata.nasa.gov/search) - Search, discover, visualize, refine, and access NASA Earth Observation data in your browser with Earthdata Search.
 - [NASA Earth Observations](https://neo.gsfc.nasa.gov/) - Browse and download satellite data imagery.
-- [NASA SEDAC](https://earthdata.nasa.gov/data/catalog/sedac-ciesin-sedac-uspat-guppd-v1-1.00) - Global Urban Polygons and Points Dataset.
 - [Natural Earth](https://www.naturalearthdata.com/) - Free vector and raster map data.
 - [OpenAerialMap](https://openaerialmap.org/) - Open service for accessing licensed imagery.
 - [OpenMapTiles](https://openmaptiles.org/) - Free OpenStreetMap Vector Tiles.
