@@ -4,7 +4,8 @@
     <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" href="https://github.com/sindresorhus/awesome">
   </a></h2>
 
- Geographic Information Systems (GIS) for web browsers. For managing, analyzing, editing, and visualizing geographic data.
+ Geographic Information Systems (GIS) for web browsers. <br>
+ For managing, analyzing, editing, and visualizing geographic data.
   
 <div>
     <a href="https://github.com/eurostat/gridviz" target="_blank">
@@ -298,6 +299,7 @@ Videos of web mapping presentations and tutorials:
 - [A Workbook for Interactive Cartography and Visualization on the Open Web](https://github.com/uwcartlab/webmapping) - Robert Roth, Carl Sack, Gareth Baldrica-Franklin, Yuying Chen, Rich Donohue, Lily Houtman, Tim Prestby, Robin Tolochko, Nick Underwood.
 - [Thematic Mapping: 101 Inspiring Ways to Visualise Empirical Data](https://www.esri.com/en-us/esri-press/browse/thematic-mapping) - Kenneth Field.
 - [Color use guidelines for mapping and visualization](https://colorbrewer2.org/learnmore/schemes_full.html#qualitative) - Cynthia A. Brewer.
+- [Geospatial Network Visualization](https://geonetworks.github.io/) - A collection of visualization techniques for geospatial network data.
 
 
 ## Contributing
