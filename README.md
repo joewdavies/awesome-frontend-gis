@@ -156,6 +156,8 @@ Data available for download:
 - [World Atlas TopoJSON](https://github.com/topojson/world-atlas) - Natural Earth's vector data as TopoJSON.
 - [World Bank](https://data.worldbank.org/) - Free access to global development data.
 - [WorldPop](https://www.worldpop.org/) - Open access spatial demographic datasets.
+- [Indian Shapefiles](https://github.com/datta07/INDIAN-SHAPEFILES) - Open-source collection of Indian administrative shapefiles (states, districts, etc.).
+
 
 
 ### Web APIs 
@@ -244,6 +246,8 @@ A compilation of interesting web maps:
 - [ClimateArchive](https://climatearchive.org/) - An interactive visualisation of climate model data across time and space.
 - [Old Maps Online](https://www.oldmapsonline.org/) - Browse historical places and search for old maps with timeline.
 - [chronotrains](https://www.chronotrains.com) - Where can you go by train in 8h?
+- [Indian MapExpo](https://garudadevdataservices.github.io/mapexpo/) - Interactive web app visualizing Indian maps.
+
 
 ## 🌐 Web apps 
 Plug-and-play geospatial web apps:
