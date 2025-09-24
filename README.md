@@ -99,7 +99,6 @@ Libraries that help you analyse and process geospatial data:
 - [rbush](https://github.com/mourner/rbush) - RBush is a high-performance JavaScript library for 2D spatial indexing. ![GitHub stars](https://img.shields.io/github/stars/mourner/rbush?style=social)
 - [spl.js](https://github.com/jvail/spl.js) - Makes it possible to use SpatiaLite functionality in JavaScript. ![GitHub stars](https://img.shields.io/github/stars/jvail/spl.js?style=social)
 - [statsbreaks](https://github.com/riatelab/statsbreaks) - Split a quantitative dataset into classes for thematic mapping. ![GitHub stars](https://img.shields.io/github/stars/riatelab/statsbreaks?style=social)
-- [supercluster](https://www.npmjs.com/package/supercluster) - A very fast JavaScript library for geospatial point clustering. ![GitHub stars](https://img.shields.io/github/stars/mapbox/supercluster?style=social)
 - [Turf.js](https://github.com/Turfjs/turf) - A JavaScript library for spatial analysis. ![GitHub stars](https://img.shields.io/github/stars/Turfjs/turf?style=social)
 - [topoJSON](https://github.com/topojson/topojson) - Convert GeoJSON to TopoJSON for use in D3 maps. ![GitHub stars](https://img.shields.io/github/stars/topojson/topojson?style=social)
 - [Wicket](https://github.com/arthur-e/Wicket) - A modest library for moving between Well-Known Text (WKT) and various framework geometries. ![GitHub stars](https://img.shields.io/github/stars/arthur-e/Wicket?style=social)
@@ -154,7 +153,7 @@ Data available for download:
 - [Sentinel Hub custom scripts](https://github.com/sentinel-hub/custom-scripts) - Repository of custom scripts for Sentinel Hub.
 - [USGS Earth Explorer](https://earthexplorer.usgs.gov/) - Query and order satellite images and more.
 - [World Atlas TopoJSON](https://github.com/topojson/world-atlas) - Natural Earth's vector data as TopoJSON.
-- [World Bank](https://datasets.wri.org/) - Free access to global development data.
+- [World Bank](https://www.unccd.int/resources/knowledge-sharing-system/world-banks-open-data) - Free access to global development data.
 - [WorldPop](https://www.worldpop.org/) - Open access spatial demographic datasets.
 
 
@@ -196,7 +195,7 @@ Compilations and repositories of open geospatial datasets:
 - [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - An awesome repository full of open datasets from an abundance of different categories.
 - [Free GIS data](https://freegisdata.rtwilson.com/) - Links to over 500 sites providing freely available geographic datasets.
 - [Public APIs](https://github.com/public-apis-dev/public-apis) - A collective list of free APIs for use in software and web development.
-- [WRI](https://www.wri.org/data) - World Resources Institute.
+- [WRI](https://datasets.wri.org/) - World Resources Institute.
 - [David Rumsey map collection](https://www.davidrumsey.com/) - Historical map archives.
 
 ## 📒 Notebooks 
