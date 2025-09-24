@@ -1,14 +1,14 @@
 <!--lint disable double-link awesome-heading -->
-<div align="center">
-<h2>Awesome Frontend GIS   <a href="https://github.com/sindresorhus/awesome">
-    <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" href="https://github.com/sindresorhus/awesome">
+<div align='center'>
+<h2>Awesome Frontend GIS   <a href='https://github.com/sindresorhus/awesome'>
+    <img src='https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg' alt='Awesome' href='https://github.com/sindresorhus/awesome'>
   </a></h2>
 
  Geographic Information Systems (GIS) for web browsers. <br>
  For managing, analyzing, editing, and visualizing geographic data.
   
 <div>
-    <a href="https://github.com/eurostat/gridviz" target="_blank">
+    <a href='https://github.com/eurostat/gridviz' target='_blank'>
         <img src='https://user-images.githubusercontent.com/25485293/191950255-cbd83c6a-4880-4c0a-a665-b59a21467702.PNG'>
     </a>
 </div>
@@ -154,7 +154,7 @@ Data available for download:
 - [Sentinel Hub custom scripts](https://github.com/sentinel-hub/custom-scripts) - Repository of custom scripts for Sentinel Hub.
 - [USGS Earth Explorer](https://earthexplorer.usgs.gov/) - Query and order satellite images and more.
 - [World Atlas TopoJSON](https://github.com/topojson/world-atlas) - Natural Earth's vector data as TopoJSON.
-- [World Bank](https://data.worldbank.org/) - Free access to global development data.
+- [World Bank](https://datasets.wri.org/) - Free access to global development data.
 - [WorldPop](https://www.worldpop.org/) - Open access spatial demographic datasets.
 
 
@@ -239,7 +239,7 @@ A compilation of interesting web maps:
 - [Radio Garden](https://radio.garden/) - 3D Globe Radio Tuner.
 - [Map of every building in the United States](https://www.nytimes.com/interactive/2018/10/12/us/map-of-every-building-in-the-united-states.html) - New York Times.
 - [Map of the Roman transport network](https://orbis.stanford.edu/) - The Stanford Geospatial Network Model of the Roman World.
-- [Webgl Wind](https://github.com/mapbox/webgl-wind) - A WebGL-powered visualization of wind power. Capable of rendering up to 1 million wind particles at 60fps.
+- [WebGL Wind](https://github.com/mapbox/webgl-wind) - A WebGL-powered visualization of wind power. Capable of rendering up to 1 million wind particles at 60fps.
 - [Statistical Atlas](https://ec.europa.eu/statistical-atlas/viewer) - A leaflet-powered atlas showcasing Eurostat's statistics.
 - [ShadeMap](https://shademap.app/) - Every mountain, building and tree shadow in the world simulated for any date and time.
 - [ClimateArchive](https://climatearchive.org/) - An interactive visualisation of climate model data across time and space.
