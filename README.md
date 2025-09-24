@@ -197,6 +197,7 @@ Compilations and repositories of open geospatial datasets:
 - [Free GIS data](https://freegisdata.rtwilson.com/) - Links to over 500 sites providing freely available geographic datasets.
 - [Public APIs](https://github.com/public-apis-dev/public-apis) - A collective list of free APIs for use in software and web development.
 - [WRI](https://www.wri.org/data) - World Resources Institute.
+- [David Rumsey map collection](https://www.davidrumsey.com/) - Historical map archives.
 
 ## 📒 Notebooks 
 Some JavaScript notebooks to help you code:
