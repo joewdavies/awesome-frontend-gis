@@ -19,7 +19,6 @@
 
 
 ## Contents
-- [Contents](#contents)
 - [👨‍💻 JavaScript Libraries](#-javascript-libraries)
   - [Mapping](#mapping)
   - [Data Processing](#data-processing)
