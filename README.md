@@ -38,7 +38,6 @@
 - [📍 Icons](#-icons)
 - [📺 Videos](#-videos)
 - [📚 Further reading](#-further-reading)
-- [Contributing](#contributing)
 
 ## 👨‍💻 JavaScript Libraries 
 
