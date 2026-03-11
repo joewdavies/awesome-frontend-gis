@@ -258,6 +258,7 @@ Plug-and-play geospatial web apps:
 - [mapshaper](https://mapshaper.org/) - Online editor for map data.
 - [MapOnShirt](https://maponshirt.com) - Create colorful designs from maps and turn them into products.
 - [Maputnik](https://github.com/maputnik/editor) - Free and open visual editor for Mapbox GL styles.
+- [Moveet](https://github.com/ivannovazzi/moveet) - Real-time vehicle fleet simulator with A* pathfinding on real road networks.
 - [mapus](https://github.com/alyssaxuu/mapus) - Tool for collaboratively exploring and annotating maps.
 - [Peak Map](https://github.com/anvaka/peak-map) - Visualizes elevation of any area on the map with filled area charts.
 - [Plasio](https://github.com/verma/plasio) - Drag-n-drop in-browser LAS/LAZ point cloud viewer.
