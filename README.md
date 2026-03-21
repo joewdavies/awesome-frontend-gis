@@ -266,6 +266,7 @@ Plug-and-play geospatial web apps:
 - [uMap](https://github.com/umap-project/umap) - Create maps with OpenStreetMap layers and embed them in your site.
 - [bboxFinder](http://bboxfinder.com/) - Helper page for finding bbox values from a map.
 - [geojson.io](https://geojson.io/) - A quick, simple tool for creating, viewing, and sharing spatial data.
+- [MGuide](https://mguide.app) - Interactive campus map for the University of Michigan with 354 buildings, real-time GTFS-RT bus tracking, and OSRM walking directions. Built with MapLibre GL JS and React.
 - [GeoJSONLint](https://geojsonlint.com/) - Use this site to validate and view your GeoJSON.
 
 
