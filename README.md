@@ -171,6 +171,7 @@ Restful APIs for consuming geospatial data on the fly:
 - [Geocode.xyz](https://geocode.xyz/) - Reverse geocoding, forward geocoding, and geoparsing API.
 - [GISCO data distribution API](https://gisco-services.ec.europa.eu/distribution/v2/) - European Commission data source for administrative regions and boundaries.
 - [GraphHopper Route Optimization API](https://www.graphhopper.com/route-optimization/) - Solves various vehicle routing problems.
+- [MapAtlas](https://mapatlas.eu) - Mapping REST API providing geocoding, directions, route optimization, isochrones, MVT vector tiles, and GeoEnrich services.
 - [movebank-api](https://github.com/movebank/movebank-api-doc) - Platform for animal tracking data.
 - [OpenAQ](https://openaq.org/) - Largest open-source air quality data platform.
 - [Open Charge Map API](https://openchargemap.org) - Public registry of electric vehicle charging locations.
