@@ -261,6 +261,7 @@ Plug-and-play geospatial web apps:
 - [mapus](https://github.com/alyssaxuu/mapus) - Tool for collaboratively exploring and annotating maps.
 - [Peak Map](https://github.com/anvaka/peak-map) - Visualizes elevation of any area on the map with filled area charts.
 - [Plasio](https://github.com/verma/plasio) - Drag-n-drop in-browser LAS/LAZ point cloud viewer.
+- [Phantom Tide](https://phantom.labs.jamessawyer.co.uk/) - Hosted geospatial intelligence web app for maritime and airspace monitoring, combining vessel tracking, flight activity, official notices, environmental context, and satellite detections.
 - [StoryMap JS](https://storymap.knightlab.com/) - Open-source alternative to ESRI's Story Map application.
 - [TopoExport](https://topoexport.com) - Export 2D contour lines and 3D topography using open-source datasets.
 - [uMap](https://github.com/umap-project/umap) - Create maps with OpenStreetMap layers and embed them in your site.
