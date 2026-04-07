@@ -267,6 +267,7 @@ Plug-and-play geospatial web apps:
 - [bboxFinder](http://bboxfinder.com/) - Helper page for finding bbox values from a map.
 - [geojson.io](https://geojson.io/) - A quick, simple tool for creating, viewing, and sharing spatial data.
 - [GeoJSONLint](https://geojsonlint.com/) - Use this site to validate and view your GeoJSON.
+- [Pumperly](https://github.com/GeiserX/pumperly) - Open-source fuel price comparison and EV charging route planner using MapLibre GL JS, PostGIS, Valhalla routing, and Photon geocoding.
 
 
 ## 🎨 Colour advice 
