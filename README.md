@@ -107,20 +107,20 @@ Libraries that help you analyse and process geospatial data:
 ### LiDAR
 Tools for visualizing point clouds with web browsers:
 
-- [Plasio](https://github.com/verma/plasio) - Drag-n-drop In-browser LAS/LAZ point cloud viewer.
-- [Potree](https://github.com/potree/potree) - WebGL point cloud viewer for large datasets.
+- [Plasio](https://github.com/verma/plasio) - Drag-n-drop In-browser LAS/LAZ point cloud viewer. ![GitHub stars](https://img.shields.io/github/stars/verma/plasio?style=social)
+- [Potree](https://github.com/potree/potree) - WebGL point cloud viewer for large datasets. ![GitHub stars](https://img.shields.io/github/stars/potree/potree?style=social)
 - [Potree & Cesium.js](https://potree.org/potree/examples/cesium_retz.html) - Rezt, Austria LIDAR viewer.
-- [Three.js](https://threejs.org/examples/#webgl_loader_pcd) - Point cloud data loader.
+- [Three.js](https://threejs.org/examples/#webgl_loader_pcd) - Point cloud data loader. ![GitHub stars](https://img.shields.io/github/stars/mrdoob/three.js?style=social)
 
 ### Remote Sensing
 
 Resources for frontend earth observation and remote sensing:
 
-- [EOSDIS Worldview](https://github.com/nasa-gibs/worldview) - Interactive interface for browsing global, full-resolution satellite imagery.
+- [EOSDIS Worldview](https://github.com/nasa-gibs/worldview) - Interactive interface for browsing global, full-resolution satellite imagery. ![GitHub stars](https://img.shields.io/github/stars/nasa-gibs/worldview?style=social)
 - [Google Earth Engine](https://developers.google.com/earth-engine/tutorials/tutorial_api_01) - Geospatial processing service.
-- [Sentinel Hub custom scripts](https://github.com/sentinel-hub/custom-scripts) - A repository of custom scripts to be used with Sentinel Hub.
-- [sentinelhub-js](https://github.com/sentinel-hub/sentinelhub-js/) - Download and process satellite imagery using Sentinel Hub services.
-- [Spectral](https://github.com/awesome-spectral-indices) - Awesome Spectral Indices for the Google Earth Engine JavaScript API.
+- [Sentinel Hub custom scripts](https://github.com/sentinel-hub/custom-scripts) - A repository of custom scripts to be used with Sentinel Hub. ![GitHub stars](https://img.shields.io/github/stars/sentinel-hub/custom-scripts?style=social)
+- [sentinelhub-js](https://github.com/sentinel-hub/sentinelhub-js/) - Download and process satellite imagery using Sentinel Hub services. ![GitHub stars](https://img.shields.io/github/stars/sentinel-hub/sentinelhub-js?style=social)
+- [Spectral](https://github.com/awesome-spectral-indices/awesome-spectral-indices) - Awesome Spectral Indices for the Google Earth Engine JavaScript API. ![GitHub stars](https://img.shields.io/github/stars/awesome-spectral-indices/awesome-spectral-indices?style=social)
 
 
 ## 💾 Data sources 
@@ -149,10 +149,10 @@ Data available for download:
 - [OpenMapTiles](https://openmaptiles.org/) - Free OpenStreetMap Vector Tiles.
 - [OpenStreetMap](https://www.geofabrik.de/data/download.html) - Free, world-wide geographic data set.
 - [Open Topography](https://opentopography.org/) - High-resolution topography data and tools.
-- [Ookla internet speed data](https://github.com/teamookla/ookla-open-data) - Global network performance metrics.
-- [Sentinel Hub custom scripts](https://github.com/sentinel-hub/custom-scripts) - Repository of custom scripts for Sentinel Hub.
+- [Ookla internet speed data](https://github.com/teamookla/ookla-open-data) - Global network performance metrics. ![GitHub stars](https://img.shields.io/github/stars/teamookla/ookla-open-data?style=social)
+- [Sentinel Hub custom scripts](https://github.com/sentinel-hub/custom-scripts) - Repository of custom scripts for Sentinel Hub. ![GitHub stars](https://img.shields.io/github/stars/sentinel-hub/custom-scripts?style=social)
 - [USGS Earth Explorer](https://earthexplorer.usgs.gov/) - Query and order satellite images and more.
-- [World Atlas TopoJSON](https://github.com/topojson/world-atlas) - Natural Earth's vector data as TopoJSON.
+- [World Atlas TopoJSON](https://github.com/topojson/world-atlas) - Natural Earth's vector data as TopoJSON. ![GitHub stars](https://img.shields.io/github/stars/topojson/world-atlas?style=social)
 - [World Bank](https://www.unccd.int/resources/knowledge-sharing-system/world-banks-open-data) - Free access to global development data.
 - [WorldPop](https://www.worldpop.org/) - Open access spatial demographic datasets.
 
@@ -171,14 +171,14 @@ Restful APIs for consuming geospatial data on the fly:
 - [Geocode.xyz](https://geocode.xyz/) - Reverse geocoding, forward geocoding, and geoparsing API.
 - [GISCO data distribution API](https://gisco-services.ec.europa.eu/distribution/v2/) - European Commission data source for administrative regions and boundaries.
 - [GraphHopper Route Optimization API](https://www.graphhopper.com/route-optimization/) - Solves various vehicle routing problems.
-- [movebank-api](https://github.com/movebank/movebank-api-doc) - Platform for animal tracking data.
+- [movebank-api](https://github.com/movebank/movebank-api-doc) - Platform for animal tracking data. ![GitHub stars](https://img.shields.io/github/stars/movebank/movebank-api-doc?style=social)
 - [OpenAQ](https://openaq.org/) - Largest open-source air quality data platform.
 - [Open Charge Map API](https://openchargemap.org) - Public registry of electric vehicle charging locations.
 - [OpenCage](https://opencagedata.com/api) - Forward and reverse geocoding API using open data.
 - [Open-Meteo](https://open-meteo.com/) - Global weather forecast API.
 - [Open Notify](http://open-notify.org/Open-Notify-API/) - ISS location and number of people in space.
 - [Open Postcode Geo API](https://www.getthedata.com/open-postcode-geo-api) - British postcodes with geospatial data.
-- [OpenSky API](https://openskynetwork.github.io/opensky-api/rest.html) - Retrieve live airspace information.
+- [OpenSky API](https://github.com/openskynetwork/opensky-api) - Retrieve live airspace information. ![GitHub stars](https://img.shields.io/github/stars/openskynetwork/opensky-api?style=social)
 - [openrouteservice](https://openrouteservice.org/dev/#/api-docs) - Directions, isochrones, and geocoding services.
 - [OpenStreetMap](https://wiki.openstreetmap.org/wiki/Overpass_API) - Retrieve OpenStreetMap data via Overpass API.
 - [opentopodata API](https://www.opentopodata.org/) - Open Topography Data API.
@@ -188,14 +188,14 @@ Restful APIs for consuming geospatial data on the fly:
 - [Sunrise and sunset](https://sunrise-sunset.org) - Provides sunset and sunrise times for locations.
 - [TomTom](https://developer.tomtom.com/api-explorer-index/documentation/product-information/introduction) - Geocoding, routing, traffic, and more.
 - [USGS earthquake data](https://earthquake.usgs.gov/fdsnws/event/1/) - Search earthquake data by various parameters.
-- [ZipCheckup API](https://github.com/artakulov/us-water-quality-data) - Free REST API for US ZIP-level environmental safety data: water quality, air quality, PFAS, radon, lead, flood risk.
+- [ZipCheckup API](https://github.com/artakulov/us-water-quality-data) - Free REST API for US ZIP-level environmental safety data: water quality, air quality, PFAS, radon, lead, flood risk. ![GitHub stars](https://img.shields.io/github/stars/artakulov/us-water-quality-data?style=social)
 - [what3words](https://developer.what3words.com/public-api) - Converts 3-word addresses to coordinates.
 
 ### Collections 
 Compilations and repositories of open geospatial datasets:
-- [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - An awesome repository full of open datasets from an abundance of different categories.
+- [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - An awesome repository full of open datasets from an abundance of different categories.  ![GitHub stars](https://img.shields.io/github/stars/awesomedata/awesome-public-datasets?style=social)
 - [Free GIS data](https://freegisdata.rtwilson.com/) - Links to over 500 sites providing freely available geographic datasets.
-- [Public APIs](https://github.com/public-apis-dev/public-apis) - A collective list of free APIs for use in software and web development.
+- [Public APIs](https://github.com/public-apis-dev/public-apis) - A collective list of free APIs for use in software and web development. ![GitHub stars](https://img.shields.io/github/stars/public-apis-dev/public-apis?style=social)
 - [WRI](https://datasets.wri.org/) - World Resources Institute.
 - [David Rumsey map collection](https://www.davidrumsey.com/) - Historical map archives.
 
@@ -239,7 +239,7 @@ A compilation of interesting web maps:
 - [Radio Garden](https://radio.garden/) - 3D Globe Radio Tuner.
 - [Map of every building in the United States](https://www.nytimes.com/interactive/2018/10/12/us/map-of-every-building-in-the-united-states.html) - New York Times.
 - [Map of the Roman transport network](https://orbis.stanford.edu/) - The Stanford Geospatial Network Model of the Roman World.
-- [WebGL Wind](https://github.com/mapbox/webgl-wind) - A WebGL-powered visualization of wind power. Capable of rendering up to 1 million wind particles at 60fps.
+- [WebGL Wind](https://github.com/mapbox/webgl-wind) - A WebGL-powered visualization of wind power. Capable of rendering up to 1 million wind particles at 60fps. ![GitHub stars](https://img.shields.io/github/stars/mapbox/webgl-wind?style=social)
 - [Statistical Atlas](https://ec.europa.eu/statistical-atlas/viewer) - A leaflet-powered atlas showcasing Eurostat's statistics.
 - [ShadeMap](https://shademap.app/) - Every mountain, building and tree shadow in the world simulated for any date and time.
 - [ClimateArchive](https://climatearchive.org/) - An interactive visualisation of climate model data across time and space.
@@ -249,43 +249,43 @@ A compilation of interesting web maps:
 ## 🌐 Web apps 
 Plug-and-play geospatial web apps:
 
-- [city roads](https://anvaka.github.io/city-roads/) - Render every single road in any city at once.
+- [city roads](https://anvaka.github.io/city-roads/) - Render every single road in any city at once. ![GitHub stars](https://img.shields.io/github/stars/anvaka/city-roads?style=social)
 - [Datawrapper](https://github.com/datawrapper/datawrapper) - Create charts, maps, and tables.
-- [Fantasy Map Generator](https://github.com/Azgaar/Fantasy-Map-Generator) - Free web application for creating and editing fantasy maps.
+- [Fantasy Map Generator](https://github.com/Azgaar/Fantasy-Map-Generator) - Free web application for creating and editing fantasy maps. ![GitHub stars](https://img.shields.io/github/stars/Azgaar/Fantasy-Map-Generator?style=social)
 - [geotiff.io](http://app.geotiff.io/) - Provides quick access to easy-to-use raster processing.
 - [IMAGE](https://gisco-services.ec.europa.eu/image/) - Tool for generating thematic maps.
 - [Kepler](https://kepler.gl/demo) - A powerful open-source geospatial analysis tool for large-scale datasets.
 - [magrit](https://magrit.cnrs.fr/) - An online application for thematic mapping.
 - [mapshaper](https://mapshaper.org/) - Online editor for map data.
 - [MapOnShirt](https://maponshirt.com) - Create colorful designs from maps and turn them into products.
-- [Maputnik](https://github.com/maputnik/editor) - Free and open visual editor for Mapbox GL styles.
-- [mapus](https://github.com/alyssaxuu/mapus) - Tool for collaboratively exploring and annotating maps.
-- [Peak Map](https://github.com/anvaka/peak-map) - Visualizes elevation of any area on the map with filled area charts.
-- [Plasio](https://github.com/verma/plasio) - Drag-n-drop in-browser LAS/LAZ point cloud viewer.
+- [Maputnik](https://github.com/maputnik/editor) - Free and open visual editor for Mapbox GL styles. ![GitHub stars](https://img.shields.io/github/stars/maputnik/editor?style=social)
+- [mapus](https://github.com/alyssaxuu/mapus) - Tool for collaboratively exploring and annotating maps. ![GitHub stars](https://img.shields.io/github/stars/alyssaxuu/mapus?style=social)
+- [Peak Map](https://github.com/anvaka/peak-map) - Visualizes elevation of any area on the map with filled area charts. ![GitHub stars](https://img.shields.io/github/stars/anvaka/peak-map?style=social)
+- [Plasio](https://github.com/verma/plasio) - Drag-n-drop in-browser LAS/LAZ point cloud viewer. ![GitHub stars](https://img.shields.io/github/stars/verma/plasio?style=social)
 - [StoryMap JS](https://storymap.knightlab.com/) - Open-source alternative to ESRI's Story Map application.
 - [TopoExport](https://topoexport.com) - Export 2D contour lines and 3D topography using open-source datasets.
-- [uMap](https://github.com/umap-project/umap) - Create maps with OpenStreetMap layers and embed them in your site.
+- [uMap](https://github.com/umap-project/umap) - Create maps with OpenStreetMap layers and embed them in your site. ![GitHub stars](https://img.shields.io/github/stars/umap-project/umap?style=social)
 - [bboxFinder](http://bboxfinder.com/) - Helper page for finding bbox values from a map.
 - [geojson.io](https://geojson.io/) - A quick, simple tool for creating, viewing, and sharing spatial data.
 - [GeoJSONLint](https://geojsonlint.com/) - Use this site to validate and view your GeoJSON.
-- [Pharos AI](https://conflicts.app) - Open-source real-time intelligence dashboard for geopolitical conflict tracking with interactive DeckGL/MapLibre geospatial visualization. ([Source Code](https://github.com/Juliusolsson05/pharos-ai))
-- [Pumperly](https://github.com/GeiserX/pumperly) - Open-source fuel price comparison and EV charging route planner using MapLibre GL JS, PostGIS, Valhalla routing, and Photon geocoding.
+- [Pharos AI](https://conflicts.app) - Open-source real-time intelligence dashboard for geopolitical conflict tracking with interactive DeckGL/MapLibre geospatial visualization. ([Source Code](https://github.com/Juliusolsson05/pharos-ai)) ![GitHub stars](https://img.shields.io/github/stars/Juliusolsson05/pharos-ai?style=social)
+- [Pumperly](https://github.com/GeiserX/pumperly) - Open-source fuel price comparison and EV charging route planner using MapLibre GL JS, PostGIS, Valhalla routing, and Photon geocoding. ![GitHub stars](https://img.shields.io/github/stars/GeiserX/pumperly?style=social)
 
 
 ## 🎨 Colour advice 
 Colour usage is very important in data visualisation and cartography. Here are some tools to help you choose the best colours for your maps:
 
-- [CartoColor](https://github.com/CartoDB/CartoColor) - A set of custom color palettes built on top of standards for color use on maps.
-- [Chroma.js Color Palette Helper](https://gka.github.io/palettes/#/9) - Chroma.js-powered tool for mastering multi-hued, multi-stop color scales.
+- [CartoColor](https://github.com/CartoDB/CartoColor) - A set of custom color palettes built on top of standards for color use on maps. ![GitHub stars](https://img.shields.io/github/stars/CartoDB/CartoColor?style=social)
+- [Chroma.js Color Palette Helper](https://gka.github.io/palettes/#/9) - Chroma.js-powered tool for mastering multi-hued, multi-stop color scales. ![GitHub stars](https://img.shields.io/github/stars/gka/palettes?style=social)
 - [ColorBrewer](https://colorbrewer2.org/) - Colour advice for maps, based on Dr. Cynthia Brewer's research.
-- [Dicopal.js](https://github.com/riatelab/dicopal.js) - Discrete color palettes for JavaScript.
-- [Textures.js](https://github.com/riccardoscalco/textures) - JavaScript library for creating SVG patterns, designed for data visualization.
+- [Dicopal.js](https://github.com/riatelab/dicopal.js) - Discrete color palettes for JavaScript. ![GitHub stars](https://img.shields.io/github/stars/riatelab/dicopal.js?style=social)
+- [Textures.js](https://github.com/riccardoscalco/textures) - JavaScript library for creating SVG patterns, designed for data visualization. ![GitHub stars](https://img.shields.io/github/stars/riccardoscalco/textures?style=social)
 - [viz-palette](https://www.susielu.com/data-viz/viz-palette) - Tool optimized for tweaking, copying, and pasting colors in and out of JavaScript.
 
 
 ## 📍 Icons
 Icons to add to your GIS websites:
-- [font-GIS](https://github.com/Viglino/font-gis) - A very very cool icon font set for use with GIS and spatial analysis tools.
+- [font-GIS](https://github.com/Viglino/font-gis) - A very very cool icon font set for use with GIS and spatial analysis tools. ![GitHub stars](https://img.shields.io/github/stars/Viglino/font-gis?style=social)
 - [Map Icons Collection](https://mapicons.mapsmarker.com/) - A set of more than 1000 free and customizable icons to use as placemarks for your POI (Point of Interests) locations on your maps.
 - [Material Symbols](https://fonts.google.com/icons?icon.query=map) - Over 2,990 glyphs in a single font file with a wide range of design variants.
 - [Geoapify map marker playground](https://apidocs.geoapify.com/playground/icon/) - The Marker Icon API lets you create beautiful icons and use them as Map Markers.
@@ -301,10 +301,10 @@ Videos of web mapping presentations and tutorials:
 
 ## 📚 Further reading
 - [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) - Claus O. Wilke.
-- [A Workbook for Interactive Cartography and Visualization on the Open Web](https://github.com/uwcartlab/webmapping) - Robert Roth, Carl Sack, Gareth Baldrica-Franklin, Yuying Chen, Rich Donohue, Lily Houtman, Tim Prestby, Robin Tolochko, Nick Underwood.
+- [A Workbook for Interactive Cartography and Visualization on the Open Web](https://github.com/uwcartlab/webmapping) - Robert Roth, Carl Sack, Gareth Baldrica-Franklin, Yuying Chen, Rich Donohue, Lily Houtman, Tim Prestby, Robin Tolochko, Nick Underwood. ![GitHub stars](https://img.shields.io/github/stars/uwcartlab/webmapping?style=social)
 - [Thematic Mapping: 101 Inspiring Ways to Visualise Empirical Data](https://www.esri.com/en-us/esri-press/browse/thematic-mapping) - Kenneth Field.
 - [Color use guidelines for mapping and visualization](https://colorbrewer2.org/learnmore/schemes_full.html#qualitative) - Cynthia A. Brewer.
-- [Geospatial Network Visualization](https://geonetworks.github.io/) - A collection of visualization techniques for geospatial network data.
+- [Geospatial Network Visualization](https://geonetworks.github.io/) - A collection of visualization techniques for geospatial network data. 
 
 
 ## Contributing
