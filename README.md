@@ -255,6 +255,7 @@ Plug-and-play geospatial web apps:
 - [geotiff.io](http://app.geotiff.io/) - Provides quick access to easy-to-use raster processing.
 - [IMAGE](https://gisco-services.ec.europa.eu/image/) - Tool for generating thematic maps.
 - [Kepler](https://kepler.gl/demo) - A powerful open-source geospatial analysis tool for large-scale datasets.
+- [LYRASENSE](https://lyrasense.com) - Web-based platform for satellite data analysis with interactive maps, dashboards, and an agentic notebook environment.
 - [magrit](https://magrit.cnrs.fr/) - An online application for thematic mapping.
 - [mapshaper](https://mapshaper.org/) - Online editor for map data.
 - [MapOnShirt](https://maponshirt.com) - Create colorful designs from maps and turn them into products.
