@@ -190,6 +190,7 @@ Restful APIs for consuming geospatial data on the fly:
 - [USGS earthquake data](https://earthquake.usgs.gov/fdsnws/event/1/) - Search earthquake data by various parameters.
 - [ZipCheckup API](https://github.com/artakulov/us-water-quality-data) - Free REST API for US ZIP-level environmental safety data: water quality, air quality, PFAS, radon, lead, flood risk. ![GitHub stars](https://img.shields.io/github/stars/artakulov/us-water-quality-data?style=social)
 - [what3words](https://developer.what3words.com/public-api) - Converts 3-word addresses to coordinates.
+- [PostalCodes](https://postalcodes.info/api) - Global postal code search, country exports, and address validation data.
 
 ### Collections 
 Compilations and repositories of open geospatial datasets:
