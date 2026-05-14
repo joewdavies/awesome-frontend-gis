@@ -188,6 +188,7 @@ Restful APIs for consuming geospatial data on the fly:
 - [Sunrise and sunset](https://sunrise-sunset.org) - Provides sunset and sunrise times for locations.
 - [TomTom](https://developer.tomtom.com/api-explorer-index/documentation/product-information/introduction) - Geocoding, routing, traffic, and more.
 - [USGS earthquake data](https://earthquake.usgs.gov/fdsnws/event/1/) - Search earthquake data by various parameters.
+- [Zip-Codes](https://www.zip-codes.com/api/) - US and Canadian postal code data with address validation, radius search, demographics, and boundaries.
 - [ZipCheckup API](https://github.com/artakulov/us-water-quality-data) - Free REST API for US ZIP-level environmental safety data: water quality, air quality, PFAS, radon, lead, flood risk. ![GitHub stars](https://img.shields.io/github/stars/artakulov/us-water-quality-data?style=social)
 - [what3words](https://developer.what3words.com/public-api) - Converts 3-word addresses to coordinates.
 
