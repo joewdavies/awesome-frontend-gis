@@ -161,7 +161,7 @@ Data available for download:
 Restful APIs for consuming geospatial data on the fly:
 
 - [Address API](https://gisco-services.ec.europa.eu/addressapi/docs/) - Pan-European address data with geocoding and reverse-geocoding.
-- [API Geo](https://api.gouv.fr/les-api/api-geo) - Official French geographical data API.
+- [API Geo](https://geo.api.gouv.fr/) - Official French geographical data API.
 - [ArcGIS location services](https://developers.arcgis.com/rest/location-based-services/) - Basemaps, Geocoding, Places, routing, and GeoEnrichment.
 - [bng2latlong](https://www.getthedata.com/bng2latlong) - Converts British National Grid to latitude and longitude.
 - [breezometer](https://docs.breezometer.com/api-documentation/introduction/) - Air Quality, Weather, Pollen, and Environmental data.
