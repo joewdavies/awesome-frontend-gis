@@ -271,6 +271,7 @@ Plug-and-play geospatial web apps:
 - [GeoJSONLint](https://geojsonlint.com/) - Use this site to validate and view your GeoJSON.
 - [Pharos AI](https://conflicts.app) - Open-source real-time intelligence dashboard for geopolitical conflict tracking with interactive DeckGL/MapLibre geospatial visualization. ([Source Code](https://github.com/Juliusolsson05/pharos-ai)) ![GitHub stars](https://img.shields.io/github/stars/Juliusolsson05/pharos-ai?style=social)
 - [Pumperly](https://github.com/GeiserX/pumperly) - Open-source fuel price comparison and EV charging route planner using MapLibre GL JS, PostGIS, Valhalla routing, and Photon geocoding. ![GitHub stars](https://img.shields.io/github/stars/GeiserX/pumperly?style=social)
+- [Leaves.PH](https://leaves.ph) - Interactive map of Metro Manila's tree canopy from Sentinel-2 satellite imagery, with annual per-LGU and per-barangay values from 2019 to 2026. ([Source Code](https://github.com/xmpuspus/leaves-ph))
 
 
 ## 🎨 Colour advice 
