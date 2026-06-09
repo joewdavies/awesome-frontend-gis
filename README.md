@@ -143,7 +143,6 @@ Data available for download:
 - [Healthcare Services in Europe](https://ec.europa.eu/eurostat/web/gisco/geodata/basic-services#Healthcare) - Locations of healthcare services in Europe.
 - [HydroSHEDS](https://www.hydrosheds.org/) - Consistent hydrographic data for global applications.
 - [NASA Earth Data](https://search.earthdata.nasa.gov/search) - Search, discover, visualize, refine, and access NASA Earth Observation data in your browser with Earthdata Search.
-- [NASA Earth Observations](https://neo.gsfc.nasa.gov/) - Browse and download satellite data imagery.
 - [Natural Earth](https://www.naturalearthdata.com/) - Free vector and raster map data.
 - [OpenAerialMap](https://openaerialmap.org/) - Open service for accessing licensed imagery.
 - [OpenMapTiles](https://openmaptiles.org/) - Free OpenStreetMap Vector Tiles.
