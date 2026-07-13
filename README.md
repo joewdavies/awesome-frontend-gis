@@ -38,6 +38,7 @@
 - [📍 Icons](#-icons)
 - [📺 Videos](#-videos)
 - [📚 Further reading](#-further-reading)
+- [🤝 Contributing](#-contributing)
 
 ## 👨‍💻 JavaScript Libraries 
 
@@ -311,10 +312,7 @@ Videos of web mapping presentations and tutorials:
 
 ## Contributing
 
-Contributions of any kind are welcome, just follow the [guidelines](./CONTRIBUTING.md) by either:
-
-- Filling a [suggestion issue](https://github.com/joewdavies/awesome-frontend-gis/issues/new/) (easier).
-- Opening a [pull request](https://github.com/joewdavies/awesome-frontend-gis/compare).
+Contributions are welcome, just follow the [guidelines](./CONTRIBUTING.md).
 
 ---
 
