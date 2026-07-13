@@ -273,6 +273,7 @@ Plug-and-play geospatial web apps:
 - [GeoJSONLint](https://geojsonlint.com/) - Use this site to validate and view your GeoJSON.
 - [Pharos AI](https://conflicts.app) - Open-source real-time intelligence dashboard for geopolitical conflict tracking with interactive DeckGL/MapLibre geospatial visualization. ([Source Code](https://github.com/Juliusolsson05/pharos-ai)) ![GitHub stars](https://img.shields.io/github/stars/Juliusolsson05/pharos-ai?style=social)
 - [Pumperly](https://github.com/GeiserX/pumperly) - Open-source fuel price comparison and EV charging route planner using MapLibre GL JS, PostGIS, Valhalla routing, and Photon geocoding. ![GitHub stars](https://img.shields.io/github/stars/GeiserX/pumperly?style=social)
+- [gpx studio](https://github.com/gpxstudio/gpxstudio.github.io) - Online tool for GPX editing.
 
 
 ## 🎨 Colour advice 
@@ -310,7 +311,7 @@ Videos of web mapping presentations and tutorials:
 - [Geospatial Network Visualization](https://geonetworks.github.io/) - A collection of visualization techniques for geospatial network data. 
 
 
-## Contributing
+## 🤝 Contributing
 
 Contributions are welcome, just follow the [guidelines](./CONTRIBUTING.md).
 
