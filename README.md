@@ -245,6 +245,7 @@ A compilation of interesting web maps:
 - [ClimateArchive](https://climatearchive.org/) - An interactive visualisation of climate model data across time and space.
 - [Old Maps Online](https://www.oldmapsonline.org/) - Browse historical places and search for old maps with timeline.
 - [chronotrains](https://www.chronotrains.com) - Where can you go by train in 8h?
+- [Castlemap](https://thecastlemap.com/) - The world's 2,400 great castles on one night map, built from Wikidata.
 
 ## 🌐 Web apps 
 Plug-and-play geospatial web apps:
