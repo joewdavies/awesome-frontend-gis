@@ -257,6 +257,7 @@ Plug-and-play geospatial web apps:
 - [Datawrapper](https://github.com/datawrapper/datawrapper) - Create charts, maps, and tables.
 - [Fantasy Map Generator](https://github.com/Azgaar/Fantasy-Map-Generator) - Free web application for creating and editing fantasy maps. ![GitHub stars](https://img.shields.io/github/stars/Azgaar/Fantasy-Map-Generator?style=social)
 - [GeoLibre](https://github.com/opengeos/GeoLibre) - A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data across desktop and web environments, with a responsive layout for mobile screens. ![GitHub stars](https://img.shields.io/github/stars/opengeos/GeoLibre?style=social)
+- [GeoImageTagger](https://geoimagetagger.com/) - Browser-based tool for geotagging photos with GPS coordinates and editing image EXIF metadata using an interactive map.
 - [geotiff.io](http://app.geotiff.io/) - Provides quick access to easy-to-use raster processing.
 - [IMAGE](https://gisco-services.ec.europa.eu/image/) - Tool for generating thematic maps.
 - [Kepler](https://kepler.gl/demo) - A powerful open-source geospatial analysis tool for large-scale datasets.
