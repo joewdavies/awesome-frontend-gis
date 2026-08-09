@@ -249,6 +249,7 @@ A compilation of interesting web maps:
 - [Castlemap](https://thecastlemap.com/) - The world's 2,400 great castles on one night map, built from Wikidata.
 - [Europe Beach Map](https://europebeachmap.com/) - Every notable European beach on one map, with sea temperature, sand and best season for each.
 - [Detourmap](https://detourmap.com/) - 70,343 places worth a detour — ruins, caves, waterfalls, castles and ghost towns — on one world map, built from Wikidata.
+- [Planetary Atlas](https://planetatlas.org) - Zoomable maps of 14 worlds built from open NASA, USGS, ESA and JAXA imagery, with the IAU nomenclature and 69 surface mission landing sites.
 
 ## 🌐 Web apps 
 Plug-and-play geospatial web apps:
