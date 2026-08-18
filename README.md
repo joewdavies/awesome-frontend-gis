@@ -251,6 +251,7 @@ A compilation of interesting web maps:
 - [Detourmap](https://detourmap.com/) - Waterfalls, caves, volcanoes and lonely coasts, plus the ruins, tombs, ghost towns and shipwrecks people left behind, on one world map, built from Wikidata.
 - [Planetary Atlas](https://planetatlas.org) - Zoomable maps of 14 worlds built from open NASA, USGS, ESA and JAXA imagery, with the IAU nomenclature and 69 surface mission landing sites.
 - [FilmMap](https://thefilmmap.com/) - Where films and television were actually shot: 15,272 filming locations across 161 countries, each one traced to a Wikidata statement.
+- [Forest Fires Map](https://forest-fires-map.vercel.app/) - Interactive web map of forest fires.
 
 ## 🌐 Web apps 
 Plug-and-play geospatial web apps:
