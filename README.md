@@ -250,6 +250,7 @@ A compilation of interesting web maps:
 - [Europe Beach Map](https://europebeachmap.com/) - Every notable European beach on one map, with sea temperature, sand and best season for each.
 - [Detourmap](https://detourmap.com/) - Waterfalls, caves, volcanoes and lonely coasts, plus the ruins, tombs, ghost towns and shipwrecks people left behind, on one world map, built from Wikidata.
 - [Planetary Atlas](https://planetatlas.org) - Zoomable maps of 14 worlds built from open NASA, USGS, ESA and JAXA imagery, with the IAU nomenclature and 69 surface mission landing sites.
+- [FilmMap](https://thefilmmap.com/) - Where films and television were actually shot: 15,272 filming locations across 161 countries, each one traced to a Wikidata statement.
 
 ## 🌐 Web apps 
 Plug-and-play geospatial web apps:
