@@ -174,6 +174,7 @@ Restful APIs for consuming geospatial data on the fly:
 - [movebank-api](https://github.com/movebank/movebank-api-doc) - Platform for animal tracking data. ![GitHub stars](https://img.shields.io/github/stars/movebank/movebank-api-doc?style=social)
 - [OpenAQ](https://openaq.org/) - Largest open-source air quality data platform.
 - [Open Charge Map API](https://openchargemap.org) - Public registry of electric vehicle charging locations.
+- [emem](https://emem.dev) - MCP/HTTP API for querying signed geospatial facts about places. ![GitHub stars](https://img.shields.io/github/stars/Vortx-AI/emem?style=social)
 - [OpenCage](https://opencagedata.com/api) - Forward and reverse geocoding API using open data.
 - [Open-Meteo](https://open-meteo.com/) - Global weather forecast API.
 - [Open Notify](http://open-notify.org/Open-Notify-API/) - ISS location and number of people in space.
