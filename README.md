@@ -271,6 +271,7 @@ Plug-and-play geospatial web apps:
 - [mapus](https://github.com/alyssaxuu/mapus) - Tool for collaboratively exploring and annotating maps. ![GitHub stars](https://img.shields.io/github/stars/alyssaxuu/mapus?style=social)
 - [Peak Map](https://github.com/anvaka/peak-map) - Visualizes elevation of any area on the map with filled area charts. ![GitHub stars](https://img.shields.io/github/stars/anvaka/peak-map?style=social)
 - [Plasio](https://github.com/verma/plasio) - Drag-n-drop in-browser LAS/LAZ point cloud viewer. ![GitHub stars](https://img.shields.io/github/stars/verma/plasio?style=social)
+- [Shapefile Viewer & GeoJSON Converter](https://9revolution9.com/tools/geo/shp-geojson) - Open a zipped shapefile on a map and convert it to RFC 7946 GeoJSON without uploading anything.
 - [StoryMap JS](https://storymap.knightlab.com/) - Open-source alternative to ESRI's Story Map application.
 - [TopoExport](https://topoexport.com) - Export 2D contour lines and 3D topography using open-source datasets.
 - [uMap](https://github.com/umap-project/umap) - Create maps with OpenStreetMap layers and embed them in your site. ![GitHub stars](https://img.shields.io/github/stars/umap-project/umap?style=social)
