@@ -250,6 +250,7 @@ A compilation of interesting web maps:
 - [China Culture Literati Journeys](https://history.walkingchina.com/) - Interactive historical GIS and spatio-temporal storytelling map tracing the lifetime journeys and exile routes of classical Chinese thinkers.
 - [Europe Beach Map](https://europebeachmap.com/) - Every notable European beach on one map, with sea temperature, sand and best season for each.
 - [Detourmap](https://detourmap.com/) - Waterfalls, caves, volcanoes and lonely coasts, plus the ruins, tombs, ghost towns and shipwrecks people left behind, on one world map, built from Wikidata.
+- [Discover Alone](https://discoveralone.com/) - Browse historic and overlooked places in Ireland and Britain on a map, with a page for each place.
 - [Planetary Atlas](https://planetatlas.org) - Zoomable maps of 14 worlds built from open NASA, USGS, ESA and JAXA imagery, with the IAU nomenclature and 69 surface mission landing sites.
 - [FilmMap](https://thefilmmap.com/) - Where films and television were actually shot: 15,272 filming locations across 161 countries, each one traced to a Wikidata statement.
 - [Forest Fires Map](https://forest-fires-map.vercel.app/) - Interactive web map of forest fires.
