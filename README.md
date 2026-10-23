@@ -108,6 +108,7 @@ Libraries that help you analyse and process geospatial data:
 ### LiDAR
 Tools for visualizing point clouds with web browsers:
 
+- [LidarKit](https://lidar-kit.com/) - In-browser LAS/LAZ/COPC/E57 viewer and converter; files are decoded locally with WebAssembly.
 - [Plasio](https://github.com/verma/plasio) - Drag-n-drop In-browser LAS/LAZ point cloud viewer. ![GitHub stars](https://img.shields.io/github/stars/verma/plasio?style=social)
 - [Potree](https://github.com/potree/potree) - WebGL point cloud viewer for large datasets. ![GitHub stars](https://img.shields.io/github/stars/potree/potree?style=social)
 - [Potree & Cesium.js](https://potree.org/potree/examples/cesium_retz.html) - Rezt, Austria LIDAR viewer.
