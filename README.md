@@ -254,6 +254,7 @@ A compilation of interesting web maps:
 - [FilmMap](https://thefilmmap.com/) - Where films and television were actually shot: 15,272 filming locations across 161 countries, each one traced to a Wikidata statement.
 - [Forest Fires Map](https://forest-fires-map.vercel.app/) - Interactive web map of forest fires.
 - [VivaMap](https://vivamap.ch/) - Where to live in Switzerland: all 2,134 communes plus an H3 hex grid down to 0.1 km², scored across nine dimensions (noise, air, sunlight, transit, schools, healthcare, restaurants, nature, taxes) from open government data and OpenStreetMap. Built with MapLibre GL, deck.gl and PMTiles, trilingual FR/DE/EN.
+- [Pedalah](https://pedalah.com/) - Cycling route planner for Singapore built with Leaflet and MapLibre on OpenStreetMap and government open data, with loop, hill-climb and traffic-light-avoiding routes.
 
 ## 🌐 Web apps 
 Plug-and-play geospatial web apps:
