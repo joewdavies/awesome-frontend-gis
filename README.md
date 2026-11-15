@@ -282,6 +282,7 @@ Plug-and-play geospatial web apps:
 - [Pharos AI](https://conflicts.app) - Open-source real-time intelligence dashboard for geopolitical conflict tracking with interactive DeckGL/MapLibre geospatial visualization. ([Source Code](https://github.com/Juliusolsson05/pharos-ai)) ![GitHub stars](https://img.shields.io/github/stars/Juliusolsson05/pharos-ai?style=social)
 - [Pumperly](https://github.com/GeiserX/pumperly) - Open-source fuel price comparison and EV charging route planner using MapLibre GL JS, PostGIS, Valhalla routing, and Photon geocoding. ![GitHub stars](https://img.shields.io/github/stars/GeiserX/pumperly?style=social)
 - [gpx studio](https://github.com/gpxstudio/gpxstudio.github.io) - Online tool for GPX editing.
+- [No Stairs Please](https://nostairsplease.com) - Interactive map and driving-corridor route planner for 10,000+ live music venues across North America.
 
 
 ## 🎨 Colour advice 
