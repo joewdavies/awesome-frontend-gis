@@ -64,7 +64,6 @@ Libraries for creating web maps:
 - [Leaflet-Geoman](https://github.com/geoman-io/leaflet-geoman) - Drawing, editing and snapping plugin for Leaflet. ![GitHub stars](https://img.shields.io/github/stars/geoman-io/leaflet-geoman?style=social)
 - [Leaflet.markercluster](https://github.com/Leaflet/Leaflet.markercluster) - Marker clustering plugin for Leaflet. ![GitHub stars](https://img.shields.io/github/stars/Leaflet/Leaflet.markercluster?style=social)
 - [Mapbox GL JS](https://github.com/mapbox/mapbox-gl-js) - JavaScript library that uses WebGL to render interactive maps from vector tiles. ![GitHub stars](https://img.shields.io/github/stars/mapbox/mapbox-gl-js?style=social)
-- [Map Forecast API](https://github.com/windycom/API) - Simple-to-use library based on Leaflet 1.4.x. It allows you to show wind maps. ![GitHub stars](https://img.shields.io/github/stars/windycom/API?style=social)
 - [maplibre](https://github.com/maplibre/maplibre-gl-js) - It originated as an open-source fork of mapbox-gl-js, before their switch to a non-OSS license in December 2020. ![GitHub stars](https://img.shields.io/github/stars/maplibre/maplibre-gl-js?style=social)
 - [MapTalks.js](https://github.com/maptalks/maptalks.js) - An open-source JavaScript library for integrated 2D/3D maps. ![GitHub stars](https://img.shields.io/github/stars/maptalks/maptalks.js?style=social)
 - [OpenLayers](https://github.com/openlayers/openlayers) - A high-performance, feature-packed library for creating interactive maps on the web. ![GitHub stars](https://img.shields.io/github/stars/openlayers/openlayers?style=social)
@@ -73,7 +72,6 @@ Libraries for creating web maps:
 - [Tangram](https://github.com/tangrams/tangram) - WebGL map rendering engine for creative cartography. ![GitHub stars](https://img.shields.io/github/stars/tangrams/tangram?style=social)
 - [Terra Draw](https://github.com/JamesLMilner/terra-draw) - Library-agnostic drawing and editing for MapLibre, OpenLayers, Leaflet and more. ![GitHub stars](https://img.shields.io/github/stars/JamesLMilner/terra-draw?style=social)
 - [TerriaJS](https://github.com/TerriaJS/terriajs) - A library for building rich, web-based geospatial data explorers. ![GitHub stars](https://img.shields.io/github/stars/TerriaJS/terriajs?style=social)
-- [Wrld.js](https://github.com/wrld3d/wrld.js/) - Animated 3D city maps based on Leaflet. ![GitHub stars](https://img.shields.io/github/stars/wrld3d/wrld.js?style=social)
 
 
 ### Data Processing 
@@ -289,7 +287,6 @@ Plug-and-play geospatial web apps:
 - [magrit](https://magrit.cnrs.fr/) - An online application for thematic mapping.
 - [MapOnShirt](https://maponshirt.com) - Create colorful designs from maps and turn them into products.
 - [mapshaper](https://mapshaper.org/) - Online editor for map data.
-- [mapus](https://github.com/alyssaxuu/mapus) - Tool for collaboratively exploring and annotating maps. ![GitHub stars](https://img.shields.io/github/stars/alyssaxuu/mapus?style=social)
 - [Maputnik](https://github.com/maputnik/editor) - Free and open visual editor for Mapbox GL styles. ![GitHub stars](https://img.shields.io/github/stars/maputnik/editor?style=social)
 - [Peak Map](https://github.com/anvaka/peak-map) - Visualizes elevation of any area on the map with filled area charts. ![GitHub stars](https://img.shields.io/github/stars/anvaka/peak-map?style=social)
 - [Pharos AI](https://conflicts.app) - Open-source real-time intelligence dashboard for geopolitical conflict tracking with interactive DeckGL/MapLibre geospatial visualization. ([Source Code](https://github.com/Juliusolsson05/pharos-ai)) ![GitHub stars](https://img.shields.io/github/stars/Juliusolsson05/pharos-ai?style=social)
