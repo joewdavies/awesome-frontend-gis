@@ -235,6 +235,7 @@ Some JavaScript notebooks to help you code:
 ## :world_map: Web maps 
 A compilation of interesting web maps:
 
+- [biblical-atlas](https://biblical-atlas.geiser.cloud/) - A map and a timeline of the Bible that move with a single date, from Adam to John on Patmos, with every fact linked to its source. Open-source static site built with MapLibre GL, in Spanish.
 - [Castlemap](https://thecastlemap.com/) - The world's 7,044 great castles, fortresses and palaces on one night map, built from Wikidata.
 - [China Culture Literati Journeys](https://history.walkingchina.com/) - Interactive historical GIS and spatio-temporal storytelling map tracing the lifetime journeys and exile routes of classical Chinese thinkers.
 - [chronotrains](https://www.chronotrains.com) - Where can you go by train in 8h?
