@@ -271,6 +271,7 @@ A compilation of interesting web maps:
 - [ShadeMap](https://shademap.app/) - Every mountain, building and tree shadow in the world simulated for any date and time.
 - [Statistical Atlas](https://ec.europa.eu/statistical-atlas/viewer) - A leaflet-powered atlas showcasing Eurostat's statistics.
 - [Submarine cable map](https://www.submarinecablemap.com/) - TeleGeography.
+- [The Shapes of Rivers](https://dominicroye.github.io/shapes-of-rivers/) - 1,294 rivers over 200 km normalised to the same source and length and rotated north, with filtering by region, by Dominic Roy?.
 - [VivaMap](https://vivamap.ch/) - Where to live in Switzerland: all 2,134 communes plus an H3 hex grid down to 0.1 km², scored across nine dimensions (noise, air, sunlight, transit, schools, healthcare, restaurants, nature, taxes) from open government data and OpenStreetMap. Built with MapLibre GL, deck.gl and PMTiles, trilingual FR/DE/EN.
 - [WebGL Wind](https://github.com/mapbox/webgl-wind) - A WebGL-powered visualization of wind power. Capable of rendering up to 1 million wind particles at 60fps. ![GitHub stars](https://img.shields.io/github/stars/mapbox/webgl-wind?style=social)
 
