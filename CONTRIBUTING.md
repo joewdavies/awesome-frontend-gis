@@ -2,7 +2,7 @@
 
 ## Pull Requests
 
-ALWAYS create a new branch with your proposed changes.  
+ALWAYS create a new branch with your proposed changes. Your PR must contain a link to the project.  
 
 ## Adding an new Item
 
