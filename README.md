@@ -48,7 +48,6 @@ Libraries for creating web maps:
 - [antvis L7](https://github.com/antvis/L7) - Large-scale WebGL-powered Geospatial Data Visualization. ![GitHub stars](https://img.shields.io/github/stars/antvis/L7?style=social)
 - [ArcGIS Maps SDK for JavaScript](https://developers.arcgis.com/javascript/latest/) - Modern JavaScript API and web component library for building interactive 2D and 3D web apps for the browser.
 - [ArcGIS REST JS](https://github.com/Esri/arcgis-rest-js) - Compact, modular JavaScript wrappers for the ArcGIS REST API that run in Node.js and modern browsers. ![GitHub stars](https://img.shields.io/github/stars/Esri/arcgis-rest-js?style=social)
-- [Bertin.js](https://github.com/neocarto/bertin) - A JavaScript library for visualizing geospatial data and making thematic maps for the web. ![GitHub stars](https://img.shields.io/github/stars/neocarto/bertin?style=social)
 - [Cesium.js](https://github.com/CesiumGS/cesium) - An open-source JavaScript library for world-class 3D mapping of geospatial data. ![GitHub stars](https://img.shields.io/github/stars/CesiumGS/cesium?style=social)
 - [d3-geo](https://github.com/d3/d3-geo) - A library for creating maps based on D3.js. ![GitHub stars](https://img.shields.io/github/stars/d3/d3-geo?style=social)
 - [d3-geo-projection](https://github.com/d3/d3-geo-projection) - Extended geographic projections. ![GitHub stars](https://img.shields.io/github/stars/d3/d3-geo-projection?style=social)
@@ -98,6 +97,7 @@ Libraries that help you analyse and process geospatial data:
 - [geoparquet](https://github.com/opengeospatial/geoparquet) - Encoding geospatial data in Apache Parquet. ![GitHub stars](https://img.shields.io/github/stars/opengeospatial/geoparquet?style=social)
 - [GeoTiff.js](https://github.com/geotiffjs/geotiff.js) - Parse TIFF files for visualization or analysis. ![GitHub stars](https://img.shields.io/github/stars/geotiffjs/geotiff.js?style=social)
 - [geotoolbox](https://github.com/neocarto/geotoolbox) - Provides several GIS operations for use with geojson properties. ![GitHub stars](https://img.shields.io/github/stars/neocarto/geotoolbox?style=social)
+- [geoviz](https://github.com/riatelab/geoviz) - A d3-compatible JavaScript library for designing thematic maps. ![GitHub stars](https://img.shields.io/github/stars/riatelab/geoviz?style=social)
 - [JSTS](https://github.com/bjornharrtell/jsts) - JavaScript Topology Suite. ![GitHub stars](https://img.shields.io/github/stars/bjornharrtell/jsts?style=social)
 - [koop](https://github.com/koopjs/koop) - A JavaScript toolkit for connecting incompatible spatial APIs. ![GitHub stars](https://img.shields.io/github/stars/koopjs/koop?style=social)
 - [loaders.gl](https://github.com/visgl/loaders.gl) - Loaders for geospatial and 3D formats such as MVT, Shapefile, 3D Tiles, LAS/LAZ and COG. ![GitHub stars](https://img.shields.io/github/stars/visgl/loaders.gl?style=social)
