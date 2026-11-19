@@ -286,7 +286,7 @@ Plug-and-play geospatial web apps:
 - [GeoJSONLint](https://geojsonlint.com/) - Use this site to validate and view your GeoJSON.
 - [GeoLibre](https://github.com/opengeos/GeoLibre) - A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data across desktop and web environments, with a responsive layout for mobile screens. ![GitHub stars](https://img.shields.io/github/stars/opengeos/GeoLibre?style=social)
 - [geotiff.io](http://app.geotiff.io/) - Provides quick access to easy-to-use raster processing.
-- [gpx studio](https://github.com/gpxstudio/gpxstudio.github.io) - Online tool for GPX editing.
+- [gpx studio](https://github.com/gpxstudio/gpx.studio) - Online tool for GPX editing.
 - [iD](https://github.com/openstreetmap/iD) - The OpenStreetMap web map editor. ![GitHub stars](https://img.shields.io/github/stars/openstreetmap/iD?style=social)
 - [IMAGE](https://gisco-services.ec.europa.eu/image/) - Tool for generating thematic maps.
 - [Kepler](https://kepler.gl/demo) - A powerful open-source geospatial analysis tool for large-scale datasets.
