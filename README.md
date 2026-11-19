@@ -253,13 +253,19 @@ A compilation of interesting web maps:
 - [chronotrains](https://www.chronotrains.com) - Where can you go by train in 8h?
 - [ClimateArchive](https://climatearchive.org/) - An interactive visualisation of climate model data across time and space.
 - [Detourmap](https://detourmap.com/) - Waterfalls, caves, volcanoes and lonely coasts, plus the ruins, tombs, ghost towns and shipwrecks people left behind, on one world map, built from Wikidata.
+- [earth](https://earth.nullschool.net/) - Animated global map of wind, ocean currents, waves and air chemistry from forecast data.
 - [Europe Beach Map](https://europebeachmap.com/) - Every notable European beach on one map, with sea temperature, sand and best season for each.
 - [FilmMap](https://thefilmmap.com/) - Where films and television were actually shot: 15,272 filming locations across 161 countries, each one traced to a Wikidata statement.
 - [Forest Fires Map](https://forest-fires-map.vercel.app/) - Interactive web map of forest fires.
+- [Global Fishing Watch Map](https://globalfishingwatch.org/map) - Open map of global vessel activity and fishing effort derived from AIS data.
+- [Global Forest Watch](https://www.globalforestwatch.org/map/) - Near-real-time map of global tree cover loss, fires and land-use data.
 - [Map of every building in the United States](https://www.nytimes.com/interactive/2018/10/12/us/map-of-every-building-in-the-united-states.html) - New York Times.
 - [Map of notable people](https://tjukanovt.github.io/notable-people) - Topi Tjukanov.
 - [Map of the Roman transport network](https://orbis.stanford.edu/) - The Stanford Geospatial Network Model of the Roman World.
 - [Old Maps Online](https://www.oldmapsonline.org/) - Browse historical places and search for old maps with timeline.
+- [OpenHistoricalMap](https://www.openhistoricalmap.org/) - Collaborative time-slider map of the world's historical features, built on the OpenStreetMap stack.
+- [OpenRailwayMap](https://openrailwaymap.org/) - Worldwide railway infrastructure from OpenStreetMap, including tracks, signals and speeds.
+- [Our World in Data population explorer](https://ourworldindata.org/explorers/population-and-demography) - Interactive maps and charts of global population and demography.
 - [Planetary Atlas](https://planetatlas.org) - Zoomable maps of 14 worlds built from open NASA, USGS, ESA and JAXA imagery, with the IAU nomenclature and 69 surface mission landing sites.
 - [Radio Garden](https://radio.garden/) - 3D Globe Radio Tuner.
 - [ShadeMap](https://shademap.app/) - Every mountain, building and tree shadow in the world simulated for any date and time.
