@@ -62,13 +62,17 @@ Libraries for creating web maps:
 - [HERE maps API](https://developer.here.com/develop/javascript-api) - Build web applications with feature-rich and customizable HERE maps.
 - [iTowns](https://github.com/iTowns/itowns) - A Three.js-based framework written in JavaScript/WebGL for visualizing 3D geospatial data. ![GitHub stars](https://img.shields.io/github/stars/iTowns/itowns?style=social)
 - [Leaflet](https://github.com/Leaflet/Leaflet) - The leading open-source JavaScript library for mobile-friendly interactive maps. ![GitHub stars](https://img.shields.io/github/stars/Leaflet/Leaflet?style=social)
+- [Leaflet-Geoman](https://github.com/geoman-io/leaflet-geoman) - Drawing, editing and snapping plugin for Leaflet. ![GitHub stars](https://img.shields.io/github/stars/geoman-io/leaflet-geoman?style=social)
+- [Leaflet.markercluster](https://github.com/Leaflet/Leaflet.markercluster) - Marker clustering plugin for Leaflet. ![GitHub stars](https://img.shields.io/github/stars/Leaflet/Leaflet.markercluster?style=social)
 - [Mapbox GL JS](https://github.com/mapbox/mapbox-gl-js) - JavaScript library that uses WebGL to render interactive maps from vector tiles. ![GitHub stars](https://img.shields.io/github/stars/mapbox/mapbox-gl-js?style=social)
 - [Map Forecast API](https://github.com/windycom/API) - Simple-to-use library based on Leaflet 1.4.x. It allows you to show wind maps. ![GitHub stars](https://img.shields.io/github/stars/windycom/API?style=social)
 - [maplibre](https://github.com/maplibre/maplibre-gl-js) - It originated as an open-source fork of mapbox-gl-js, before their switch to a non-OSS license in December 2020. ![GitHub stars](https://img.shields.io/github/stars/maplibre/maplibre-gl-js?style=social)
 - [MapTalks.js](https://github.com/maptalks/maptalks.js) - An open-source JavaScript library for integrated 2D/3D maps. ![GitHub stars](https://img.shields.io/github/stars/maptalks/maptalks.js?style=social)
 - [OpenLayers](https://github.com/openlayers/openlayers) - A high-performance, feature-packed library for creating interactive maps on the web. ![GitHub stars](https://img.shields.io/github/stars/openlayers/openlayers?style=social)
+- [react-map-gl](https://github.com/visgl/react-map-gl) - React wrapper for MapLibre GL JS and Mapbox GL JS. ![GitHub stars](https://img.shields.io/github/stars/visgl/react-map-gl?style=social)
 - [react-simple-maps](https://github.com/zcreativelabs/react-simple-maps) - An SVG mapping component library for React, built on top of d3-geo. ![GitHub stars](https://img.shields.io/github/stars/zcreativelabs/react-simple-maps?style=social)
 - [Tangram](https://github.com/tangrams/tangram) - WebGL map rendering engine for creative cartography. ![GitHub stars](https://img.shields.io/github/stars/tangrams/tangram?style=social)
+- [Terra Draw](https://github.com/JamesLMilner/terra-draw) - Library-agnostic drawing and editing for MapLibre, OpenLayers, Leaflet and more. ![GitHub stars](https://img.shields.io/github/stars/JamesLMilner/terra-draw?style=social)
 - [TerriaJS](https://github.com/TerriaJS/terriajs) - A library for building rich, web-based geospatial data explorers. ![GitHub stars](https://img.shields.io/github/stars/TerriaJS/terriajs?style=social)
 - [Wrld.js](https://github.com/wrld3d/wrld.js/) - Animated 3D city maps based on Leaflet. ![GitHub stars](https://img.shields.io/github/stars/wrld3d/wrld.js?style=social)
 
@@ -77,6 +81,7 @@ Libraries for creating web maps:
 Libraries that help you analyse and process geospatial data:
 - [Arc.js](https://github.com/springmeyer/arc.js) - Calculate great circles routes as lines in GeoJSON or WKT format. ![GitHub stars](https://img.shields.io/github/stars/springmeyer/arc.js?style=social)
 - [awesome-GeoJSON](https://github.com/tmcw/awesome-geojson) - Catalogue of GeoJSON tools. ![GitHub stars](https://img.shields.io/github/stars/tmcw/awesome-geojson?style=social)
+- [DuckDB-Wasm](https://github.com/duckdb/duckdb-wasm) - In-browser SQL engine with GeoParquet support and spatial queries. ![GitHub stars](https://img.shields.io/github/stars/duckdb/duckdb-wasm?style=social)
 - [Euclid.ts](https://github.com/mathigon/euclid.js) - 2D Euclidean geometry classes, utilities, and drawing tools. ![GitHub stars](https://img.shields.io/github/stars/mathigon/euclid.js?style=social)
 - [flatbush](https://github.com/mourner/flatbush) - A really fast static spatial index for 2D points and rectangles in JavaScript. ![GitHub stars](https://img.shields.io/github/stars/mourner/flatbush?style=social)
 - [FlatGeoBuf](https://github.com/flatgeobuf/flatgeobuf) - A performant binary encoding for geographic data based on flatbuffers. ![GitHub stars](https://img.shields.io/github/stars/flatgeobuf/flatgeobuf?style=social)
@@ -95,7 +100,9 @@ Libraries that help you analyse and process geospatial data:
 - [geotoolbox](https://github.com/neocarto/geotoolbox) - Provides several GIS operations for use with geojson properties. ![GitHub stars](https://img.shields.io/github/stars/neocarto/geotoolbox?style=social)
 - [JSTS](https://github.com/bjornharrtell/jsts) - JavaScript Topology Suite. ![GitHub stars](https://img.shields.io/github/stars/bjornharrtell/jsts?style=social)
 - [koop](https://github.com/koopjs/koop) - A JavaScript toolkit for connecting incompatible spatial APIs. ![GitHub stars](https://img.shields.io/github/stars/koopjs/koop?style=social)
+- [loaders.gl](https://github.com/visgl/loaders.gl) - Loaders for geospatial and 3D formats such as MVT, Shapefile, 3D Tiles, LAS/LAZ and COG. ![GitHub stars](https://img.shields.io/github/stars/visgl/loaders.gl?style=social)
 - [math.gl](https://github.com/uber-web/math.gl) - JavaScript math library focused on Geospatial and 3D use cases. ![GitHub stars](https://img.shields.io/github/stars/uber-web/math.gl?style=social)
+- [PMTiles](https://github.com/protomaps/PMTiles) - Single-file tile archive format that can be read in the browser via HTTP range requests. ![GitHub stars](https://img.shields.io/github/stars/protomaps/PMTiles?style=social)
 - [Proj4js](https://github.com/proj4js/proj4js) - Transform coordinates from one coordinate system to another. ![GitHub stars](https://img.shields.io/github/stars/proj4js/proj4js?style=social)
 - [rbush](https://github.com/mourner/rbush) - A high-performance JavaScript library for 2D spatial indexing. ![GitHub stars](https://img.shields.io/github/stars/mourner/rbush?style=social)
 - [spl.js](https://github.com/jvail/spl.js) - Makes it possible to use SpatiaLite functionality in JavaScript. ![GitHub stars](https://img.shields.io/github/stars/jvail/spl.js?style=social)
@@ -122,6 +129,7 @@ Resources for frontend earth observation and remote sensing:
 - [Sentinel Hub custom scripts](https://github.com/sentinel-hub/custom-scripts) - A repository of custom scripts to be used with Sentinel Hub. ![GitHub stars](https://img.shields.io/github/stars/sentinel-hub/custom-scripts?style=social)
 - [sentinelhub-js](https://github.com/sentinel-hub/sentinelhub-js/) - Download and process satellite imagery using Sentinel Hub services. ![GitHub stars](https://img.shields.io/github/stars/sentinel-hub/sentinelhub-js?style=social)
 - [Spectral](https://github.com/awesome-spectral-indices/awesome-spectral-indices) - Awesome Spectral Indices for the Google Earth Engine JavaScript API. ![GitHub stars](https://img.shields.io/github/stars/awesome-spectral-indices/awesome-spectral-indices?style=social)
+- [STAC Browser](https://github.com/radiantearth/stac-browser) - Web UI for browsing and searching STAC catalogs and APIs. ![GitHub stars](https://img.shields.io/github/stars/radiantearth/stac-browser?style=social)
 
 
 ## 💾 Data sources 
@@ -175,6 +183,7 @@ Restful APIs for consuming geospatial data on the fly:
 - [OpenAQ](https://openaq.org/) - Largest open-source air quality data platform.
 - [OpenCage](https://opencagedata.com/api) - Forward and reverse geocoding API using open data.
 - [Open Charge Map API](https://openchargemap.org) - Public registry of electric vehicle charging locations.
+- [OpenFreeMap](https://github.com/hyperknot/openfreemap) - Free, self-hostable OpenStreetMap vector tiles with no API key. ![GitHub stars](https://img.shields.io/github/stars/hyperknot/openfreemap?style=social)
 - [Open-Meteo](https://open-meteo.com/) - Global weather forecast API.
 - [Open Notify](http://open-notify.org/Open-Notify-API/) - ISS location and number of people in space.
 - [Open Postcode Geo API](https://www.getthedata.com/open-postcode-geo-api) - British postcodes with geospatial data.
@@ -194,6 +203,7 @@ Restful APIs for consuming geospatial data on the fly:
 
 ### Collections 
 Compilations and repositories of open geospatial datasets:
+- [Awesome MapLibre](https://github.com/maplibre/awesome-maplibre) - Curated list of MapLibre resources. ![GitHub stars](https://img.shields.io/github/stars/maplibre/awesome-maplibre?style=social)
 - [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - An awesome repository full of open datasets from an abundance of different categories.  ![GitHub stars](https://img.shields.io/github/stars/awesomedata/awesome-public-datasets?style=social)
 - [David Rumsey map collection](https://www.davidrumsey.com/) - Historical map archives.
 - [Free GIS data](https://freegisdata.rtwilson.com/) - Links to over 500 sites providing freely available geographic datasets.
@@ -268,6 +278,7 @@ Plug-and-play geospatial web apps:
 - [GeoLibre](https://github.com/opengeos/GeoLibre) - A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data across desktop and web environments, with a responsive layout for mobile screens. ![GitHub stars](https://img.shields.io/github/stars/opengeos/GeoLibre?style=social)
 - [geotiff.io](http://app.geotiff.io/) - Provides quick access to easy-to-use raster processing.
 - [gpx studio](https://github.com/gpxstudio/gpxstudio.github.io) - Online tool for GPX editing.
+- [iD](https://github.com/openstreetmap/iD) - The OpenStreetMap web map editor. ![GitHub stars](https://img.shields.io/github/stars/openstreetmap/iD?style=social)
 - [IMAGE](https://gisco-services.ec.europa.eu/image/) - Tool for generating thematic maps.
 - [Kepler](https://kepler.gl/demo) - A powerful open-source geospatial analysis tool for large-scale datasets.
 - [magrit](https://magrit.cnrs.fr/) - An online application for thematic mapping.
